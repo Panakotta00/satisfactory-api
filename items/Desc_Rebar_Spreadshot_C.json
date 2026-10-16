@@ -1,0 +1,29 @@
+{
+	"name": "Shatter Rebar",
+	"className": "Desc_Rebar_Spreadshot_C",
+	"description": "Fractures when shot, launching deadly debris with wide spread but limited range.",
+	"abbreviatedDisplayName": "ShR",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 332,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Ammunition_C",
+	"menuPriority": 103
+}

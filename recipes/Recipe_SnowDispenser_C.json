@@ -1,0 +1,30 @@
+{
+	"name": "FICSMAS Snow Dispenser",
+	"className": "Recipe_SnowDispenser_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_CandyCane_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_Snow_C",
+			"amount": 100
+		},
+		{
+			"item": "Desc_XmasBall4_C",
+			"amount": 20
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_SnowDispenser_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

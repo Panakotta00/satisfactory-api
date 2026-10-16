@@ -1,0 +1,28 @@
+{
+	"name": "Fabric",
+	"className": "Recipe_Fabric_C",
+	"duration": 4,
+	"manualDuration": 4,
+	"manufacturingMenuPriority": 5,
+	"ingredients": [
+		{
+			"item": "Desc_Mycelia_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_GenericBiomass_C",
+			"amount": 5
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Fabric_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C",
+		"BP_WorkBenchComponent_C",
+		"FGBuildableAutomatedWorkBench"
+	]
+}

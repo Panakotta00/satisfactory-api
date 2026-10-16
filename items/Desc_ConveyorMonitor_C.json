@@ -1,0 +1,29 @@
+{
+	"name": "Conveyor Throughput Monitor",
+	"className": "Desc_ConveyorMonitor_C",
+	"description": "Attaches to Conveyor Belts.\r\nMonitors the number of parts travelling through it and displays the average throughput per minute.\r\n\r\nNOTE: Requires a full minute of data before complete accuracy is achieved.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_Logistics_C",
+	"menuPriority": 0
+}

@@ -1,0 +1,22 @@
+{
+	"name": "Sulfur (Coal)",
+	"className": "Recipe_Sulfur_Coal_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 7,
+	"ingredients": [
+		{
+			"item": "Desc_Coal_C",
+			"amount": 24
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Sulfur_C",
+			"amount": 12
+		}
+	],
+	"producedIn": [
+		"Build_Converter_C"
+	]
+}

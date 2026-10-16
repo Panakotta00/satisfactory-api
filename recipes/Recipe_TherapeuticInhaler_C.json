@@ -1,0 +1,30 @@
+{
+	"name": "Therapeutic Inhaler",
+	"className": "Recipe_TherapeuticInhaler_C",
+	"duration": 20,
+	"manualDuration": 20,
+	"manufacturingMenuPriority": 7,
+	"ingredients": [
+		{
+			"item": "Desc_Mycelia_C",
+			"amount": 15
+		},
+		{
+			"item": "Desc_AlienProtein_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_Shroom_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Medkit_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_WorkshopComponent_C"
+	]
+}

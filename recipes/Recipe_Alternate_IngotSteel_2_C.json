@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Compacted Steel Pipe",
+	"className": "Recipe_Alternate_IngotSteel_2_C",
+	"duration": 12,
+	"manualDuration": 12,
+	"manufacturingMenuPriority": 7,
+	"ingredients": [
+		{
+			"item": "Desc_OreIron_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_CompactedCoal_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_FoundryMk1_C"
+	]
+}

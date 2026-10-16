@@ -1,0 +1,26 @@
+{
+	"name": "Object Scanner",
+	"className": "Recipe_ObjectScanner_C",
+	"duration": 40,
+	"manualDuration": 40,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 4
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 20
+		}
+	],
+	"products": [
+		{
+			"item": "BP_EquipmentDescriptorObjectScanner_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_WorkshopComponent_C"
+	]
+}

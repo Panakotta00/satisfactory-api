@@ -1,0 +1,30 @@
+{
+	"name": "Excited Photonic Matter",
+	"className": "Desc_QuantumEnergy_C",
+	"description": "Excited Photonic Matter is essential for all production processes in the Quantum Encoder.\r\n\r\nFormed in the Converter by inducing intense photon interactions through exposure to SAM in a high-energy environment.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 50000,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 100,
+	"form": "RF_GAS",
+	"gasType": "GT_ENERGY",
+	"fluidColor":
+	{
+		"r": 118,
+		"g": 245,
+		"b": 232,
+		"a": 90
+	},
+	"gasColor":
+	{
+		"r": 76,
+		"g": 102,
+		"b": 132,
+		"a": 0
+	},
+	"category": "Cat_Quantum_C",
+	"menuPriority": 0
+}

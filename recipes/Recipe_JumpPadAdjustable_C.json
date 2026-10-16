@@ -1,0 +1,30 @@
+{
+	"name": "Jump Pad",
+	"className": "Recipe_JumpPadAdjustable_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Rotor_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 15
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 10
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_JumpPadAdjustable_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

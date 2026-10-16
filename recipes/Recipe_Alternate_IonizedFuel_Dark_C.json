@@ -1,0 +1,30 @@
+{
+	"name": "Alternate: Dark-Ion Fuel",
+	"className": "Recipe_Alternate_IonizedFuel_Dark_C",
+	"duration": 6,
+	"manualDuration": 594,
+	"manufacturingMenuPriority": 1,
+	"ingredients": [
+		{
+			"item": "Desc_Fuel_C",
+			"amount": 12
+		},
+		{
+			"item": "Desc_DarkMatter_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_IonizedFuel_C",
+			"amount": 9000
+		},
+		{
+			"item": "Desc_Coal_C",
+			"amount": 24
+		}
+	],
+	"producedIn": [
+		"Build_Converter_C"
+	]
+}

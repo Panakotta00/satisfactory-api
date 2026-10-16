@@ -1,0 +1,29 @@
+{
+	"name": "Packaged Ionized Fuel",
+	"className": "Desc_PackagedIonizedFuel_C",
+	"description": "Ionized Fuel, packaged for alternative transport. Can be used as fuel for vehicles and the Jetpack.",
+	"abbreviatedDisplayName": "Ion",
+	"stackSize": 100,
+	"energyValue": 10000,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 5246,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Packaging_C",
+	"menuPriority": 0
+}

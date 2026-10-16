@@ -1,0 +1,30 @@
+{
+	"name": "Ionized Fuel",
+	"className": "Recipe_IonizedFuel_C",
+	"duration": 10,
+	"manualDuration": 10,
+	"manufacturingMenuPriority": 6,
+	"ingredients": [
+		{
+			"item": "Desc_LiquidFuel_C",
+			"amount": 25000
+		},
+		{
+			"item": "Desc_CrystalShard_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_IonizedFuel_C",
+			"amount": 10000
+		},
+		{
+			"item": "Desc_Coal_C",
+			"amount": 10
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

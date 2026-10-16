@@ -1,0 +1,22 @@
+{
+	"name": "Conveyor Belt Mk.6",
+	"className": "Recipe_ConveyorBeltMk6_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_FicsiteMesh_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_ConveyorBeltMk6_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

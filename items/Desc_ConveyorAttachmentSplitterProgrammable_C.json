@@ -1,0 +1,29 @@
+{
+	"name": "Programmable Splitter",
+	"className": "Desc_ConveyorAttachmentSplitterProgrammable_C",
+	"description": "Splits one Conveyor Belt into two or three. \r\nMultiple filters can be set for each output to allow specific parts to pass through.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_Logistics_C",
+	"menuPriority": 4
+}

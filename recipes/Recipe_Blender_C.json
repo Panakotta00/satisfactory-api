@@ -1,0 +1,34 @@
+{
+	"name": "Blender",
+	"className": "Recipe_Blender_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_ModularFrame_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_Motor_C",
+			"amount": 20
+		},
+		{
+			"item": "Desc_AluminumPlateReinforced_C",
+			"amount": 50
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Blender_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

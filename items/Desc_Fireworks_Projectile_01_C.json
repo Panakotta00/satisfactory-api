@@ -1,0 +1,29 @@
+{
+	"name": "Sweet Fireworks",
+	"className": "Desc_Fireworks_Projectile_01_C",
+	"description": "Has the minimum safety requirements.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 60,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_FICSMAS_C",
+	"menuPriority": 0
+}

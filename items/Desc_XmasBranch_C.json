@@ -1,0 +1,29 @@
+{
+	"name": "FICSMAS Tree Branch",
+	"className": "Desc_XmasBranch_C",
+	"description": "This FICSMAS Tree Branch is very different from regular tree branches: it's used to produce parts and buildings during the FICSMAS event, rather than for combustion.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 500,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 2,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_FICSMAS_C",
+	"menuPriority": 0
+}

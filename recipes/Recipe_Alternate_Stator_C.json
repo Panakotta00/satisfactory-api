@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Quickwire Stator",
+	"className": "Recipe_Alternate_Stator_C",
+	"duration": 15,
+	"manualDuration": 15,
+	"manufacturingMenuPriority": 4,
+	"ingredients": [
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 4
+		},
+		{
+			"item": "Desc_HighSpeedWire_C",
+			"amount": 15
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Stator_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

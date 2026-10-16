@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Rigor Motor",
+	"className": "Recipe_Alternate_Motor_1_C",
+	"duration": 24,
+	"manualDuration": 24,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 3
+		},
+		{
+			"item": "Desc_CrystalOscillator_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Motor_C",
+			"amount": 6
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

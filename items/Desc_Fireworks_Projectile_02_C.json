@@ -1,0 +1,29 @@
+{
+	"name": "Fancy Fireworks",
+	"className": "Desc_Fireworks_Projectile_02_C",
+	"description": "Poses acceptable amount of risk to pioneers.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 40,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_FICSMAS_C",
+	"menuPriority": 0
+}

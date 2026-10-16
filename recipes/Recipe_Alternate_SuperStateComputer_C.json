@@ -1,0 +1,30 @@
+{
+	"name": "Alternate: Super-State Computer",
+	"className": "Recipe_Alternate_SuperStateComputer_C",
+	"duration": 25,
+	"manualDuration": 25,
+	"manufacturingMenuPriority": 3,
+	"ingredients": [
+		{
+			"item": "Desc_Computer_C",
+			"amount": 6
+		},
+		{
+			"item": "Desc_ElectromagneticControlRod_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_Battery_C",
+			"amount": 10
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_ComputerSuper_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_ManufacturerMk1_C"
+	]
+}

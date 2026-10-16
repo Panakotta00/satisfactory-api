@@ -1,0 +1,22 @@
+{
+	"name": "Alternate: Iron Cable",
+	"className": "Recipe_Alternate_Wire_1_C",
+	"duration": 24,
+	"manualDuration": 24,
+	"manufacturingMenuPriority": 1,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 10
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Cable_C",
+			"amount": 9
+		}
+	],
+	"producedIn": [
+		"Build_ConstructorMk1_C"
+	]
+}

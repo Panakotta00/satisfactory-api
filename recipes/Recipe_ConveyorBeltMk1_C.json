@@ -1,0 +1,22 @@
+{
+	"name": "Conveyor Belt Mk.1",
+	"className": "Recipe_ConveyorBeltMk1_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_OreIron_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_ConveyorBeltMk1_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

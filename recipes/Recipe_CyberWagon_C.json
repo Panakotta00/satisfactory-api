@@ -1,0 +1,22 @@
+{
+	"name": "Cyber Wagon",
+	"className": "Recipe_CyberWagon_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlateReinforced_C",
+			"amount": 10
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_CyberWagon_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

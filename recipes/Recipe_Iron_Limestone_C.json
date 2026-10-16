@@ -1,0 +1,22 @@
+{
+	"name": "Iron Ore (Limestone)",
+	"className": "Recipe_Iron_Limestone_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Stone_C",
+			"amount": 24
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_OreIron_C",
+			"amount": 12
+		}
+	],
+	"producedIn": [
+		"Build_Converter_C"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"name": "Nobelisk Detonator",
+	"className": "Recipe_NobeliskDetonator_C",
+	"duration": 80,
+	"manualDuration": 80,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "BP_EquipmentDescriptorObjectScanner_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 50
+		}
+	],
+	"products": [
+		{
+			"item": "BP_EquipmentDescriptorNobeliskDetonator_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_WorkshopComponent_C"
+	]
+}

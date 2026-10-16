@@ -1,0 +1,12 @@
+{
+	"name": "Swatch 11",
+	"className": "Recipe_Swatch_Slot11_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [],
+	"products": [],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

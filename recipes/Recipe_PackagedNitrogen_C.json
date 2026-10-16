@@ -1,0 +1,26 @@
+{
+	"name": "Packaged Nitrogen Gas",
+	"className": "Recipe_PackagedNitrogen_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 10,
+	"ingredients": [
+		{
+			"item": "Desc_NitrogenGas_C",
+			"amount": 4000
+		},
+		{
+			"item": "Desc_GasTank_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PackagedNitrogenGas_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_Packager_C"
+	]
+}

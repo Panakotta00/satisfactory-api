@@ -1,0 +1,26 @@
+{
+	"name": "Resource Well Extractor",
+	"className": "Recipe_FrackingExtractor_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_AluminumCasing_C",
+			"amount": 10
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_FrackingExtractor_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

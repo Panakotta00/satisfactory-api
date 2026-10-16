@@ -1,0 +1,22 @@
+{
+	"name": "Crafting Bench",
+	"className": "Recipe_WorkBench_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_OreIron_C",
+			"amount": 6
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_WorkBench_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

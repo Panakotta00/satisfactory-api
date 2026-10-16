@@ -1,0 +1,24 @@
+{
+	"name": "Biomass (Alien Protein)",
+	"className": "Recipe_Biomass_AlienProtein_C",
+	"duration": 4,
+	"manualDuration": 4,
+	"manufacturingMenuPriority": 4,
+	"ingredients": [
+		{
+			"item": "Desc_AlienProtein_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_GenericBiomass_C",
+			"amount": 100
+		}
+	],
+	"producedIn": [
+		"Build_ConstructorMk1_C",
+		"BP_WorkBenchComponent_C",
+		"FGBuildableAutomatedWorkBench"
+	]
+}

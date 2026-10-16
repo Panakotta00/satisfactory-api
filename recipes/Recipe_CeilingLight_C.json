@@ -1,0 +1,30 @@
+{
+	"name": "Ceiling Light",
+	"className": "Recipe_CeilingLight_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_HighSpeedWire_C",
+			"amount": 50
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 16
+		},
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 6
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_CeilingLight_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

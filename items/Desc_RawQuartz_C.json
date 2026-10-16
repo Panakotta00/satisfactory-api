@@ -1,0 +1,29 @@
+{
+	"name": "Raw Quartz",
+	"className": "Desc_RawQuartz_C",
+	"description": "Can be processed into Quartz Crystals and Silica, which both offer a variety of applications.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": true,
+	"resourceSinkPoints": 15,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_RawMaterials_C",
+	"menuPriority": 0
+}

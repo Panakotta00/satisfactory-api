@@ -1,0 +1,29 @@
+{
+	"name": "Caterium Ore",
+	"className": "Desc_OreGold_C",
+	"description": "Smelted into Caterium Ingots, which are primarily used for advanced electronics.",
+	"abbreviatedDisplayName": "Cat",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": true,
+	"resourceSinkPoints": 7,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_RawMaterials_C",
+	"menuPriority": 0
+}

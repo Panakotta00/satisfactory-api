@@ -1,0 +1,29 @@
+{
+	"name": "Pipeline Junction",
+	"className": "Desc_PipelineJunction_Cross_C",
+	"description": "Attaches to a Pipeline, allowing it to be split up to 4 ways.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_Logistics_C",
+	"menuPriority": 2
+}

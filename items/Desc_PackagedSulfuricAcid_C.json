@@ -1,0 +1,29 @@
+{
+	"name": "Packaged Sulfuric Acid",
+	"className": "Desc_PackagedSulfuricAcid_C",
+	"description": "Sulfuric Acid, packaged for alternative transport.",
+	"abbreviatedDisplayName": "SA",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 152,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 58,
+		"g": 83,
+		"b": 42,
+		"a": 255
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Packaging_C",
+	"menuPriority": 0
+}

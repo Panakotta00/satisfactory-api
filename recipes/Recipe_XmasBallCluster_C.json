@@ -1,0 +1,26 @@
+{
+	"name": "FICSMAS Ornament Bundle",
+	"className": "Recipe_XmasBallCluster_C",
+	"duration": 12,
+	"manualDuration": 12,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_XmasBall3_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_XmasBall4_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_XmasBallCluster_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"name": "Basic Shelf Unit",
+	"className": "Desc_StackableShelf_C",
+	"description": "A stackable shelf. Each one can hold two Personal Storage Boxes.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_Organization_C",
+	"menuPriority": 7
+}

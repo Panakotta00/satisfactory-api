@@ -1,0 +1,29 @@
+{
+	"name": "Small Pillar Support",
+	"className": "Desc_PillarBase_Small_C",
+	"description": "Snaps to Pillars. Can be placed on surfaces like Foundations and Walls.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_Decor_C",
+	"menuPriority": 10
+}

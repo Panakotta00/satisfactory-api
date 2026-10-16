@@ -1,0 +1,27 @@
+{
+	"name": "Black Powder",
+	"className": "Recipe_Gunpowder_C",
+	"duration": 4,
+	"manualDuration": 8,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Coal_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_Sulfur_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Gunpowder_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C",
+		"BP_WorkshopComponent_C"
+	]
+}

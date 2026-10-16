@@ -1,0 +1,29 @@
+{
+	"name": "Heat Sink",
+	"className": "Desc_AluminumPlateReinforced_C",
+	"description": "Used to dissipate heat faster.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 2804,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_IndustrialParts_C",
+	"menuPriority": 0
+}

@@ -1,0 +1,29 @@
+{
+	"name": "Electromagnetic Control Rod",
+	"className": "Desc_ElectromagneticControlRod_C",
+	"description": "Regulates power output via electromagnetism.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 2560,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Nuclear_C",
+	"menuPriority": 0
+}

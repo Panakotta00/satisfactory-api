@@ -1,0 +1,30 @@
+{
+	"name": "Light Control Panel",
+	"className": "Recipe_LightsControlPanel_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Cable_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_HighSpeedConnector_C",
+			"amount": 3
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_LightsControlPanel_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

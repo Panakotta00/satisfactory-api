@@ -1,0 +1,17 @@
+{
+	"name": "Explorer Vehicle Path",
+	"className": "Recipe_VehiclePath_Explorer_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [],
+	"products": [
+		{
+			"item": "Desc_VehiclePath_Explorer_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

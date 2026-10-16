@@ -1,0 +1,26 @@
+{
+	"name": "Turbofuel",
+	"className": "Recipe_Alternate_Turbofuel_C",
+	"duration": 16,
+	"manualDuration": 16,
+	"manufacturingMenuPriority": 4,
+	"ingredients": [
+		{
+			"item": "Desc_LiquidFuel_C",
+			"amount": 8000
+		},
+		{
+			"item": "Desc_CompactedCoal_C",
+			"amount": 6
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_LiquidTurboFuel_C",
+			"amount": 6000
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

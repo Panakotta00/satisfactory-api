@@ -1,0 +1,26 @@
+{
+	"name": "Parachute",
+	"className": "Recipe_Parachute_C",
+	"duration": 40,
+	"manualDuration": 40,
+	"manufacturingMenuPriority": 1,
+	"ingredients": [
+		{
+			"item": "Desc_Fabric_C",
+			"amount": 20
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 10
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Parachute_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_WorkshopComponent_C"
+	]
+}

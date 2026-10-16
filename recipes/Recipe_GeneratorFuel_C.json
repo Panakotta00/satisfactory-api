@@ -1,0 +1,34 @@
+{
+	"name": "Fuel-Powered Generator",
+	"className": "Recipe_GeneratorFuel_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Motor_C",
+			"amount": 15
+		},
+		{
+			"item": "Desc_HighSpeedWire_C",
+			"amount": 50
+		},
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 50
+		},
+		{
+			"item": "Desc_SteelPlateReinforced_C",
+			"amount": 15
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_GeneratorFuel_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

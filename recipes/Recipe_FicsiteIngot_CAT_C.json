@@ -1,0 +1,26 @@
+{
+	"name": "Ficsite Trigon (Caterium)",
+	"className": "Recipe_FicsiteIngot_CAT_C",
+	"duration": 4,
+	"manualDuration": 4,
+	"manufacturingMenuPriority": 1,
+	"ingredients": [
+		{
+			"item": "Desc_SAMIngot_C",
+			"amount": 3
+		},
+		{
+			"item": "Desc_OreGold_C",
+			"amount": 4
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_FicsiteMesh_C",
+			"amount": 3
+		}
+	],
+	"producedIn": [
+		"Build_Converter_C"
+	]
+}

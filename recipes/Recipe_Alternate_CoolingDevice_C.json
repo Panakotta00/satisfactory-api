@@ -1,0 +1,30 @@
+{
+	"name": "Alternate: Cooling Device",
+	"className": "Recipe_Alternate_CoolingDevice_C",
+	"duration": 12,
+	"manualDuration": 12,
+	"manufacturingMenuPriority": 2,
+	"ingredients": [
+		{
+			"item": "Desc_AluminumPlateReinforced_C",
+			"amount": 4
+		},
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 12
+		},
+		{
+			"item": "Desc_NitrogenGas_C",
+			"amount": 20000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_CoolingSystem_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_Blender_C"
+	]
+}

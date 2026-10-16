@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Heat Exchanger",
+	"className": "Recipe_Alternate_HeatSink_1_C",
+	"duration": 12,
+	"manualDuration": 12,
+	"manufacturingMenuPriority": 8,
+	"ingredients": [
+		{
+			"item": "Desc_PackagedNitrogenGas_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 12
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_AluminumPlateReinforced_C",
+			"amount": 4
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

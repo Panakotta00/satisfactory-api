@@ -1,0 +1,26 @@
+{
+	"name": "Protein Inhaler",
+	"className": "Recipe_MedicinalInhalerAlienOrgans_C",
+	"duration": 20,
+	"manualDuration": 20,
+	"manufacturingMenuPriority": 4,
+	"ingredients": [
+		{
+			"item": "Desc_AlienProtein_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_Nut_C",
+			"amount": 10
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Medkit_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_WorkshopComponent_C"
+	]
+}

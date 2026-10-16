@@ -1,0 +1,38 @@
+{
+	"name": "Alternate: OC Supercomputer",
+	"className": "Recipe_Alternate_OCSupercomputer_C",
+	"duration": 10,
+	"manualDuration": 10,
+	"manufacturingMenuPriority": 12,
+	"ingredients": [
+		{
+			"item": "Desc_ModularFrameLightweight_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_CoolingSystem_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_FicsiteMesh_C",
+			"amount": 16
+		},
+		{
+			"item": "Desc_QuantumEnergy_C",
+			"amount": 10000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_ComputerSuper_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_DarkEnergy_C",
+			"amount": 10000
+		}
+	],
+	"producedIn": [
+		"Build_QuantumEncoder_C"
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"name": "Biomass Burner",
+	"className": "Desc_GeneratorBiomass_Automated_C",
+	"description": "Burns various forms of Biomass to generate electricity for the power grid.\r\nHas a Conveyor Belt input port that allows the Biomass supply to be automated.\r\n\r\nResource consumption will automatically be lowered to meet power demands.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_Power_C",
+	"menuPriority": 1
+}

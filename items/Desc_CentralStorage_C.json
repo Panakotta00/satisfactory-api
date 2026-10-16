@@ -1,0 +1,29 @@
+{
+	"name": "Dimensional Depot Uploader",
+	"className": "Desc_CentralStorage_C",
+	"description": "The Dimensional Depot Uploader is used to upload resources to a dimensional storage deposit.\r\nFrom here resources can be used by the Build Gun and Crafting Stations, as if they were in the pioneer Inventory.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 1,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_Organization_C",
+	"menuPriority": 3
+}

@@ -1,0 +1,26 @@
+{
+	"name": "Liquid Biofuel",
+	"className": "Recipe_LiquidBiofuel_C",
+	"duration": 4,
+	"manualDuration": 4,
+	"manufacturingMenuPriority": 3,
+	"ingredients": [
+		{
+			"item": "Desc_Biofuel_C",
+			"amount": 6
+		},
+		{
+			"item": "Desc_Water_C",
+			"amount": 3000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_LiquidBiofuel_C",
+			"amount": 4000
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

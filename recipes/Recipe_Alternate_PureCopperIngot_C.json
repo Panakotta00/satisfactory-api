@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Pure Copper Cable",
+	"className": "Recipe_Alternate_PureCopperIngot_C",
+	"duration": 24,
+	"manualDuration": 24,
+	"manufacturingMenuPriority": 2,
+	"ingredients": [
+		{
+			"item": "Desc_OreCopper_C",
+			"amount": 6
+		},
+		{
+			"item": "Desc_Water_C",
+			"amount": 5000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Cable_C",
+			"amount": 15
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"name": "Alternate: Steel Rod",
+	"className": "Recipe_Alternate_SteelRod_C",
+	"duration": 5,
+	"manualDuration": 5,
+	"manufacturingMenuPriority": 2,
+	"ingredients": [
+		{
+			"item": "Desc_SteelIngot_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_IronRod_C",
+			"amount": 4
+		}
+	],
+	"producedIn": [
+		"Build_ConstructorMk1_C"
+	]
+}

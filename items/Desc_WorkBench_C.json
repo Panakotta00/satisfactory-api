@@ -1,0 +1,29 @@
+{
+	"name": "Crafting Bench",
+	"className": "Desc_WorkBench_C",
+	"description": "Allows you to manually craft a wide range of different parts. \r\nThese parts can then be used to construct various factory buildings, vehicles, and equipment.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_TradingPost_C",
+	"menuPriority": 1
+}

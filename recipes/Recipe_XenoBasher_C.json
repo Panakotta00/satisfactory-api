@@ -1,0 +1,34 @@
+{
+	"name": "Xeno-Basher",
+	"className": "Recipe_XenoBasher_C",
+	"duration": 80,
+	"manualDuration": 80,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "BP_EquipmentDescriptorShockShank_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_ModularFrame_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 25
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 200
+		}
+	],
+	"products": [
+		{
+			"item": "BP_EquipmentDescriptorStunSpear_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_WorkshopComponent_C"
+	]
+}

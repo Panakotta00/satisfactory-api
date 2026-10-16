@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Electrode Circuit Board",
+	"className": "Recipe_Alternate_ElectrodeCircuitBoard_C",
+	"duration": 12,
+	"manualDuration": 12,
+	"manufacturingMenuPriority": 5,
+	"ingredients": [
+		{
+			"item": "Desc_Rubber_C",
+			"amount": 4
+		},
+		{
+			"item": "Desc_PetroleumCoke_C",
+			"amount": 8
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_CircuitBoard_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

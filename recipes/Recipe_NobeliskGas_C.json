@@ -1,0 +1,27 @@
+{
+	"name": "Gas Nobelisk",
+	"className": "Recipe_NobeliskGas_C",
+	"duration": 12,
+	"manualDuration": 8.0000038146972656,
+	"manufacturingMenuPriority": 202,
+	"ingredients": [
+		{
+			"item": "Desc_NobeliskExplosive_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_GenericBiomass_C",
+			"amount": 10
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_NobeliskGas_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_WorkshopComponent_C",
+		"Build_AssemblerMk1_C"
+	]
+}

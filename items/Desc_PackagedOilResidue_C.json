@@ -1,0 +1,29 @@
+{
+	"name": "Packaged Heavy Oil Residue",
+	"className": "Desc_PackagedOilResidue_C",
+	"description": "Heavy Oil Residue, packaged for alternative transport. Can be used as fuel for vehicles.",
+	"abbreviatedDisplayName": "HOR",
+	"stackSize": 100,
+	"energyValue": 400,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 180,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 109,
+		"g": 45,
+		"b": 120,
+		"a": 255
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Packaging_C",
+	"menuPriority": 0
+}

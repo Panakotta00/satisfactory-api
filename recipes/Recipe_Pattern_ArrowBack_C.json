@@ -1,0 +1,12 @@
+{
+	"name": "N/A",
+	"className": "Recipe_Pattern_ArrowBack_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [],
+	"products": [],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

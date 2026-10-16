@@ -1,0 +1,30 @@
+{
+	"name": "Hypertube Entrance",
+	"className": "Recipe_PipeHyperStart_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 4
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 4
+		},
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 10
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PipeHyperStart_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

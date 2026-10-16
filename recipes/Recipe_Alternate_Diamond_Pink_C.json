@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Pink Diamonds",
+	"className": "Recipe_Alternate_Diamond_Pink_C",
+	"duration": 4,
+	"manualDuration": 396,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Coal_C",
+			"amount": 8
+		},
+		{
+			"item": "Desc_QuartzCrystal_C",
+			"amount": 3
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Diamond_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_Converter_C"
+	]
+}

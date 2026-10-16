@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Turbo Diamonds",
+	"className": "Recipe_Alternate_Diamond_Turbo_C",
+	"duration": 3,
+	"manualDuration": 297,
+	"manufacturingMenuPriority": 4,
+	"ingredients": [
+		{
+			"item": "Desc_Coal_C",
+			"amount": 30
+		},
+		{
+			"item": "Desc_TurboFuel_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Diamond_C",
+			"amount": 3
+		}
+	],
+	"producedIn": [
+		"Build_HadronCollider_C"
+	]
+}

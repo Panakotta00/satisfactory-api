@@ -1,0 +1,30 @@
+{
+	"name": "Alternate: Automated Speed Wiring",
+	"className": "Recipe_Alternate_HighSpeedWiring_C",
+	"duration": 32,
+	"manualDuration": 32,
+	"manufacturingMenuPriority": 2,
+	"ingredients": [
+		{
+			"item": "Desc_Stator_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_Wire_C",
+			"amount": 40
+		},
+		{
+			"item": "Desc_HighSpeedConnector_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_SpaceElevatorPart_3_C",
+			"amount": 4
+		}
+	],
+	"producedIn": [
+		"Build_ManufacturerMk1_C"
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"name": "Shatter Rebar",
+	"className": "Recipe_Rebar_Spreadshot_C",
+	"duration": 12,
+	"manualDuration": 12,
+	"manufacturingMenuPriority": 103,
+	"ingredients": [
+		{
+			"item": "Desc_SpikedRebar_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_QuartzCrystal_C",
+			"amount": 3
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Rebar_Spreadshot_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C",
+		"BP_WorkshopComponent_C"
+	]
+}

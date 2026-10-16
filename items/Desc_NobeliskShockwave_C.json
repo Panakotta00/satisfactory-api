@@ -1,0 +1,29 @@
+{
+	"name": "Pulse Nobelisk",
+	"className": "Desc_NobeliskShockwave_C",
+	"description": "Generates a powerful shockwave instead of a regular explosion.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 50,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 1533,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Ammunition_C",
+	"menuPriority": 204
+}

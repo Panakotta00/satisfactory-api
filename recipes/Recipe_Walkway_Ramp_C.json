@@ -1,0 +1,17 @@
+{
+	"name": "Walkway Ramp",
+	"className": "Recipe_Walkway_Ramp_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [],
+	"products": [
+		{
+			"item": "Desc_WalkwayRamp_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

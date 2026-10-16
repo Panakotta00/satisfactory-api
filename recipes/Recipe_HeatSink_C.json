@@ -1,0 +1,26 @@
+{
+	"name": "Heat Sink",
+	"className": "Recipe_HeatSink_C",
+	"duration": 4,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 7,
+	"ingredients": [
+		{
+			"item": "Desc_NitrogenGas_C",
+			"amount": 5000
+		},
+		{
+			"item": "Desc_OreCopper_C",
+			"amount": 12
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_AluminumPlateReinforced_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"name": "Triple Frame Window",
+	"className": "Recipe_Wall_Window_8x4_07_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [],
+	"products": [
+		{
+			"item": "Desc_Wall_Window_8x4_07_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

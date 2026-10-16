@@ -1,0 +1,23 @@
+{
+	"name": "Solid Biofuel",
+	"className": "Recipe_Biofuel_C",
+	"duration": 4,
+	"manualDuration": 20,
+	"manufacturingMenuPriority": 5,
+	"ingredients": [
+		{
+			"item": "Desc_GenericBiomass_C",
+			"amount": 8
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Biofuel_C",
+			"amount": 4
+		}
+	],
+	"producedIn": [
+		"Build_ConstructorMk1_C",
+		"BP_WorkBenchComponent_C"
+	]
+}

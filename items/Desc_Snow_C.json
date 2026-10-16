@@ -1,0 +1,29 @@
+{
+	"name": "FICSMAS Actual Snow",
+	"className": "Desc_Snow_C",
+	"description": "This Actual Snow is made from several chemical elements and experiences 100% like naturally occuring snow after extensive user testing.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 500,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 5,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_FICSMAS_C",
+	"menuPriority": 0
+}

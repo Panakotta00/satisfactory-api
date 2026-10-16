@@ -1,0 +1,30 @@
+{
+	"name": "Power Storage",
+	"className": "Recipe_PowerStorageMk1_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_SteelPlateReinforced_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_ModularFrame_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 50
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PowerStorageMk1_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"name": "Fused Modular Frame",
+	"className": "Recipe_FusedModularFrame_C",
+	"duration": 20,
+	"manualDuration": 20,
+	"manufacturingMenuPriority": 3,
+	"ingredients": [
+		{
+			"item": "Desc_ModularFrame_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_AluminumCasing_C",
+			"amount": 50
+		},
+		{
+			"item": "Desc_NitrogenGas_C",
+			"amount": 25000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_ModularFrameFused_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_Blender_C"
+	]
+}

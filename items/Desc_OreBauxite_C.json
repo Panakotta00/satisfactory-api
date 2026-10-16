@@ -1,0 +1,29 @@
+{
+	"name": "Bauxite",
+	"className": "Desc_OreBauxite_C",
+	"description": "Used to produce Alumina, which can be further refined into the Aluminum Scrap required to produce Aluminum Ingots.",
+	"abbreviatedDisplayName": "Baux",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": true,
+	"resourceSinkPoints": 8,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_RawMaterials_C",
+	"menuPriority": 0
+}

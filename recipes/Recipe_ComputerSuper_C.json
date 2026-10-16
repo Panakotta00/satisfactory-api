@@ -1,0 +1,32 @@
+{
+	"name": "Supercomputer",
+	"className": "Recipe_ComputerSuper_C",
+	"duration": 16,
+	"manualDuration": 24,
+	"manufacturingMenuPriority": 2,
+	"ingredients": [
+		{
+			"item": "Desc_Computer_C",
+			"amount": 4
+		},
+		{
+			"item": "Desc_Battery_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_HighSpeedConnector_C",
+			"amount": 3
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_ComputerSuper_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_ManufacturerMk1_C",
+		"BP_WorkBenchComponent_C",
+		"FGBuildableAutomatedWorkBench"
+	]
+}

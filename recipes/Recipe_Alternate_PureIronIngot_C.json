@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Pure Iron Plate",
+	"className": "Recipe_Alternate_PureIronIngot_C",
+	"duration": 24,
+	"manualDuration": 24,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_OreIron_C",
+			"amount": 21
+		},
+		{
+			"item": "Desc_Water_C",
+			"amount": 8000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 26
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

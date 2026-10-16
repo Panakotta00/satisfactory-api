@@ -1,0 +1,29 @@
+{
+	"name": "Packaged Liquid Biofuel",
+	"className": "Desc_PackagedBiofuel_C",
+	"description": "Liquid Biofuel, packaged for alternative transport. Can be used as fuel for vehicles and the Jetpack.",
+	"abbreviatedDisplayName": "Bio",
+	"stackSize": 100,
+	"energyValue": 750,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 370,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 58,
+		"g": 83,
+		"b": 42,
+		"a": 255
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Packaging_C",
+	"menuPriority": 0
+}

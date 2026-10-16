@@ -1,0 +1,29 @@
+{
+	"name": "Alien Protein",
+	"className": "Desc_AlienProtein_C",
+	"description": "Ground-up Alien Remains in a neat little package.\r\nUsed for medical purposes and to research alien organisms.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_AlienRemains_C",
+	"menuPriority": 0
+}

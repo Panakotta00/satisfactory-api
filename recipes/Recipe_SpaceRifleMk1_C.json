@@ -1,0 +1,34 @@
+{
+	"name": "Rifle",
+	"className": "Recipe_SpaceRifleMk1_C",
+	"duration": 120,
+	"manualDuration": 120,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Motor_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 25
+		},
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 50
+		}
+	],
+	"products": [
+		{
+			"item": "BP_EquipmentDescriptorRifle_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_WorkshopComponent_C"
+	]
+}

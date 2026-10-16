@@ -1,0 +1,28 @@
+{
+	"name": "FICSIT Coupon",
+	"className": "Desc_ResourceSinkCoupon_C",
+	"description": "A special FICSIT bonus program Coupon, obtained through the AWESOME Sink.\r\nCan be redeemed in the AWESOME Shop for bonus milestones and rewards.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 500,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 1,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"menuPriority": 0
+}

@@ -1,0 +1,29 @@
+{
+	"name": "Ficsonium Fuel Rod",
+	"className": "Desc_FicsoniumFuelRod_C",
+	"description": "Used as fuel for Nuclear Power Plants.\r\nThe power source that put FICSIT on the map. Literally. The crater is still there.\r\n\r\nCaution: Moderately Radioactive.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 50,
+	"energyValue": 150000,
+	"radioactiveDecay": 1000,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Nuclear_C",
+	"menuPriority": 0
+}

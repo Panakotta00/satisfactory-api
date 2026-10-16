@@ -1,0 +1,38 @@
+{
+	"name": "Alien Power Matrix",
+	"className": "Recipe_AlienPowerFuel_C",
+	"duration": 24,
+	"manualDuration": 24,
+	"manufacturingMenuPriority": 2,
+	"ingredients": [
+		{
+			"item": "Desc_FicsiteMesh_C",
+			"amount": 96
+		},
+		{
+			"item": "Desc_CrystalShard_C",
+			"amount": 6
+		},
+		{
+			"item": "Desc_CrystalOscillator_C",
+			"amount": 6
+		},
+		{
+			"item": "Desc_QuantumEnergy_C",
+			"amount": 24000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_AlienPowerFuel_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_DarkEnergy_C",
+			"amount": 24000
+		}
+	],
+	"producedIn": [
+		"Build_QuantumEncoder_C"
+	]
+}

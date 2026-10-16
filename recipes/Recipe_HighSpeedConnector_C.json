@@ -1,0 +1,28 @@
+{
+	"name": "High-Speed Connector",
+	"className": "Recipe_HighSpeedConnector_C",
+	"duration": 8,
+	"manualDuration": 8,
+	"manufacturingMenuPriority": 10,
+	"ingredients": [
+		{
+			"item": "Desc_HighSpeedWire_C",
+			"amount": 48
+		},
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 4
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_HighSpeedConnector_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C",
+		"BP_WorkBenchComponent_C",
+		"FGBuildableAutomatedWorkBench"
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"name": "Bauxite (Caterium)",
+	"className": "Recipe_Bauxite_Caterium_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 13,
+	"ingredients": [
+		{
+			"item": "Desc_OreGold_C",
+			"amount": 24
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_OreBauxite_C",
+			"amount": 12
+		}
+	],
+	"producedIn": [
+		"Build_Converter_C"
+	]
+}

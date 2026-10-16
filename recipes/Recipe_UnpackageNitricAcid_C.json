@@ -1,0 +1,26 @@
+{
+	"name": "Unpackage Nitric Acid",
+	"className": "Recipe_UnpackageNitricAcid_C",
+	"duration": 3,
+	"manualDuration": 3,
+	"manufacturingMenuPriority": 11,
+	"ingredients": [
+		{
+			"item": "Desc_PackagedNitricAcid_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_NitricAcid_C",
+			"amount": 1000
+		},
+		{
+			"item": "Desc_GasTank_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_Packager_C"
+	]
+}

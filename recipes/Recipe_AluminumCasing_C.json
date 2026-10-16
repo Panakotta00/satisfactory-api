@@ -1,0 +1,30 @@
+{
+	"name": "Aluminum Casing",
+	"className": "Recipe_AluminumCasing_C",
+	"duration": 2,
+	"manualDuration": 4,
+	"manufacturingMenuPriority": 4,
+	"ingredients": [
+		{
+			"item": "Desc_AluminaSolution_C",
+			"amount": 4000
+		},
+		{
+			"item": "Desc_Coal_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_AluminumCasing_C",
+			"amount": 6
+		},
+		{
+			"item": "Desc_Water_C",
+			"amount": 2000
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

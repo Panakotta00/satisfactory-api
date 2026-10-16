@@ -1,0 +1,29 @@
+{
+	"name": "Circuit Board",
+	"className": "Desc_CircuitBoard_C",
+	"description": "Advanced electronics that have a plethora of different uses.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 200,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 696,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Electronics_C",
+	"menuPriority": 0
+}

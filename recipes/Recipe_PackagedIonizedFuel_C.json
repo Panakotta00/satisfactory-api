@@ -1,0 +1,26 @@
+{
+	"name": "Packaged Ionized Fuel",
+	"className": "Recipe_PackagedIonizedFuel_C",
+	"duration": 3,
+	"manualDuration": 3,
+	"manufacturingMenuPriority": 7,
+	"ingredients": [
+		{
+			"item": "Desc_IonizedFuel_C",
+			"amount": 4000
+		},
+		{
+			"item": "Desc_GasTank_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PackagedIonizedFuel_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_Packager_C"
+	]
+}

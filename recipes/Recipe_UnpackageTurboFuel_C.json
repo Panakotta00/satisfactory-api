@@ -1,0 +1,26 @@
+{
+	"name": "Unpackage Turbofuel",
+	"className": "Recipe_UnpackageTurboFuel_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 5,
+	"ingredients": [
+		{
+			"item": "Desc_TurboFuel_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_LiquidTurboFuel_C",
+			"amount": 2000
+		},
+		{
+			"item": "Desc_FluidCanister_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_Packager_C"
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Recycled Rubber",
+	"className": "Recipe_Alternate_RecycledRubber_C",
+	"duration": 12,
+	"manualDuration": 12,
+	"manufacturingMenuPriority": 6,
+	"ingredients": [
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 6
+		},
+		{
+			"item": "Desc_LiquidFuel_C",
+			"amount": 6000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Rubber_C",
+			"amount": 12
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

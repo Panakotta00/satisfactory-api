@@ -1,0 +1,34 @@
+{
+	"name": "FICSMAS Gift Tree",
+	"className": "Recipe_TreeGiftProducer_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Gift_C",
+			"amount": 50
+		},
+		{
+			"item": "Desc_XmasBranch_C",
+			"amount": 100
+		},
+		{
+			"item": "Desc_XmasBall1_C",
+			"amount": 30
+		},
+		{
+			"item": "Desc_XmasBall2_C",
+			"amount": 30
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_TreeGiftProducer_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

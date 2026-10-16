@@ -1,0 +1,22 @@
+{
+	"name": "Raw Quartz (Coal)",
+	"className": "Recipe_Quartz_Coal_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 10,
+	"ingredients": [
+		{
+			"item": "Desc_Coal_C",
+			"amount": 24
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_RawQuartz_C",
+			"amount": 12
+		}
+	],
+	"producedIn": [
+		"Build_Converter_C"
+	]
+}

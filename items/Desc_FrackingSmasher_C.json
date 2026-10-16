@@ -1,0 +1,29 @@
+{
+	"name": "Resource Well Pressurizer",
+	"className": "Desc_FrackingSmasher_C",
+	"description": "Activates a Resource Well by pressurizing the underground resource. Must be placed on a Resource Well.\r\nOnce activated, Resource Well Extractors can be placed on the surrounding sub-nodes to extract the resource.\r\nRequires power. Overclocking increases the output potential of the entire Resource Well.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_Production_C",
+	"menuPriority": 3
+}

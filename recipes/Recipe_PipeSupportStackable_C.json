@@ -1,0 +1,26 @@
+{
+	"name": "Stackable Pipeline Support",
+	"className": "Recipe_PipeSupportStackable_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_OreIron_C",
+			"amount": 4
+		},
+		{
+			"item": "Desc_Stone_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PipeSupportStackable_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"name": "N/A",
+	"className": "Recipe_SkinFicsmas_Default_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Gift_C",
+			"amount": 1
+		}
+	],
+	"products": [],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

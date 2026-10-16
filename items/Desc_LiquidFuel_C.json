@@ -1,0 +1,29 @@
+{
+	"name": "Fuel",
+	"className": "Desc_LiquidFuel_C",
+	"description": "Can be used as-is to generate power, or packaged to be used as fuel for vehicles or the Jetpack.",
+	"abbreviatedDisplayName": "Fuel",
+	"stackSize": 50000,
+	"energyValue": 0.75,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 75,
+	"form": "RF_LIQUID",
+	"fluidColor":
+	{
+		"r": 235,
+		"g": 125,
+		"b": 21,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Fuel_C",
+	"menuPriority": 0
+}

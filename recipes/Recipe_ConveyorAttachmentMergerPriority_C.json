@@ -1,0 +1,26 @@
+{
+	"name": "Priority Merger",
+	"className": "Recipe_ConveyorAttachmentMergerPriority_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_ModularFrame_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_CrystalOscillator_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_ConveyorAttachmentMergerPriority_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

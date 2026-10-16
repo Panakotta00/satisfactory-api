@@ -1,0 +1,29 @@
+{
+	"name": "Hog Remains",
+	"className": "Desc_HogParts_C",
+	"description": "The carapace of an alien Hog creature.\r\nUsed for MAM research.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 50,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": true,
+	"resourceSinkPoints": 0,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Biomass_C",
+	"menuPriority": 0
+}

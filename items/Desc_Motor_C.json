@@ -1,0 +1,29 @@
+{
+	"name": "Motor",
+	"className": "Desc_Motor_C",
+	"description": "Creates a mechanical force that is used to move things from machines to vehicles.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 50,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 1520,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_IndustrialParts_C",
+	"menuPriority": 0
+}

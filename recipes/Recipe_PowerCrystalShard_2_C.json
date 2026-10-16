@@ -1,0 +1,24 @@
+{
+	"name": "Power Shard (2)",
+	"className": "Recipe_PowerCrystalShard_2_C",
+	"duration": 12,
+	"manualDuration": 12,
+	"manufacturingMenuPriority": 1,
+	"ingredients": [
+		{
+			"item": "Desc_Crystal_mk2_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_CrystalShard_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_ConstructorMk1_C",
+		"BP_WorkBenchComponent_C",
+		"FGBuildableAutomatedWorkBench"
+	]
+}

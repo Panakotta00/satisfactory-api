@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Steeled Frame",
+	"className": "Recipe_Alternate_ModularFrame_C",
+	"duration": 30,
+	"manualDuration": 30,
+	"manufacturingMenuPriority": 12,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 10
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_ModularFrame_C",
+			"amount": 3
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

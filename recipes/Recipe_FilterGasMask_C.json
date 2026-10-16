@@ -1,0 +1,31 @@
+{
+	"name": "Gas Filter",
+	"className": "Recipe_FilterGasMask_C",
+	"duration": 8,
+	"manualDuration": 8,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Fabric_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_Coal_C",
+			"amount": 4
+		},
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Filter_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_ManufacturerMk1_C",
+		"BP_WorkshopComponent_C"
+	]
+}

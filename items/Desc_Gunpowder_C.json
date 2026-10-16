@@ -1,0 +1,29 @@
+{
+	"name": "Black Powder",
+	"className": "Desc_Gunpowder_C",
+	"description": "An explosive powder that is commonly used to produce simple explosives.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 200,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 14,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Ammunition_C",
+	"menuPriority": 0
+}

@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Plutonium Fuel Unit",
+	"className": "Recipe_Alternate_PlutoniumFuelUnit_C",
+	"duration": 120,
+	"manualDuration": 120,
+	"manufacturingMenuPriority": 4,
+	"ingredients": [
+		{
+			"item": "Desc_PlutoniumCell_C",
+			"amount": 20
+		},
+		{
+			"item": "Desc_PressureConversionCube_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PlutoniumFuelRod_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

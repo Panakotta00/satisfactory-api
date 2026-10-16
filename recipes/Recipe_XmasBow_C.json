@@ -1,0 +1,22 @@
+{
+	"name": "FICSMAS Bow",
+	"className": "Recipe_XmasBow_C",
+	"duration": 12,
+	"manualDuration": 12,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Gift_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_XmasBow_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_ConstructorMk1_C"
+	]
+}

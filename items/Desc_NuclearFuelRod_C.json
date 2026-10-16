@@ -1,0 +1,29 @@
+{
+	"name": "Uranium Fuel Rod",
+	"className": "Desc_NuclearFuelRod_C",
+	"description": "Used as fuel for Nuclear Power Plants.\r\n\r\nCaution: Produces radioactive Uranium Waste when consumed.\r\nCaution: Moderately Radioactive.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 50,
+	"energyValue": 750000,
+	"radioactiveDecay": 50,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 43468,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Nuclear_C",
+	"menuPriority": 0
+}

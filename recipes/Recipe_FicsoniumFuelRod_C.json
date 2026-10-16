@@ -1,0 +1,38 @@
+{
+	"name": "Ficsonium Fuel Rod",
+	"className": "Recipe_FicsoniumFuelRod_C",
+	"duration": 20,
+	"manualDuration": 20,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_NuclearWaste_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_ElectromagneticControlRod_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_FicsiteMesh_C",
+			"amount": 40
+		},
+		{
+			"item": "Desc_QuantumEnergy_C",
+			"amount": 20000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_FicsoniumFuelRod_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_DarkEnergy_C",
+			"amount": 20000
+		}
+	],
+	"producedIn": [
+		"Build_QuantumEncoder_C"
+	]
+}

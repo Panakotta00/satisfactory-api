@@ -1,0 +1,22 @@
+{
+	"name": "Alternate: Pure Aluminum Ingot",
+	"className": "Recipe_PureAluminumIngot_C",
+	"duration": 2,
+	"manualDuration": 2,
+	"manufacturingMenuPriority": 6,
+	"ingredients": [
+		{
+			"item": "Desc_AluminumScrap_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_AluminumIngot_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_SmelterMk1_C"
+	]
+}

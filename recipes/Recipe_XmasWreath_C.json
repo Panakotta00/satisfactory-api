@@ -1,0 +1,26 @@
+{
+	"name": "FICSMAS Wreath",
+	"className": "Recipe_XmasWreath_C",
+	"duration": 60,
+	"manualDuration": 60,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_XmasBranch_C",
+			"amount": 15
+		},
+		{
+			"item": "Desc_XmasBallCluster_C",
+			"amount": 6
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_XmasWreath_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

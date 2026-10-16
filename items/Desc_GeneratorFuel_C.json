@@ -1,0 +1,29 @@
+{
+	"name": "Fuel-Powered Generator",
+	"className": "Desc_GeneratorFuel_C",
+	"description": "Consumes Fuel to generate electricity for the power grid.\r\nHas a Pipeline input port that allows the Fuel supply to be automated.\r\n\r\nCaution: Always generates power at the set clock speed. Shuts down if fuel requirements are not met.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_Power_C",
+	"menuPriority": 6
+}

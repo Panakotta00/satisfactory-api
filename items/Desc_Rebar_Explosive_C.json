@@ -1,0 +1,29 @@
+{
+	"name": "Explosive Rebar",
+	"className": "Desc_Rebar_Explosive_C",
+	"description": "Explodes on impact, dealing heavy damage.",
+	"abbreviatedDisplayName": "ER",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 360,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Ammunition_C",
+	"menuPriority": 104
+}

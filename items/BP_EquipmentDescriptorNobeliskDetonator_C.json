@@ -1,0 +1,29 @@
+{
+	"name": "Nobelisk Detonator",
+	"className": "BP_EquipmentDescriptorNobeliskDetonator_C",
+	"description": "A remote-control device used to handle and detonate Nobelisks.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 1,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 6480,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Weapons_C",
+	"menuPriority": 0
+}

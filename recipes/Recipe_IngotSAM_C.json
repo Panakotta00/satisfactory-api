@@ -1,0 +1,23 @@
+{
+	"name": "Reanimated SAM",
+	"className": "Recipe_IngotSAM_C",
+	"duration": 2,
+	"manualDuration": 2,
+	"manufacturingMenuPriority": 13,
+	"ingredients": [
+		{
+			"item": "Desc_SAM_C",
+			"amount": 4
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_SAMIngot_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_ConstructorMk1_C",
+		"BP_WorkBenchComponent_C"
+	]
+}

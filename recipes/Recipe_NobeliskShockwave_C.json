@@ -1,0 +1,27 @@
+{
+	"name": "Pulse Nobelisk",
+	"className": "Recipe_NobeliskShockwave_C",
+	"duration": 60,
+	"manualDuration": 39.999958038330078,
+	"manufacturingMenuPriority": 204,
+	"ingredients": [
+		{
+			"item": "Desc_NobeliskExplosive_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_CrystalOscillator_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_NobeliskShockwave_C",
+			"amount": 5
+		}
+	],
+	"producedIn": [
+		"BP_WorkshopComponent_C",
+		"Build_AssemblerMk1_C"
+	]
+}

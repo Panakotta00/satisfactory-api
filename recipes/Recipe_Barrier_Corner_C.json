@@ -1,0 +1,17 @@
+{
+	"name": "Corner Road Barrier",
+	"className": "Recipe_Barrier_Corner_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [],
+	"products": [
+		{
+			"item": "Desc_Barrier_Corner_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

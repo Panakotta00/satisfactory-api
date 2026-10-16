@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Polyester Fabric",
+	"className": "Recipe_Alternate_PolyesterFabric_C",
+	"duration": 2,
+	"manualDuration": 2,
+	"manufacturingMenuPriority": 2,
+	"ingredients": [
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_Water_C",
+			"amount": 1000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Fabric_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

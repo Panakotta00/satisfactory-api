@@ -1,0 +1,27 @@
+{
+	"name": "Sweet Fireworks",
+	"className": "Recipe_Fireworks_01_C",
+	"duration": 24,
+	"manualDuration": 24,
+	"manufacturingMenuPriority": 3,
+	"ingredients": [
+		{
+			"item": "Desc_XmasBranch_C",
+			"amount": 6
+		},
+		{
+			"item": "Desc_CandyCane_C",
+			"amount": 3
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Fireworks_Projectile_01_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_WorkshopComponent_C",
+		"Build_AssemblerMk1_C"
+	]
+}

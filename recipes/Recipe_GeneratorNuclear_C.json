@@ -1,0 +1,38 @@
+{
+	"name": "Nuclear Power Plant",
+	"className": "Recipe_GeneratorNuclear_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Computer_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_ModularFrame_C",
+			"amount": 25
+		},
+		{
+			"item": "Desc_AluminumCasing_C",
+			"amount": 100
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 200
+		},
+		{
+			"item": "Desc_Cement_C",
+			"amount": 250
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_GeneratorNuclear_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

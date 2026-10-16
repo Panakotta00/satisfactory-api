@@ -1,0 +1,26 @@
+{
+	"name": "Vitamin Inhaler",
+	"className": "Recipe_MedicinalInhaler_C",
+	"duration": 20,
+	"manualDuration": 20,
+	"manufacturingMenuPriority": 6,
+	"ingredients": [
+		{
+			"item": "Desc_Mycelia_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_Berry_C",
+			"amount": 5
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Medkit_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_WorkshopComponent_C"
+	]
+}

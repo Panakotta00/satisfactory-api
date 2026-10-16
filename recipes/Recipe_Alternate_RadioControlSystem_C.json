@@ -1,0 +1,30 @@
+{
+	"name": "Alternate: Radio Control System",
+	"className": "Recipe_Alternate_RadioControlSystem_C",
+	"duration": 20,
+	"manualDuration": 20,
+	"manufacturingMenuPriority": 8,
+	"ingredients": [
+		{
+			"item": "Desc_CrystalOscillator_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_AluminumCasing_C",
+			"amount": 60
+		},
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 36
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_ModularFrameLightweight_C",
+			"amount": 3
+		}
+	],
+	"producedIn": [
+		"Build_ManufacturerMk1_C"
+	]
+}

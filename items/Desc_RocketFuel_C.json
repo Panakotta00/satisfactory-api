@@ -1,0 +1,30 @@
+{
+	"name": "Rocket Fuel",
+	"className": "Desc_RocketFuel_C",
+	"description": "A high-impulse compressed gas fuel.\r\nCan be used as-is to power Fuel-Powered Generators, or packaged to be used as fuel for vehicles or the Jetpack.",
+	"abbreviatedDisplayName": "Rocket",
+	"stackSize": 50000,
+	"energyValue": 3.5999999046325684,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 289,
+	"form": "RF_GAS",
+	"gasType": "GT_NORMAL",
+	"fluidColor":
+	{
+		"r": 189,
+		"g": 37,
+		"b": 26,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 223,
+		"g": 192,
+		"b": 1,
+		"a": 0
+	},
+	"category": "Cat_Fuel_C",
+	"menuPriority": 0
+}

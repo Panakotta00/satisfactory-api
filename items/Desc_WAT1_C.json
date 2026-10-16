@@ -1,0 +1,28 @@
+{
+	"name": "Somersloop",
+	"className": "Desc_WAT1_C",
+	"description": "An odd alien object with a mind-bending, yet somehow familiar shape. It emits an unsettling energy.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 50,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": false,
+	"rememberPickUp": true,
+	"resourceSinkPoints": 0,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"menuPriority": 0
+}

@@ -1,0 +1,26 @@
+{
+	"name": "Hypertube Support",
+	"className": "Recipe_PipeHyperSupport_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_OreIron_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_Stone_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PipeHyperSupport_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

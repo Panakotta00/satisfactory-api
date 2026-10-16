@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Compacted Coal",
+	"className": "Recipe_Alternate_EnrichedCoal_C",
+	"duration": 12,
+	"manualDuration": 12,
+	"manufacturingMenuPriority": 2,
+	"ingredients": [
+		{
+			"item": "Desc_Coal_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_Sulfur_C",
+			"amount": 5
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_CompactedCoal_C",
+			"amount": 5
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Coated Iron Canister",
+	"className": "Recipe_Alternate_CoatedIronCanister_C",
+	"duration": 4,
+	"manualDuration": 4,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_OreIron_C",
+			"amount": 4
+		},
+		{
+			"item": "Desc_OreCopper_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_FluidCanister_C",
+			"amount": 4
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

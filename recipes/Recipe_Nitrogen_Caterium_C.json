@@ -1,0 +1,22 @@
+{
+	"name": "Nitrogen Gas (Caterium)",
+	"className": "Recipe_Nitrogen_Caterium_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 14,
+	"ingredients": [
+		{
+			"item": "Desc_OreGold_C",
+			"amount": 24
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_NitrogenGas_C",
+			"amount": 12000
+		}
+	],
+	"producedIn": [
+		"Build_Converter_C"
+	]
+}

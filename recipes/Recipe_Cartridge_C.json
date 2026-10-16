@@ -1,0 +1,27 @@
+{
+	"name": "Rifle Ammo",
+	"className": "Recipe_Cartridge_C",
+	"duration": 12,
+	"manualDuration": 12,
+	"manufacturingMenuPriority": 301,
+	"ingredients": [
+		{
+			"item": "Desc_Cable_C",
+			"amount": 3
+		},
+		{
+			"item": "Desc_GunpowderMK2_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_CartridgeStandard_C",
+			"amount": 15
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C",
+		"BP_WorkshopComponent_C"
+	]
+}

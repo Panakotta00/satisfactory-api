@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Tempered Quickwire",
+	"className": "Recipe_Alternate_CateriumIngot_Tempered_C",
+	"duration": 8,
+	"manualDuration": 792,
+	"manufacturingMenuPriority": 8,
+	"ingredients": [
+		{
+			"item": "Desc_OreGold_C",
+			"amount": 6
+		},
+		{
+			"item": "Desc_Coal_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_HighSpeedWire_C",
+			"amount": 15
+		}
+	],
+	"producedIn": [
+		"Build_FoundryMk1_C"
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"name": "Quantum Encoder",
+	"className": "Recipe_QuantumEncoder_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Motor_C",
+			"amount": 20
+		},
+		{
+			"item": "Desc_ElectromagneticControlRod_C",
+			"amount": 50
+		},
+		{
+			"item": "Desc_CoolingSystem_C",
+			"amount": 50
+		},
+		{
+			"item": "Desc_FicsiteMesh_C",
+			"amount": 100
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_QuantumEncoder_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"name": "Truck Vehicle Path",
+	"className": "Desc_VehiclePath_Truck_C",
+	"description": "Vehicle Paths define roads that the vehicles can drive on to automatically transfer resources across the vehicle stations.\r\n\r\nVehicle: Truck/Fluid Truck",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_Vehicles_C",
+	"menuPriority": 102
+}

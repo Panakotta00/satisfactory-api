@@ -1,0 +1,35 @@
+{
+	"name": "Nuke Nobelisk",
+	"className": "Recipe_NobeliskNuke_C",
+	"duration": 120,
+	"manualDuration": 60,
+	"manufacturingMenuPriority": 205,
+	"ingredients": [
+		{
+			"item": "Desc_NobeliskExplosive_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_UraniumCell_C",
+			"amount": 20
+		},
+		{
+			"item": "Desc_GunpowderMK2_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_HighSpeedConnector_C",
+			"amount": 6
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_NobeliskNuke_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_WorkshopComponent_C",
+		"Build_ManufacturerMk1_C"
+	]
+}

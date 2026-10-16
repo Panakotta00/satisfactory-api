@@ -1,0 +1,34 @@
+{
+	"name": "Dimensional Depot Uploader",
+	"className": "Recipe_CentralStorage_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_WAT2_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_SAMIngot_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 100
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_CentralStorage_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

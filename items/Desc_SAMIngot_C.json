@@ -1,0 +1,29 @@
+{
+	"name": "Reanimated SAM",
+	"className": "Desc_SAMIngot_C",
+	"description": "The active and contained form of the Strange Alien Matter.\r\n\r\nProper electromagnetic containment is required, as it appears to be able to manipulate the atomic bonds of any matter it comes into contact with.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 160,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Electronics_C",
+	"menuPriority": 0
+}

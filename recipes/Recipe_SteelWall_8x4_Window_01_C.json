@@ -1,0 +1,26 @@
+{
+	"name": "Single Window",
+	"className": "Recipe_SteelWall_8x4_Window_01_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Silica_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_SteelWall_8x4_Window_01_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

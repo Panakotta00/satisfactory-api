@@ -1,0 +1,26 @@
+{
+	"name": "Industrial Storage Container",
+	"className": "Recipe_StorageContainerMk2_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_ModularFrame_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 20
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_StorageContainerMk2_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

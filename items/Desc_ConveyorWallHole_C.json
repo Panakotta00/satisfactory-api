@@ -1,0 +1,29 @@
+{
+	"name": "Conveyor Wall Hole",
+	"className": "Desc_ConveyorWallHole_C",
+	"description": "Attaches to Walls, allowing Conveyors to pass through.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_Logistics_C",
+	"menuPriority": 33
+}

@@ -1,0 +1,29 @@
+{
+	"name": "Encased Industrial Beam",
+	"className": "Desc_SteelPlateReinforced_C",
+	"description": "Simultaneously utilizes the compressive strength of concrete and the tensile strength of steel.\r\nMostly used as a stable base for constructing buildings.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 528,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_StandardParts_C",
+	"menuPriority": 0
+}

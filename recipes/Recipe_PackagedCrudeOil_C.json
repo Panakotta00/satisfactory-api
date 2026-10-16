@@ -1,0 +1,26 @@
+{
+	"name": "Packaged Oil",
+	"className": "Recipe_PackagedCrudeOil_C",
+	"duration": 4,
+	"manualDuration": 4,
+	"manufacturingMenuPriority": 1,
+	"ingredients": [
+		{
+			"item": "Desc_LiquidOil_C",
+			"amount": 2000
+		},
+		{
+			"item": "Desc_FluidCanister_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PackagedOil_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_Packager_C"
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"name": "Alternate: Cast Screws",
+	"className": "Recipe_Alternate_Screw_C",
+	"duration": 24,
+	"manualDuration": 24,
+	"manufacturingMenuPriority": 5,
+	"ingredients": [
+		{
+			"item": "Desc_IronIngot_C",
+			"amount": 5
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_IronScrew_C",
+			"amount": 20
+		}
+	],
+	"producedIn": [
+		"Build_ConstructorMk1_C"
+	]
+}

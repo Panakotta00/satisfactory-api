@@ -1,0 +1,29 @@
+{
+	"name": "Radar Tower",
+	"className": "Desc_RadarTower_C",
+	"description": "Scans the surrounding area to display additional information on the Map.\r\n\r\nInformation revealed on the Map includes:\r\n- Resource node locations\r\n- Terrain data\r\n- Flora & fauna information\r\n- Notable signal readings",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_Organization_C",
+	"menuPriority": 60
+}

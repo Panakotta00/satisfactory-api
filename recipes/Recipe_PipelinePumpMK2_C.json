@@ -1,0 +1,26 @@
+{
+	"name": "Pipeline Pump Mk.2",
+	"className": "Recipe_PipelinePumpMK2_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Motor_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 10
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PipelinePumpMk2_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

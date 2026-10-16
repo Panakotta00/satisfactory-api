@@ -1,0 +1,29 @@
+{
+	"name": "Gas Mask",
+	"className": "BP_EquipmentDescriptorGasmask_C",
+	"description": "Allows pioneers to breathe normally in toxic gas-filled areas.\r\nConsumes Gas Filters from the pioneer's inventory when in use.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 1,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 14960,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Body_C",
+	"menuPriority": 0
+}

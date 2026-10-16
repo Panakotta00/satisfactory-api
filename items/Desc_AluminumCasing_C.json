@@ -1,0 +1,29 @@
+{
+	"name": "Aluminum Casing",
+	"className": "Desc_AluminumCasing_C",
+	"description": "A versatile container cast from Aluminum Ingots.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 200,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 393,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_StandardParts_C",
+	"menuPriority": 0
+}

@@ -1,0 +1,22 @@
+{
+	"name": "Alternate: Biocoal",
+	"className": "Recipe_Alternate_Coal_2_C",
+	"duration": 8,
+	"manualDuration": 8,
+	"manufacturingMenuPriority": 6,
+	"ingredients": [
+		{
+			"item": "Desc_GenericBiomass_C",
+			"amount": 5
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Coal_C",
+			"amount": 6
+		}
+	],
+	"producedIn": [
+		"Build_ConstructorMk1_C"
+	]
+}

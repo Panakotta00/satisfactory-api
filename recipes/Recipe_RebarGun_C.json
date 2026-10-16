@@ -1,0 +1,26 @@
+{
+	"name": "Rebar Gun",
+	"className": "Recipe_RebarGun_C",
+	"duration": 60,
+	"manualDuration": 60,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 20
+		},
+		{
+			"item": "Desc_ModularFrame_C",
+			"amount": 10
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_RebarGunProjectile_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_WorkshopComponent_C"
+	]
+}

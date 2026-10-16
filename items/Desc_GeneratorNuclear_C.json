@@ -1,0 +1,29 @@
+{
+	"name": "Nuclear Power Plant",
+	"className": "Desc_GeneratorNuclear_C",
+	"description": "Consumes Nuclear Fuel Rods and Water to produce electricity for the power grid.\r\n\r\nProduces Nuclear Waste, which is extracted via the Conveyor Belt output.\r\n\r\nCaution: Always generates power at the set clock speed. Shuts down if fuel requirements are not met.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_Power_C",
+	"menuPriority": 8
+}

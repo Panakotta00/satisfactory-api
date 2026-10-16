@@ -1,0 +1,29 @@
+{
+	"name": "Light Control Panel",
+	"className": "Desc_LightsControlPanel_C",
+	"description": "Sections off a series of lights, allowing them to be adjusted as a group.\r\n\r\nControls all lights connected to the power grid via the Light Connector (yellow label).\r\nNote: Other Control Panels and Power Switches interrupt the connection.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_Organization_C",
+	"menuPriority": 10
+}

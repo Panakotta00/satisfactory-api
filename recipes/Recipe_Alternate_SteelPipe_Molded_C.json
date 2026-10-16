@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Molded Steel Pipe",
+	"className": "Recipe_Alternate_SteelPipe_Molded_C",
+	"duration": 6,
+	"manualDuration": 594,
+	"manufacturingMenuPriority": 3,
+	"ingredients": [
+		{
+			"item": "Desc_Coal_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_Cement_C",
+			"amount": 3
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 5
+		}
+	],
+	"producedIn": [
+		"Build_FoundryMk1_C"
+	]
+}

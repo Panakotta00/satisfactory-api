@@ -1,0 +1,26 @@
+{
+	"name": "Packaged Nitric Acid",
+	"className": "Recipe_PackagedNitricAcid_C",
+	"duration": 2,
+	"manualDuration": 2,
+	"manufacturingMenuPriority": 11,
+	"ingredients": [
+		{
+			"item": "Desc_NitricAcid_C",
+			"amount": 1000
+		},
+		{
+			"item": "Desc_GasTank_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PackagedNitricAcid_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_Packager_C"
+	]
+}

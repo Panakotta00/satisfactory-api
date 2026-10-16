@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Copper Rotor",
+	"className": "Recipe_Alternate_CopperRotor_C",
+	"duration": 16,
+	"manualDuration": 16,
+	"manufacturingMenuPriority": 1,
+	"ingredients": [
+		{
+			"item": "Desc_CopperSheet_C",
+			"amount": 6
+		},
+		{
+			"item": "Desc_IronScrew_C",
+			"amount": 52
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Rotor_C",
+			"amount": 3
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"name": "Gate Hole Wall",
+	"className": "Recipe_Wall_Gate_8x4_01_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Wall_Gate_8x4_01_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

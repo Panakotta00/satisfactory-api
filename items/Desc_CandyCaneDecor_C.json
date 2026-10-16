@@ -1,0 +1,29 @@
+{
+	"name": "FICSMAS Candy Cane",
+	"className": "Desc_CandyCaneDecor_C",
+	"description": "A giant Candy Cane decoration.\r\n\r\n- Not for consumption.\r\n- Do not inhale close to it without appropriate protection.\r\n- Do not put in your eyes.\r\n- Keep away from overly curious wildlife.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_FICSMAS_C",
+	"menuPriority": 1
+}

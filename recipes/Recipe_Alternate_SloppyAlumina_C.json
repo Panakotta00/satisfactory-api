@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Sloppy Alumina",
+	"className": "Recipe_Alternate_SloppyAlumina_C",
+	"duration": 3,
+	"manualDuration": 3,
+	"manufacturingMenuPriority": 1,
+	"ingredients": [
+		{
+			"item": "Desc_OreBauxite_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_Water_C",
+			"amount": 10000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_AluminaSolution_C",
+			"amount": 12000
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

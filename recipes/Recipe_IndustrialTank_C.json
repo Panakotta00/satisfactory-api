@@ -1,0 +1,26 @@
+{
+	"name": "Industrial Fluid Buffer",
+	"className": "Recipe_IndustrialTank_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_SteelPlateReinforced_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 25
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_IndustrialTank_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

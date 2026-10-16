@@ -1,0 +1,29 @@
+{
+	"name": "Coal-Powered Generator",
+	"className": "Desc_GeneratorCoal_C",
+	"description": "Burns Coal to boil Water. The steam produced rotates turbines that generate electricity for the power grid.\r\nHas Conveyor Belt and Pipeline input ports that allow the Coal and Water supply to be automated.\r\n\r\nCaution: Always generates power at the set clock speed. Shuts down if fuel requirements are not met.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_Power_C",
+	"menuPriority": 3
+}

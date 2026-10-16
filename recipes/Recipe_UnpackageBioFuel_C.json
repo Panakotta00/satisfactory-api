@@ -1,0 +1,26 @@
+{
+	"name": "Unpackage Liquid Biofuel",
+	"className": "Recipe_UnpackageBioFuel_C",
+	"duration": 2,
+	"manualDuration": 2,
+	"manufacturingMenuPriority": 3,
+	"ingredients": [
+		{
+			"item": "Desc_PackagedBiofuel_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_LiquidBiofuel_C",
+			"amount": 2000
+		},
+		{
+			"item": "Desc_FluidCanister_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_Packager_C"
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"name": "Unpackage Fuel",
+	"className": "Recipe_UnpackageFuel_C",
+	"duration": 2,
+	"manualDuration": 2,
+	"manufacturingMenuPriority": 4,
+	"ingredients": [
+		{
+			"item": "Desc_Fuel_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_LiquidFuel_C",
+			"amount": 2000
+		},
+		{
+			"item": "Desc_FluidCanister_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_Packager_C"
+	]
+}

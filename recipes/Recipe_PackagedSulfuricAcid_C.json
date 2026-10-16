@@ -1,0 +1,26 @@
+{
+	"name": "Packaged Sulfuric Acid",
+	"className": "Recipe_PackagedSulfuricAcid_C",
+	"duration": 3,
+	"manualDuration": 3,
+	"manufacturingMenuPriority": 9,
+	"ingredients": [
+		{
+			"item": "Desc_SulfuricAcid_C",
+			"amount": 2000
+		},
+		{
+			"item": "Desc_FluidCanister_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PackagedSulfuricAcid_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_Packager_C"
+	]
+}

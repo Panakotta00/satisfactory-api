@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Polymer Resin",
+	"className": "Recipe_Alternate_PolymerResin_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 3,
+	"ingredients": [
+		{
+			"item": "Desc_LiquidOil_C",
+			"amount": 6000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PolymerResin_C",
+			"amount": 13
+		},
+		{
+			"item": "Desc_HeavyOilResidue_C",
+			"amount": 2000
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

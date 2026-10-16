@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Instant Plutonium Cell",
+	"className": "Recipe_Alternate_InstantPlutoniumCell_C",
+	"duration": 120,
+	"manualDuration": 120,
+	"manufacturingMenuPriority": 1,
+	"ingredients": [
+		{
+			"item": "Desc_NonFissibleUranium_C",
+			"amount": 150
+		},
+		{
+			"item": "Desc_AluminumCasing_C",
+			"amount": 20
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PlutoniumCell_C",
+			"amount": 20
+		}
+	],
+	"producedIn": [
+		"Build_HadronCollider_C"
+	]
+}

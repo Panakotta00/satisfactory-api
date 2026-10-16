@@ -1,0 +1,30 @@
+{
+	"name": "Street Light",
+	"className": "Recipe_StreetLight_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_HighSpeedWire_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 4
+		},
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 4
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_StreetLight_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

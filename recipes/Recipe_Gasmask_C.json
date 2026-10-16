@@ -1,0 +1,30 @@
+{
+	"name": "Gas Mask",
+	"className": "Recipe_Gasmask_C",
+	"duration": 60,
+	"manualDuration": 60,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Fabric_C",
+			"amount": 50
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 10
+		}
+	],
+	"products": [
+		{
+			"item": "BP_EquipmentDescriptorGasmask_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_WorkshopComponent_C"
+	]
+}

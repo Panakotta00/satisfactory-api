@@ -1,0 +1,26 @@
+{
+	"name": "Copper FICSMAS Ornament",
+	"className": "Recipe_XmasBall3_C",
+	"duration": 12,
+	"manualDuration": 12,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_XmasBall1_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_CopperIngot_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_XmasBall3_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_FoundryMk1_C"
+	]
+}

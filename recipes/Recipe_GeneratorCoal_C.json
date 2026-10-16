@@ -1,0 +1,30 @@
+{
+	"name": "Coal-Powered Generator",
+	"className": "Recipe_GeneratorCoal_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 20
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_Cement_C",
+			"amount": 30
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_GeneratorCoal_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

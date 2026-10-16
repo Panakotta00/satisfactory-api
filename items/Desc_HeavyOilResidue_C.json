@@ -1,0 +1,29 @@
+{
+	"name": "Heavy Oil Residue",
+	"className": "Desc_HeavyOilResidue_C",
+	"description": "A by-product of Plastic and Rubber production. Can be further refined into Fuel and Petroleum Coke.",
+	"abbreviatedDisplayName": "HOR",
+	"stackSize": 50000,
+	"energyValue": 0.40000000596046448,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 30,
+	"form": "RF_LIQUID",
+	"fluidColor":
+	{
+		"r": 109,
+		"g": 45,
+		"b": 120,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Unpackaging_C",
+	"menuPriority": 0
+}

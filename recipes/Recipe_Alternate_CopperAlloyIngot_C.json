@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Copper Alloy Cable",
+	"className": "Recipe_Alternate_CopperAlloyIngot_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 2,
+	"ingredients": [
+		{
+			"item": "Desc_OreCopper_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_OreIron_C",
+			"amount": 5
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Cable_C",
+			"amount": 10
+		}
+	],
+	"producedIn": [
+		"Build_FoundryMk1_C"
+	]
+}

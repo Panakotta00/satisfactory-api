@@ -1,0 +1,29 @@
+{
+	"name": "SPWN",
+	"className": "Desc_PortalPotty_C",
+	"description": "The SAM-based Portable Waste Network can be placed down and used to set an alternative respawn point from the HUB. Upon fatal accidents, pioneers will respawn at their closest respawn point.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_TradingPost_C",
+	"menuPriority": 110
+}

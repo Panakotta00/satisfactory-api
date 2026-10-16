@@ -1,0 +1,22 @@
+{
+	"name": "Roll-Up Gate",
+	"className": "Recipe_BigGarageDoor_16x8_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_BigGarageDoor_16x8_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

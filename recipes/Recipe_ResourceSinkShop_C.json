@@ -1,0 +1,26 @@
+{
+	"name": "AWESOME Shop",
+	"className": "Recipe_ResourceSinkShop_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 10
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_ResourceSinkShop_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

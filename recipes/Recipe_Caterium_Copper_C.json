@@ -1,0 +1,22 @@
+{
+	"name": "Caterium Ore (Copper)",
+	"className": "Recipe_Caterium_Copper_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 8,
+	"ingredients": [
+		{
+			"item": "Desc_OreCopper_C",
+			"amount": 24
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_OreGold_C",
+			"amount": 12
+		}
+	],
+	"producedIn": [
+		"Build_Converter_C"
+	]
+}

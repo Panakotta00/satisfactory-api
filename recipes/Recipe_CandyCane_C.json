@@ -1,0 +1,22 @@
+{
+	"name": "Candy Cane",
+	"className": "Recipe_CandyCane_C",
+	"duration": 12,
+	"manualDuration": 12,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Gift_C",
+			"amount": 3
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_CandyCane_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_ConstructorMk1_C"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"name": "Alternate: Quartz Purification",
+	"className": "Recipe_Alternate_Quartz_Purified_C",
+	"duration": 12,
+	"manualDuration": 1188,
+	"manufacturingMenuPriority": 999,
+	"ingredients": [
+		{
+			"item": "Desc_RawQuartz_C",
+			"amount": 24
+		},
+		{
+			"item": "Desc_NitrogenGas_C",
+			"amount": 8000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_QuartzCrystal_C",
+			"amount": 15
+		},
+		{
+			"item": "Desc_AluminaSolution_C",
+			"amount": 6000
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

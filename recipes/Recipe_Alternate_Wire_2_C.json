@@ -1,0 +1,22 @@
+{
+	"name": "Alternate: Caterium Cable",
+	"className": "Recipe_Alternate_Wire_2_C",
+	"duration": 4,
+	"manualDuration": 4,
+	"manufacturingMenuPriority": 2,
+	"ingredients": [
+		{
+			"item": "Desc_OreGold_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Cable_C",
+			"amount": 4
+		}
+	],
+	"producedIn": [
+		"Build_ConstructorMk1_C"
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"name": "Steel Ingot",
+	"className": "Desc_SteelIngot_C",
+	"description": "Smelted from a combination of Iron Ore and Coal. Can be made into several parts used in building construction.",
+	"abbreviatedDisplayName": "Steel",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 8,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Ingots_C",
+	"menuPriority": 0
+}

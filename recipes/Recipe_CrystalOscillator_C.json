@@ -1,0 +1,28 @@
+{
+	"name": "Crystal Oscillator",
+	"className": "Recipe_CrystalOscillator_C",
+	"duration": 15,
+	"manualDuration": 4.5,
+	"manufacturingMenuPriority": 4,
+	"ingredients": [
+		{
+			"item": "Desc_QuartzCrystal_C",
+			"amount": 32
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 20
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_CrystalOscillator_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_HadronCollider_C",
+		"BP_WorkBenchComponent_C",
+		"FGBuildableAutomatedWorkBench"
+	]
+}

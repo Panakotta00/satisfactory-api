@@ -1,0 +1,22 @@
+{
+	"name": "Alternate: Dark Matter Crystallization",
+	"className": "Recipe_Alternate_DarkMatter_Crystallization_C",
+	"duration": 3,
+	"manualDuration": 297,
+	"manufacturingMenuPriority": 999,
+	"ingredients": [
+		{
+			"item": "Desc_DarkEnergy_C",
+			"amount": 10000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_DarkMatter_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_HadronCollider_C"
+	]
+}

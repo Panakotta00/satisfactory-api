@@ -1,0 +1,28 @@
+{
+	"name": "Encased Industrial Beam",
+	"className": "Recipe_EncasedIndustrialBeam_C",
+	"duration": 10,
+	"manualDuration": 10,
+	"manufacturingMenuPriority": 15,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 6
+		},
+		{
+			"item": "Desc_Cement_C",
+			"amount": 6
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_SteelPlateReinforced_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C",
+		"BP_WorkBenchComponent_C",
+		"FGBuildableAutomatedWorkBench"
+	]
+}

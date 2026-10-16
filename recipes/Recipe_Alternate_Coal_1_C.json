@@ -1,0 +1,22 @@
+{
+	"name": "Alternate: Charcoal",
+	"className": "Recipe_Alternate_Coal_1_C",
+	"duration": 4,
+	"manualDuration": 4,
+	"manufacturingMenuPriority": 7,
+	"ingredients": [
+		{
+			"item": "Desc_Wood_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Coal_C",
+			"amount": 10
+		}
+	],
+	"producedIn": [
+		"Build_ConstructorMk1_C"
+	]
+}

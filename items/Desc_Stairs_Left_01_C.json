@@ -1,0 +1,29 @@
+{
+	"name": "Stairs Left",
+	"className": "Desc_Stairs_Left_01_C",
+	"description": "Snaps to Foundations.\r\nSimplifies access between floors of your structures.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_Decor_C",
+	"menuPriority": 6
+}

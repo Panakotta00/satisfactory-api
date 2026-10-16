@@ -1,0 +1,17 @@
+{
+	"name": "Large Fan",
+	"className": "Recipe_LargeFan_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [],
+	"products": [
+		{
+			"item": "Desc_LargeFan_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

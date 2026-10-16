@@ -1,0 +1,29 @@
+{
+	"name": "Jetpack",
+	"className": "BP_EquipmentDescriptorJetPack_C",
+	"description": "Allows pioneers to travel through the air with increased control.\r\n\r\nFuel is automatically consumed from the pioneer's inventory to refill the Jetpack while on the ground.\r\nDifferent fuel types can be used and provide different levels of Jetpack efficiency. The preferred fuel type will be used if available, and can be set in the equipment inventory.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 1,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 16580,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Body_C",
+	"menuPriority": 2
+}

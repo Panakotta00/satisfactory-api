@@ -1,0 +1,29 @@
+{
+	"name": "Mycelia",
+	"className": "Desc_Mycelia_C",
+	"description": "Used for crafting.\r\nBiomass Burners and vehicles can also use Mycelia for power.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 200,
+	"energyValue": 20,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": true,
+	"resourceSinkPoints": 10,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Biomass_C",
+	"menuPriority": 0
+}

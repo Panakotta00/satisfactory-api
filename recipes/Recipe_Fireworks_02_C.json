@@ -1,0 +1,27 @@
+{
+	"name": "Fancy Fireworks",
+	"className": "Recipe_Fireworks_02_C",
+	"duration": 24,
+	"manualDuration": 24,
+	"manufacturingMenuPriority": 2,
+	"ingredients": [
+		{
+			"item": "Desc_XmasBranch_C",
+			"amount": 4
+		},
+		{
+			"item": "Desc_XmasBow_C",
+			"amount": 3
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Fireworks_Projectile_02_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_WorkshopComponent_C",
+		"Build_AssemblerMk1_C"
+	]
+}

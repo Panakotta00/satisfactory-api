@@ -1,0 +1,26 @@
+{
+	"name": "Conveyor Ceiling Mount",
+	"className": "Recipe_ConveyorCeilingAttachment_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_Cement_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_ConveyorCeilingAttachment_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

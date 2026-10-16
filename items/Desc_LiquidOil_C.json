@@ -1,0 +1,29 @@
+{
+	"name": "Crude Oil",
+	"className": "Desc_LiquidOil_C",
+	"description": "Refined into all kinds of Oil-based resources, like Fuel and Plastic.",
+	"abbreviatedDisplayName": "Oil",
+	"stackSize": 50000,
+	"energyValue": 0.31999999284744263,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 30,
+	"form": "RF_LIQUID",
+	"fluidColor":
+	{
+		"r": 25,
+		"g": 0,
+		"b": 25,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Unpackaging_C",
+	"menuPriority": 0
+}

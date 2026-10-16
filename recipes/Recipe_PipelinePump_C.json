@@ -1,0 +1,26 @@
+{
+	"name": "Pipeline Pump Mk.1",
+	"className": "Recipe_PipelinePump_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_OreCopper_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PipelinePump_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

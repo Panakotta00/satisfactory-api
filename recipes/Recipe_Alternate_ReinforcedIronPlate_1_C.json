@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Bolted Iron Plate",
+	"className": "Recipe_Alternate_ReinforcedIronPlate_1_C",
+	"duration": 12,
+	"manualDuration": 12,
+	"manufacturingMenuPriority": 7,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 18
+		},
+		{
+			"item": "Desc_IronScrew_C",
+			"amount": 50
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_IronPlateReinforced_C",
+			"amount": 3
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"name": "Basic Shelf Unit",
+	"className": "Recipe_StackableShelf_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_IronRod_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_StackableShelf_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"name": "Alternate: Steel Canister",
+	"className": "Recipe_Alternate_SteelCanister_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 1,
+	"ingredients": [
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 4
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_FluidCanister_C",
+			"amount": 4
+		}
+	],
+	"producedIn": [
+		"Build_ConstructorMk1_C"
+	]
+}

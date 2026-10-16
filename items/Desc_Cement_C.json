@@ -1,0 +1,29 @@
+{
+	"name": "Concrete",
+	"className": "Desc_Cement_C",
+	"description": "Used for building.\r\nGood for stable Foundations.",
+	"abbreviatedDisplayName": "Con",
+	"stackSize": 500,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 12,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Minerals_C",
+	"menuPriority": 0
+}

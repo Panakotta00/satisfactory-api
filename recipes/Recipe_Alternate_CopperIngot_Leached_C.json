@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Leached Copper Cable",
+	"className": "Recipe_Alternate_CopperIngot_Leached_C",
+	"duration": 12,
+	"manualDuration": 1188,
+	"manufacturingMenuPriority": 3,
+	"ingredients": [
+		{
+			"item": "Desc_OreCopper_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_SulfuricAcid_C",
+			"amount": 9000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Cable_C",
+			"amount": 27
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

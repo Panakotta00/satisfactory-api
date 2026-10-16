@@ -1,0 +1,26 @@
+{
+	"name": "Block Signal",
+	"className": "Recipe_RailroadBlockSignal_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_Computer_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_RailroadBlockSignal_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

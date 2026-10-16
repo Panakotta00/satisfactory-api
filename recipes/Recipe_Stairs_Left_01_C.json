@@ -1,0 +1,26 @@
+{
+	"name": "Stairs Left",
+	"className": "Recipe_Stairs_Left_01_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Cement_C",
+			"amount": 3
+		},
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 3
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Stairs_Left_01_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

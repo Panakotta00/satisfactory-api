@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Silicon Circuit Board",
+	"className": "Recipe_Alternate_CircuitBoard_1_C",
+	"duration": 24,
+	"manualDuration": 24,
+	"manufacturingMenuPriority": 7,
+	"ingredients": [
+		{
+			"item": "Desc_CopperSheet_C",
+			"amount": 11
+		},
+		{
+			"item": "Desc_Silica_C",
+			"amount": 11
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_CircuitBoard_C",
+			"amount": 5
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

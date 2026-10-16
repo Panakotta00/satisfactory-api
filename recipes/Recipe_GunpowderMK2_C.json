@@ -1,0 +1,26 @@
+{
+	"name": "Smokeless Powder",
+	"className": "Recipe_GunpowderMK2_C",
+	"duration": 6,
+	"manualDuration": 3,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Gunpowder_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_LiquidFuel_C",
+			"amount": 1000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_GunpowderMK2_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

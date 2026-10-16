@@ -1,0 +1,30 @@
+{
+	"name": "Dark Matter Residue",
+	"className": "Desc_DarkEnergy_C",
+	"description": "Produced as a by-product of Quantum Encoding processes and alternatively generated in the Converter.\r\n\r\nVarious fields of science are still debating the nature and properties of Dark Matter. Meanwhile, FICSIT has found several applications for it in space-time manipulation.",
+	"abbreviatedDisplayName": "DMR",
+	"stackSize": 50000,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 130,
+	"form": "RF_GAS",
+	"gasType": "GT_ENERGY",
+	"fluidColor":
+	{
+		"r": 253,
+		"g": 175,
+		"b": 249,
+		"a": 150
+	},
+	"gasColor":
+	{
+		"r": 6,
+		"g": 25,
+		"b": 159,
+		"a": 33
+	},
+	"category": "Cat_Quantum_C",
+	"menuPriority": 0
+}

@@ -1,0 +1,26 @@
+{
+	"name": "Assembler",
+	"className": "Recipe_AssemblerMk1_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 8
+		},
+		{
+			"item": "Desc_Cement_C",
+			"amount": 4
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_AssemblerMk1_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"name": "Medical Storage Box",
+	"className": "Recipe_StorageMedkit_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 15
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_StorageMedkit_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

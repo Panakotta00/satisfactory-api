@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Caterium Computer",
+	"className": "Recipe_Alternate_Computer_1_C",
+	"duration": 8,
+	"manualDuration": 8,
+	"manufacturingMenuPriority": 1,
+	"ingredients": [
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 4
+		},
+		{
+			"item": "Desc_HighSpeedWire_C",
+			"amount": 14
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Computer_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"name": "Sulfuric Acid",
+	"className": "Desc_SulfuricAcid_C",
+	"description": "Produced by combining Sulfur and Water in a complex reaction. Primarily used in refinement processes and Battery production.",
+	"abbreviatedDisplayName": "SA",
+	"stackSize": 50000,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 16,
+	"form": "RF_LIQUID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 0,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_AdvancedRefinement_C",
+	"menuPriority": 0
+}

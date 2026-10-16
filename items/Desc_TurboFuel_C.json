@@ -1,0 +1,29 @@
+{
+	"name": "Packaged Turbofuel",
+	"className": "Desc_TurboFuel_C",
+	"description": "Turbofuel, packaged for alternative transport. Can be used as fuel for vehicles and the Jetpack.",
+	"abbreviatedDisplayName": "Turbo",
+	"stackSize": 100,
+	"energyValue": 2000,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 570,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 212,
+		"g": 41,
+		"b": 46,
+		"a": 255
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Packaging_C",
+	"menuPriority": 0
+}

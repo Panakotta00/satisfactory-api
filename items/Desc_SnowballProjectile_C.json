@@ -1,0 +1,29 @@
+{
+	"name": "Snowball",
+	"className": "Desc_SnowballProjectile_C",
+	"description": "Compressed dihydrogen monoxide crystals for weaponized fun!",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 30,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_FICSMAS_C",
+	"menuPriority": 0
+}

@@ -1,0 +1,22 @@
+{
+	"name": "Coal (Limestone)",
+	"className": "Recipe_Coal_Limestone_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 4,
+	"ingredients": [
+		{
+			"item": "Desc_Stone_C",
+			"amount": 24
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Coal_C",
+			"amount": 12
+		}
+	],
+	"producedIn": [
+		"Build_Converter_C"
+	]
+}

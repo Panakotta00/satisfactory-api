@@ -1,0 +1,29 @@
+{
+	"name": "Copper Ore",
+	"className": "Desc_OreCopper_C",
+	"description": "Used for crafting.\r\nA basic resource primarily used for electricity.",
+	"abbreviatedDisplayName": "Cop",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": true,
+	"resourceSinkPoints": 3,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_RawMaterials_C",
+	"menuPriority": 0
+}

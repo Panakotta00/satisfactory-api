@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Bolted Frame",
+	"className": "Recipe_Alternate_BoltedFrame_C",
+	"duration": 12,
+	"manualDuration": 12,
+	"manufacturingMenuPriority": 11,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 3
+		},
+		{
+			"item": "Desc_HighSpeedWire_C",
+			"amount": 15
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_ModularFrame_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

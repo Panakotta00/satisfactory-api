@@ -1,0 +1,27 @@
+{
+	"name": "Homing Rifle Ammo",
+	"className": "Recipe_CartridgeSmart_C",
+	"duration": 24,
+	"manualDuration": 16.000007629394531,
+	"manufacturingMenuPriority": 302,
+	"ingredients": [
+		{
+			"item": "Desc_CartridgeStandard_C",
+			"amount": 20
+		},
+		{
+			"item": "Desc_HighSpeedConnector_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_CartridgeSmartProjectile_C",
+			"amount": 10
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C",
+		"BP_WorkshopComponent_C"
+	]
+}

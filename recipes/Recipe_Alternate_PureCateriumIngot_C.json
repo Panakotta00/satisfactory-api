@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Pure Quickwire",
+	"className": "Recipe_Alternate_PureCateriumIngot_C",
+	"duration": 5,
+	"manualDuration": 5,
+	"manufacturingMenuPriority": 4,
+	"ingredients": [
+		{
+			"item": "Desc_OreGold_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_Water_C",
+			"amount": 2000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_HighSpeedWire_C",
+			"amount": 5
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

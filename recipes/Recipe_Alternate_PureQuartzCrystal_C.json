@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Pure Quartz Crystal",
+	"className": "Recipe_Alternate_PureQuartzCrystal_C",
+	"duration": 8,
+	"manualDuration": 8,
+	"manufacturingMenuPriority": 1,
+	"ingredients": [
+		{
+			"item": "Desc_RawQuartz_C",
+			"amount": 9
+		},
+		{
+			"item": "Desc_Water_C",
+			"amount": 5000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_QuartzCrystal_C",
+			"amount": 7
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

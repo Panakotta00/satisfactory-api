@@ -1,0 +1,26 @@
+{
+	"name": "Wall Outlet Mk.1",
+	"className": "Recipe_PowerPoleWall_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_OreCopper_C",
+			"amount": 4
+		},
+		{
+			"item": "Desc_OreIron_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PowerPoleWall_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

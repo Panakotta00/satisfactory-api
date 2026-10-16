@@ -1,0 +1,29 @@
+{
+	"name": "Blade Runners",
+	"className": "BP_EquipmentDescriptorJumpingStilts_C",
+	"description": "An exoskeleton for the lower legs that assists movement, allowing pioneers to sprint faster and jump higher.\r\nAlso dampens the impact of landing.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 1,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 4088,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Body_C",
+	"menuPriority": 5
+}

@@ -1,0 +1,29 @@
+{
+	"name": "Leaves",
+	"className": "Desc_Leaves_C",
+	"description": "Primarily used as fuel.\r\nBiomass Burners and vehicles can use Leaves for power.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 500,
+	"energyValue": 15,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": true,
+	"resourceSinkPoints": 3,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Biomass_C",
+	"menuPriority": 0
+}

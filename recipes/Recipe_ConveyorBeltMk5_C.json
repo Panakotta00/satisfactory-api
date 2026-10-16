@@ -1,0 +1,22 @@
+{
+	"name": "Conveyor Belt Mk.5",
+	"className": "Recipe_ConveyorBeltMk5_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_AluminumCasing_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_ConveyorBeltMk5_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

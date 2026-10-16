@@ -1,0 +1,29 @@
+{
+	"name": "Zipline",
+	"className": "BP_EqDescZipLine_C",
+	"description": "Provides faster traversal of factories by allowing pioneers to zip along Power lines.\r\nActivate the Zipline and aim at a nearby Power Line to connect to it.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 1,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 5284,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Hands_C",
+	"menuPriority": 0
+}

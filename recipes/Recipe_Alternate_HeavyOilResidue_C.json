@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Heavy Oil Residue",
+	"className": "Recipe_Alternate_HeavyOilResidue_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 7,
+	"ingredients": [
+		{
+			"item": "Desc_LiquidOil_C",
+			"amount": 3000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_HeavyOilResidue_C",
+			"amount": 4000
+		},
+		{
+			"item": "Desc_PolymerResin_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

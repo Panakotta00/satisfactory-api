@@ -1,0 +1,30 @@
+{
+	"name": "FICSMAS Snow Cannon",
+	"className": "Recipe_SnowCannon_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_XmasBow_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_Snow_C",
+			"amount": 100
+		},
+		{
+			"item": "Desc_XmasBall3_C",
+			"amount": 20
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_SnowCannon_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

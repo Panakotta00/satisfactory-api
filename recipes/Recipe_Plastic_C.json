@@ -1,0 +1,26 @@
+{
+	"name": "Plastic",
+	"className": "Recipe_Plastic_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_LiquidOil_C",
+			"amount": 4000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 6
+		},
+		{
+			"item": "Desc_LiquidFuel_C",
+			"amount": 2000
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

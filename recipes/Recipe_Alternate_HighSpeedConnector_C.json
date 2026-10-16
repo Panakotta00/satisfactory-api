@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Silicon High-Speed Connector",
+	"className": "Recipe_Alternate_HighSpeedConnector_C",
+	"duration": 20,
+	"manualDuration": 20,
+	"manufacturingMenuPriority": 11,
+	"ingredients": [
+		{
+			"item": "Desc_HighSpeedWire_C",
+			"amount": 60
+		},
+		{
+			"item": "Desc_QuartzCrystal_C",
+			"amount": 10
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_HighSpeedConnector_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

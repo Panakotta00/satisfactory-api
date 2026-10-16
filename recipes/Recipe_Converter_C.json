@@ -1,0 +1,30 @@
+{
+	"name": "Converter",
+	"className": "Recipe_Converter_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_CrystalOscillator_C",
+			"amount": 25
+		},
+		{
+			"item": "Desc_AluminumPlateReinforced_C",
+			"amount": 50
+		},
+		{
+			"item": "Desc_SAMIngot_C",
+			"amount": 100
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Converter_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"name": "Steel Pipe",
+	"className": "Recipe_SteelPipe_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 14,
+	"ingredients": [
+		{
+			"item": "Desc_Coal_C",
+			"amount": 3
+		},
+		{
+			"item": "Desc_OreIron_C",
+			"amount": 3
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_FoundryMk1_C",
+		"BP_WorkBenchComponent_C",
+		"FGBuildableAutomatedWorkBench"
+	]
+}

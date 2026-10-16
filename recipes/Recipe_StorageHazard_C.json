@@ -1,0 +1,22 @@
+{
+	"name": "Hazard Storage Box",
+	"className": "Recipe_StorageHazard_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 15
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_StorageHazard_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

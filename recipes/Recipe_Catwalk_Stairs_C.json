@@ -1,0 +1,17 @@
+{
+	"name": "Catwalk Stairs",
+	"className": "Recipe_Catwalk_Stairs_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [],
+	"products": [
+		{
+			"item": "Desc_CatwalkStairs_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

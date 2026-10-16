@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Iron Alloy Plate",
+	"className": "Recipe_Alternate_IngotIron_C",
+	"duration": 12,
+	"manualDuration": 12,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_OreIron_C",
+			"amount": 12
+		},
+		{
+			"item": "Desc_OreCopper_C",
+			"amount": 3
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 15
+		}
+	],
+	"producedIn": [
+		"Build_FoundryMk1_C"
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"name": "Explorer",
+	"className": "Recipe_Explorer_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_CrystalOscillator_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_Motor_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_ModularFrame_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 15
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Explorer_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

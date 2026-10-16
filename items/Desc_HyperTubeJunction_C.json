@@ -1,0 +1,29 @@
+{
+	"name": "Hypertube Junction",
+	"className": "Desc_HyperTubeJunction_C",
+	"description": "A three-way Hypertube Junction that allows travel to and from any of its directions.\r\n\r\nCan be built on its own or attached to a Hypertube Support or Junction.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_Vehicles_C",
+	"menuPriority": 9
+}

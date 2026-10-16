@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Wet Concrete",
+	"className": "Recipe_Alternate_WetConcrete_C",
+	"duration": 3,
+	"manualDuration": 3,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Stone_C",
+			"amount": 6
+		},
+		{
+			"item": "Desc_Water_C",
+			"amount": 5000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Cement_C",
+			"amount": 4
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

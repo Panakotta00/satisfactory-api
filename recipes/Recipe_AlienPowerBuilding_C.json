@@ -1,0 +1,42 @@
+{
+	"name": "Alien Power Augmenter",
+	"className": "Recipe_AlienPowerBuilding_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_WAT1_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_SAMIngot_C",
+			"amount": 50
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 100
+		},
+		{
+			"item": "Desc_SteelPlateReinforced_C",
+			"amount": 50
+		},
+		{
+			"item": "Desc_Motor_C",
+			"amount": 25
+		},
+		{
+			"item": "Desc_Computer_C",
+			"amount": 10
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_AlienPowerBuilding_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

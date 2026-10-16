@@ -1,0 +1,30 @@
+{
+	"name": "Power Switch",
+	"className": "Recipe_PowerSwitch_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_HighSpeedWire_C",
+			"amount": 20
+		},
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 4
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 5
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PowerSwitch_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

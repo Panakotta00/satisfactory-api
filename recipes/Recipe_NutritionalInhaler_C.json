@@ -1,0 +1,30 @@
+{
+	"name": "Nutritional Inhaler",
+	"className": "Recipe_NutritionalInhaler_C",
+	"duration": 20,
+	"manualDuration": 20,
+	"manufacturingMenuPriority": 5,
+	"ingredients": [
+		{
+			"item": "Desc_Shroom_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_Berry_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_Nut_C",
+			"amount": 5
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Medkit_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_WorkshopComponent_C"
+	]
+}

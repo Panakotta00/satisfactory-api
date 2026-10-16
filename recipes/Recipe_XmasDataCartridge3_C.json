@@ -1,0 +1,22 @@
+{
+	"name": "FICSMAS Data Cartridge Day 8",
+	"className": "Recipe_XmasDataCartridge3_C",
+	"duration": 12,
+	"manualDuration": 12,
+	"manufacturingMenuPriority": 13,
+	"ingredients": [
+		{
+			"item": "Desc_Gift_C",
+			"amount": 8
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_XmasDataCartridge3_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_WorkshopComponent_C"
+	]
+}

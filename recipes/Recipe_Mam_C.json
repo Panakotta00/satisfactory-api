@@ -1,0 +1,30 @@
+{
+	"name": "MAM",
+	"className": "Recipe_Mam_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 15
+		},
+		{
+			"item": "Desc_Cement_C",
+			"amount": 15
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Mam_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

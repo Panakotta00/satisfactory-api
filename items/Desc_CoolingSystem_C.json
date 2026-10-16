@@ -1,0 +1,29 @@
+{
+	"name": "Cooling System",
+	"className": "Desc_CoolingSystem_C",
+	"description": "Keeps advanced parts and buildings from exceeding efficient temperature levels.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 12006,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_IndustrialParts_C",
+	"menuPriority": 0
+}

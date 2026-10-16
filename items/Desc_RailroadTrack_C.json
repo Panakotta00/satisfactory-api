@@ -1,0 +1,29 @@
+{
+	"name": "Railway",
+	"className": "Desc_RailroadTrack_C",
+	"description": "Carries trains reliably and quickly.\r\nHas a wide turn angle, so make sure to plan it out properly.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 1,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_Vehicles_C",
+	"menuPriority": 53
+}

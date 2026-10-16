@@ -1,0 +1,24 @@
+{
+	"name": "Spitter Protein",
+	"className": "Recipe_Protein_Spitter_C",
+	"duration": 3,
+	"manualDuration": 3.9999990463256836,
+	"manufacturingMenuPriority": 4,
+	"ingredients": [
+		{
+			"item": "Desc_SpitterParts_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_AlienProtein_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_ConstructorMk1_C",
+		"BP_WorkBenchComponent_C",
+		"FGBuildableAutomatedWorkBench"
+	]
+}

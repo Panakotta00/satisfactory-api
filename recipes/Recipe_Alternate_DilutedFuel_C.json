@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Diluted Fuel",
+	"className": "Recipe_Alternate_DilutedFuel_C",
+	"duration": 8,
+	"manualDuration": 8,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_LiquidOil_C",
+			"amount": 4000
+		},
+		{
+			"item": "Desc_Water_C",
+			"amount": 10000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_LiquidFuel_C",
+			"amount": 10000
+		}
+	],
+	"producedIn": [
+		"Build_Blender_C"
+	]
+}

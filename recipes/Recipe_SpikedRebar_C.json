@@ -1,0 +1,23 @@
+{
+	"name": "Iron Rebar",
+	"className": "Recipe_SpikedRebar_C",
+	"duration": 4,
+	"manualDuration": 4,
+	"manufacturingMenuPriority": 101,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_SpikedRebar_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_ConstructorMk1_C",
+		"BP_WorkshopComponent_C"
+	]
+}

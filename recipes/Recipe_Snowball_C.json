@@ -1,0 +1,22 @@
+{
+	"name": "Snowball",
+	"className": "Recipe_Snowball_C",
+	"duration": 12,
+	"manualDuration": 12,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Snow_C",
+			"amount": 3
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_SnowballProjectile_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_ConstructorMk1_C"
+	]
+}

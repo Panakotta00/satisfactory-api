@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Automated Miner",
+	"className": "Recipe_Alternate_AutomatedMiner_C",
+	"duration": 60,
+	"manualDuration": 60,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 4
+		},
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 4
+		}
+	],
+	"products": [
+		{
+			"item": "BP_ItemDescriptorPortableMiner_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

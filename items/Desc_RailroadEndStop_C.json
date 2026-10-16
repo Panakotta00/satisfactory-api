@@ -1,0 +1,29 @@
+{
+	"name": "Buffer Stop",
+	"className": "Desc_RailroadEndStop_C",
+	"description": "Prevents trains from derailing at the end of a railway.\r\n\r\nWhile automated driving systems have made Buffer Stops mostly obsolete, their use is still recommended to mitigate potential human error.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_Vehicles_C",
+	"menuPriority": 53.5
+}

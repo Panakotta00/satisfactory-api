@@ -1,0 +1,23 @@
+{
+	"name": "Empty Fluid Tank",
+	"className": "Recipe_GasTank_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 2,
+	"ingredients": [
+		{
+			"item": "Desc_AluminumCasing_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_GasTank_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_ConstructorMk1_C",
+		"BP_WorkBenchComponent_C"
+	]
+}

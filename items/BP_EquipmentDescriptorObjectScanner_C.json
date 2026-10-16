@@ -1,0 +1,29 @@
+{
+	"name": "Object Scanner",
+	"className": "BP_EquipmentDescriptorObjectScanner_C",
+	"description": "Scans the area for a selected item. Beeps at a rate proportional to proximity and direction.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 1,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 1400,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Hands_C",
+	"menuPriority": 0
+}

@@ -1,0 +1,29 @@
+{
+	"name": "Purple Power Slug",
+	"className": "Desc_Crystal_mk3_C",
+	"description": "A strange slug radiating a powerful unknown power.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 50,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": false,
+	"rememberPickUp": true,
+	"resourceSinkPoints": 0,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_PowerShards_C",
+	"menuPriority": 0
+}

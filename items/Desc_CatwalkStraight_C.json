@@ -1,0 +1,29 @@
+{
+	"name": "Straight Catwalk",
+	"className": "Desc_CatwalkStraight_C",
+	"description": "Snaps to Foundations and other Walkways.\r\nSpecifically designed for humans to walk on.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_Decor_C",
+	"menuPriority": 1
+}

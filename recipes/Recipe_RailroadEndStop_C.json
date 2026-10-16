@@ -1,0 +1,30 @@
+{
+	"name": "Buffer Stop",
+	"className": "Recipe_RailroadEndStop_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_SteelPlateReinforced_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_Cement_C",
+			"amount": 20
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_RailroadEndStop_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

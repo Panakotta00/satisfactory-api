@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Coke Steel Ingot",
+	"className": "Recipe_Alternate_CokeSteelIngot_C",
+	"duration": 12,
+	"manualDuration": 12,
+	"manufacturingMenuPriority": 6,
+	"ingredients": [
+		{
+			"item": "Desc_OreIron_C",
+			"amount": 15
+		},
+		{
+			"item": "Desc_PetroleumCoke_C",
+			"amount": 15
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_SteelIngot_C",
+			"amount": 20
+		}
+	],
+	"producedIn": [
+		"Build_FoundryMk1_C"
+	]
+}

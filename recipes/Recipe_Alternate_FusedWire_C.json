@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Fused Cable",
+	"className": "Recipe_Alternate_FusedWire_C",
+	"duration": 20,
+	"manualDuration": 20,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_OreCopper_C",
+			"amount": 8
+		},
+		{
+			"item": "Desc_OreGold_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Cable_C",
+			"amount": 15
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

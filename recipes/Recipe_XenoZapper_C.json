@@ -1,0 +1,26 @@
+{
+	"name": "Xeno-Zapper",
+	"className": "Recipe_XenoZapper_C",
+	"duration": 40,
+	"manualDuration": 40,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 20
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 25
+		}
+	],
+	"products": [
+		{
+			"item": "BP_EquipmentDescriptorShockShank_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_WorkshopComponent_C"
+	]
+}

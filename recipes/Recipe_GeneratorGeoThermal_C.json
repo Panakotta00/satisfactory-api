@@ -1,0 +1,34 @@
+{
+	"name": "Geothermal Generator",
+	"className": "Recipe_GeneratorGeoThermal_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Motor_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_ModularFrame_C",
+			"amount": 25
+		},
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 50
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 100
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_GeneratorGeoThermal_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

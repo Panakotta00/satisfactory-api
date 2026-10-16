@@ -1,0 +1,29 @@
+{
+	"name": "Valve",
+	"className": "Desc_Valve_C",
+	"description": "Limits Pipeline flow rates.\r\nCan be attached to a Pipeline.\r\n\r\nNOTE: Has an in- and output direction.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_Logistics_C",
+	"menuPriority": 5
+}

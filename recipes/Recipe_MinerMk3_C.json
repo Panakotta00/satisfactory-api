@@ -1,0 +1,30 @@
+{
+	"name": "Miner Mk.3",
+	"className": "Recipe_MinerMk3_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 50
+		},
+		{
+			"item": "Desc_Computer_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_Motor_C",
+			"amount": 5
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_MinerMk3_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

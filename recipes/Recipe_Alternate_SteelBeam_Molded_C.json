@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Molded Beam",
+	"className": "Recipe_Alternate_SteelBeam_Molded_C",
+	"duration": 12,
+	"manualDuration": 1188,
+	"manufacturingMenuPriority": 2,
+	"ingredients": [
+		{
+			"item": "Desc_SteelIngot_C",
+			"amount": 24
+		},
+		{
+			"item": "Desc_Cement_C",
+			"amount": 16
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_SteelPlate_C",
+			"amount": 9
+		}
+	],
+	"producedIn": [
+		"Build_FoundryMk1_C"
+	]
+}

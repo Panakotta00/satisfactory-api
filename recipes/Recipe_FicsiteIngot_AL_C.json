@@ -1,0 +1,26 @@
+{
+	"name": "Ficsite Trigon (Bauxite)",
+	"className": "Recipe_FicsiteIngot_AL_C",
+	"duration": 2,
+	"manualDuration": 2,
+	"manufacturingMenuPriority": 2,
+	"ingredients": [
+		{
+			"item": "Desc_SAMIngot_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_OreBauxite_C",
+			"amount": 4
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_FicsiteMesh_C",
+			"amount": 3
+		}
+	],
+	"producedIn": [
+		"Build_Converter_C"
+	]
+}

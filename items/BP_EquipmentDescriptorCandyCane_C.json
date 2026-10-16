@@ -1,0 +1,29 @@
+{
+	"name": "Candy Cane Basher",
+	"className": "BP_EquipmentDescriptorCandyCane_C",
+	"description": "Self-defense is now not only fun, but also delicious for the target! Do not lick or consume.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 1,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 7850,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Weapons_C",
+	"menuPriority": 0
+}

@@ -1,0 +1,29 @@
+{
+	"name": "Battery",
+	"className": "Desc_Battery_C",
+	"description": "Primarily used as fuel for Drones and vehicles.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 200,
+	"energyValue": 6000,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 465,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_IndustrialParts_C",
+	"menuPriority": 0
+}

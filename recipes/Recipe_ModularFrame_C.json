@@ -1,0 +1,28 @@
+{
+	"name": "Modular Frame",
+	"className": "Recipe_ModularFrame_C",
+	"duration": 30,
+	"manualDuration": 15,
+	"manufacturingMenuPriority": 10,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 3
+		},
+		{
+			"item": "Desc_Cement_C",
+			"amount": 6
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_ModularFrame_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C",
+		"BP_WorkBenchComponent_C",
+		"FGBuildableAutomatedWorkBench"
+	]
+}

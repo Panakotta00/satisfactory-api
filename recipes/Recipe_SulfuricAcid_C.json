@@ -1,0 +1,26 @@
+{
+	"name": "Sulfuric Acid",
+	"className": "Recipe_SulfuricAcid_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 4,
+	"ingredients": [
+		{
+			"item": "Desc_Sulfur_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_Water_C",
+			"amount": 5000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_SulfuricAcid_C",
+			"amount": 5000
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

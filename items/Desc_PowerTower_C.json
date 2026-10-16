@@ -1,0 +1,29 @@
+{
+	"name": "Power Tower",
+	"className": "Desc_PowerTower_C",
+	"description": "Helps span Power Lines across greater distances.\r\nThere is an additional power connector at the bottom of the Power Tower to connect it to other buildings, such as Power Poles.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_Power_C",
+	"menuPriority": 4
+}

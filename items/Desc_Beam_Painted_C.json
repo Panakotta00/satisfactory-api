@@ -1,0 +1,29 @@
+{
+	"name": "Painted Beam",
+	"className": "Desc_Beam_Painted_C",
+	"description": "Snaps to other Beams and various other structural buildings.\r\nBeams support multiple build modes for different use cases.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_Decor_C",
+	"menuPriority": 2
+}

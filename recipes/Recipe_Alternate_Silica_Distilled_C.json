@@ -1,0 +1,34 @@
+{
+	"name": "Alternate: Distilled Silica",
+	"className": "Recipe_Alternate_Silica_Distilled_C",
+	"duration": 6,
+	"manualDuration": 594,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_DissolvedSilica_C",
+			"amount": 12000
+		},
+		{
+			"item": "Desc_Stone_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_Water_C",
+			"amount": 10000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Silica_C",
+			"amount": 27
+		},
+		{
+			"item": "Desc_Water_C",
+			"amount": 8000
+		}
+	],
+	"producedIn": [
+		"Build_Blender_C"
+	]
+}

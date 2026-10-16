@@ -1,0 +1,29 @@
+{
+	"name": "Hypertube Branch",
+	"className": "Desc_HypertubeTJunction_C",
+	"description": "A one-way Hypertube Branch that allows another Hypertube to split off from an existing path. The branching Hypertube can only be accessed when entering from the longer side.\r\n\r\nCan be built on its own, onto an existing Hypertube, or attached to a Hypertube Support or Junction.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_Vehicles_C",
+	"menuPriority": 10
+}

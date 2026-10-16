@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Tempered Copper Cable",
+	"className": "Recipe_Alternate_CopperIngot_Tempered_C",
+	"duration": 12,
+	"manualDuration": 1188,
+	"manufacturingMenuPriority": 3,
+	"ingredients": [
+		{
+			"item": "Desc_OreCopper_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_Coal_C",
+			"amount": 8
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Cable_C",
+			"amount": 12
+		}
+	],
+	"producedIn": [
+		"Build_FoundryMk1_C"
+	]
+}

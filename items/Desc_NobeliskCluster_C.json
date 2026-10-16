@@ -1,0 +1,29 @@
+{
+	"name": "Cluster Nobelisk",
+	"className": "Desc_NobeliskCluster_C",
+	"description": "Detonates into multiple smaller explosions. Practical for clearing out large areas of vegetation and other inconveniences.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 50,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 1376,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Ammunition_C",
+	"menuPriority": 203
+}

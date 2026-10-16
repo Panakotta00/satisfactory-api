@@ -1,0 +1,17 @@
+{
+	"name": "Excited Photonic Matter",
+	"className": "Recipe_QuantumEnergy_C",
+	"duration": 3,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 1,
+	"ingredients": [],
+	"products": [
+		{
+			"item": "Desc_QuantumEnergy_C",
+			"amount": 10000
+		}
+	],
+	"producedIn": [
+		"Build_Converter_C"
+	]
+}

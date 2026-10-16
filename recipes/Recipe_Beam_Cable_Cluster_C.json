@@ -1,0 +1,17 @@
+{
+	"name": "Braided Cable Cluster",
+	"className": "Recipe_Beam_Cable_Cluster_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [],
+	"products": [
+		{
+			"item": "Desc_Beam_Cable_Cluster_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

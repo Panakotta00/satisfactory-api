@@ -1,0 +1,30 @@
+{
+	"name": "Hazmat Suit",
+	"className": "Recipe_HazmatSuit_C",
+	"duration": 120,
+	"manualDuration": 120,
+	"manufacturingMenuPriority": 4,
+	"ingredients": [
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 100
+		},
+		{
+			"item": "Desc_AluminumCasing_C",
+			"amount": 50
+		},
+		{
+			"item": "Desc_Fabric_C",
+			"amount": 50
+		}
+	],
+	"products": [
+		{
+			"item": "BP_EquipmentDescriptorHazmatSuit_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_WorkshopComponent_C"
+	]
+}

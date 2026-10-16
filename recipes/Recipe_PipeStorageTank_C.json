@@ -1,0 +1,26 @@
+{
+	"name": "Fluid Buffer",
+	"className": "Recipe_PipeStorageTank_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_OreCopper_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_ModularFrame_C",
+			"amount": 5
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PipeStorageTank_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

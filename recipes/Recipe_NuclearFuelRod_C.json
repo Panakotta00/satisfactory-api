@@ -1,0 +1,30 @@
+{
+	"name": "Uranium Fuel Rod",
+	"className": "Recipe_NuclearFuelRod_C",
+	"duration": 150,
+	"manualDuration": 150,
+	"manufacturingMenuPriority": 1,
+	"ingredients": [
+		{
+			"item": "Desc_UraniumCell_C",
+			"amount": 50
+		},
+		{
+			"item": "Desc_SteelPlateReinforced_C",
+			"amount": 3
+		},
+		{
+			"item": "Desc_ElectromagneticControlRod_C",
+			"amount": 5
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_NuclearFuelRod_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_ManufacturerMk1_C"
+	]
+}

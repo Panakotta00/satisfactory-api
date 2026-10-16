@@ -1,0 +1,30 @@
+{
+	"name": "Alternate: Classic Battery",
+	"className": "Recipe_Alternate_ClassicBattery_C",
+	"duration": 4,
+	"manualDuration": 4,
+	"manufacturingMenuPriority": 11,
+	"ingredients": [
+		{
+			"item": "Desc_AluminaSolution_C",
+			"amount": 7000
+		},
+		{
+			"item": "Desc_Sulfur_C",
+			"amount": 6
+		},
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 8
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Battery_C",
+			"amount": 4
+		}
+	],
+	"producedIn": [
+		"Build_HadronCollider_C"
+	]
+}

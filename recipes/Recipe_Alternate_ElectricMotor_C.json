@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Electric Motor",
+	"className": "Recipe_Alternate_ElectricMotor_C",
+	"duration": 16,
+	"manualDuration": 16,
+	"manufacturingMenuPriority": 6,
+	"ingredients": [
+		{
+			"item": "Desc_ElectromagneticControlRod_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_ModularFrame_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Motor_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

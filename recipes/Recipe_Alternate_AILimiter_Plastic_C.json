@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Plastic AI Limiter",
+	"className": "Recipe_Alternate_AILimiter_Plastic_C",
+	"duration": 15,
+	"manualDuration": 1485,
+	"manufacturingMenuPriority": 10,
+	"ingredients": [
+		{
+			"item": "Desc_HighSpeedWire_C",
+			"amount": 30
+		},
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 7
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_CircuitBoardHighSpeed_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

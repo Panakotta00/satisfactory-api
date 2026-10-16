@@ -1,0 +1,22 @@
+{
+	"name": "Conveyor Belt Mk.4",
+	"className": "Recipe_ConveyorBeltMk4_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_SteelPlateReinforced_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_ConveyorBeltMk4_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

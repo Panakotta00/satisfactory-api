@@ -1,0 +1,22 @@
+{
+	"name": "Coal (Iron)",
+	"className": "Recipe_Coal_Iron_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 5,
+	"ingredients": [
+		{
+			"item": "Desc_OreIron_C",
+			"amount": 24
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Coal_C",
+			"amount": 12
+		}
+	],
+	"producedIn": [
+		"Build_Converter_C"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"name": "Manufacturer",
+	"className": "Recipe_ManufacturerMk1_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_ModularFrame_C",
+			"amount": 20
+		},
+		{
+			"item": "Desc_SteelPlateReinforced_C",
+			"amount": 30
+		},
+		{
+			"item": "Desc_Computer_C",
+			"amount": 10
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_ManufacturerMk1_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

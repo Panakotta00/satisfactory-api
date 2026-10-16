@@ -1,0 +1,15 @@
+{
+	"name": "Panel Window",
+	"className": "Recipe_Wall_Window_8x4_03_Steel_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [],
+	"products": [
+		{
+			"item": "Desc_Wall_Window_8x4_03_Steel_C",
+			"amount": 1
+		}
+	],
+	"producedIn": []
+}

@@ -1,0 +1,32 @@
+{
+	"name": "Turbo Motor",
+	"className": "Recipe_MotorTurbo_C",
+	"duration": 16,
+	"manualDuration": 32,
+	"manufacturingMenuPriority": 8,
+	"ingredients": [
+		{
+			"item": "Desc_Motor_C",
+			"amount": 4
+		},
+		{
+			"item": "Desc_CoolingSystem_C",
+			"amount": 4
+		},
+		{
+			"item": "Desc_CrystalOscillator_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_MotorLightweight_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_ManufacturerMk1_C",
+		"BP_WorkBenchComponent_C",
+		"FGBuildableAutomatedWorkBench"
+	]
+}

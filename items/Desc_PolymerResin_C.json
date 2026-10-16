@@ -1,0 +1,29 @@
+{
+	"name": "Polymer Resin",
+	"className": "Desc_PolymerResin_C",
+	"description": "A by-product of Crude Oil refinement into Fuel. Commonly used to manufacture Plastic and Rubber.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 200,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 12,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_SolidOilProducts_C",
+	"menuPriority": 0
+}

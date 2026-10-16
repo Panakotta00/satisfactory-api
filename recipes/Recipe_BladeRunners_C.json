@@ -1,0 +1,30 @@
+{
+	"name": "Blade Runners",
+	"className": "Recipe_BladeRunners_C",
+	"duration": 60,
+	"manualDuration": 60,
+	"manufacturingMenuPriority": 5,
+	"ingredients": [
+		{
+			"item": "Desc_QuartzCrystal_C",
+			"amount": 20
+		},
+		{
+			"item": "Desc_ModularFrame_C",
+			"amount": 3
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 3
+		}
+	],
+	"products": [
+		{
+			"item": "BP_EquipmentDescriptorJumpingStilts_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_WorkshopComponent_C"
+	]
+}

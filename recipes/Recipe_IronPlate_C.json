@@ -1,0 +1,24 @@
+{
+	"name": "Iron Plate",
+	"className": "Recipe_IronPlate_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_OreIron_C",
+			"amount": 3
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 3
+		}
+	],
+	"producedIn": [
+		"Build_ConstructorMk1_C",
+		"BP_WorkBenchComponent_C",
+		"FGBuildableAutomatedWorkBench"
+	]
+}

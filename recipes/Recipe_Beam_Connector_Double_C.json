@@ -1,0 +1,17 @@
+{
+	"name": "Double Beam Connector",
+	"className": "Recipe_Beam_Connector_Double_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [],
+	"products": [
+		{
+			"item": "Desc_Beam_Connector_Double_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

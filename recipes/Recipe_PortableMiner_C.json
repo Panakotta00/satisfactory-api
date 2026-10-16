@@ -1,0 +1,22 @@
+{
+	"name": "Portable Miner",
+	"className": "Recipe_PortableMiner_C",
+	"duration": 40,
+	"manualDuration": 40,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 6
+		}
+	],
+	"products": [
+		{
+			"item": "BP_ItemDescriptorPortableMiner_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_WorkshopComponent_C"
+	]
+}

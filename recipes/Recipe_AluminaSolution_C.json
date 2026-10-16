@@ -1,0 +1,30 @@
+{
+	"name": "Alumina Solution",
+	"className": "Recipe_AluminaSolution_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 1,
+	"ingredients": [
+		{
+			"item": "Desc_OreBauxite_C",
+			"amount": 12
+		},
+		{
+			"item": "Desc_Water_C",
+			"amount": 18000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_AluminaSolution_C",
+			"amount": 12000
+		},
+		{
+			"item": "Desc_QuartzCrystal_C",
+			"amount": 3
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

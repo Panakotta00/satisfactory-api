@@ -1,0 +1,26 @@
+{
+	"name": "Empty Platform With Catwalk",
+	"className": "Recipe_TrainPlatformEmpty_02_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_SteelPlateReinforced_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_Cement_C",
+			"amount": 50
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_TrainPlatformEmpty_02_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

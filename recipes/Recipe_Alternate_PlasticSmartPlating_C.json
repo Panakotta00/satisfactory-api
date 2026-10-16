@@ -1,0 +1,30 @@
+{
+	"name": "Alternate: Plastic Smart Plating",
+	"className": "Recipe_Alternate_PlasticSmartPlating_C",
+	"duration": 24,
+	"manualDuration": 24,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlateReinforced_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_Rotor_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 3
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_SpaceElevatorPart_1_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_ManufacturerMk1_C"
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"name": "Particle Accelerator",
+	"className": "Recipe_HadronCollider_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_ElectromagneticControlRod_C",
+			"amount": 100
+		},
+		{
+			"item": "Desc_Computer_C",
+			"amount": 25
+		},
+		{
+			"item": "Desc_ModularFrame_C",
+			"amount": 50
+		},
+		{
+			"item": "Desc_CoolingSystem_C",
+			"amount": 50
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_HadronCollider_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

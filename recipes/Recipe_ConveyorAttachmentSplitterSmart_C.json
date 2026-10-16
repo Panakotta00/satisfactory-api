@@ -1,0 +1,26 @@
+{
+	"name": "Smart Splitter",
+	"className": "Recipe_ConveyorAttachmentSplitterSmart_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_HighSpeedWire_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_ConveyorAttachmentSplitterSmart_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

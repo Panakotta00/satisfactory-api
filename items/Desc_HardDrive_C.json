@@ -1,0 +1,28 @@
+{
+	"name": "Hard Drive",
+	"className": "Desc_HardDrive_C",
+	"description": "Contains FICSIT data. Analyze it in the MAM to salvage its contents.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": false,
+	"rememberPickUp": true,
+	"resourceSinkPoints": 0,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"menuPriority": 0
+}

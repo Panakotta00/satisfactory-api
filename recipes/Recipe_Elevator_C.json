@@ -1,0 +1,26 @@
+{
+	"name": "Personnel Elevator",
+	"className": "Recipe_Elevator_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_SteelPlate_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_Silica_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Elevator_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

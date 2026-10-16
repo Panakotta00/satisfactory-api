@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Insulated Crystal Oscillator",
+	"className": "Recipe_Alternate_CrystalOscillator_C",
+	"duration": 8,
+	"manualDuration": 8,
+	"manufacturingMenuPriority": 4,
+	"ingredients": [
+		{
+			"item": "Desc_QuartzCrystal_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 9
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_CrystalOscillator_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_HadronCollider_C"
+	]
+}

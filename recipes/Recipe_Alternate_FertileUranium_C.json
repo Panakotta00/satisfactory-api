@@ -1,0 +1,38 @@
+{
+	"name": "Alternate: Fertile Uranium",
+	"className": "Recipe_Alternate_FertileUranium_C",
+	"duration": 12,
+	"manualDuration": 12,
+	"manufacturingMenuPriority": 3,
+	"ingredients": [
+		{
+			"item": "Desc_OreUranium_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_NuclearWaste_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_NitricAcid_C",
+			"amount": 3000
+		},
+		{
+			"item": "Desc_SulfuricAcid_C",
+			"amount": 5000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_NonFissibleUranium_C",
+			"amount": 20
+		},
+		{
+			"item": "Desc_Water_C",
+			"amount": 8000
+		}
+	],
+	"producedIn": [
+		"Build_Blender_C"
+	]
+}

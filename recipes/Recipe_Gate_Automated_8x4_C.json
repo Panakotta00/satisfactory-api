@@ -1,0 +1,17 @@
+{
+	"name": "Automated Gate",
+	"className": "Recipe_Gate_Automated_8x4_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [],
+	"products": [
+		{
+			"item": "Desc_Gate_Automated_8x4_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

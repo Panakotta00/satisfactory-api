@@ -1,0 +1,26 @@
+{
+	"name": "Battery",
+	"className": "Recipe_Battery_C",
+	"duration": 3,
+	"manualDuration": 3,
+	"manufacturingMenuPriority": 5,
+	"ingredients": [
+		{
+			"item": "Desc_SulfuricAcid_C",
+			"amount": 5000
+		},
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 4
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Battery_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_HadronCollider_C"
+	]
+}

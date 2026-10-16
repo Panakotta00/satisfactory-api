@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Insulated Cable",
+	"className": "Recipe_Alternate_Cable_1_C",
+	"duration": 12,
+	"manualDuration": 12,
+	"manufacturingMenuPriority": 1,
+	"ingredients": [
+		{
+			"item": "Desc_OreCopper_C",
+			"amount": 9
+		},
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 6
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Cable_C",
+			"amount": 20
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

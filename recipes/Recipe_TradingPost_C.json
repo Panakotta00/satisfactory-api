@@ -1,0 +1,22 @@
+{
+	"name": "The HUB",
+	"className": "Recipe_TradingPost_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_OreIron_C",
+			"amount": 20
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_TradingPost_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

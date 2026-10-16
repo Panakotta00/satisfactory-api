@@ -1,0 +1,30 @@
+{
+	"name": "Power Pole Mk.3",
+	"className": "Recipe_PowerPoleMk3_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_HighSpeedConnector_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 3
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PowerPoleMk3_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

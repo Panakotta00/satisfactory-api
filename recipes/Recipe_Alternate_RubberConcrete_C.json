@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Plastic Concrete",
+	"className": "Recipe_Alternate_RubberConcrete_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 1,
+	"ingredients": [
+		{
+			"item": "Desc_Stone_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Cement_C",
+			"amount": 9
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

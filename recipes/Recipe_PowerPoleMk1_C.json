@@ -1,0 +1,30 @@
+{
+	"name": "Power Pole Mk.1",
+	"className": "Recipe_PowerPoleMk1_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_OreCopper_C",
+			"amount": 3
+		},
+		{
+			"item": "Desc_OreIron_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_Stone_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PowerPoleMk1_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

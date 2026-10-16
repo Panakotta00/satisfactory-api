@@ -1,0 +1,29 @@
+{
+	"name": "Heavy Modular Frame",
+	"className": "Desc_ModularFrameHeavy_C",
+	"description": "A more robust multipurpose frame.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 50,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 10800,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_StandardParts_C",
+	"menuPriority": 0
+}

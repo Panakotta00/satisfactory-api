@@ -1,0 +1,26 @@
+{
+	"name": "Double Wall Outlet Mk.1",
+	"className": "Recipe_PowerPoleWallDouble_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_OreCopper_C",
+			"amount": 8
+		},
+		{
+			"item": "Desc_OreIron_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PowerPoleWallDouble_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

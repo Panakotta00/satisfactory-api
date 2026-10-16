@@ -1,0 +1,22 @@
+{
+	"name": "Conveyor Lift Mk.4",
+	"className": "Recipe_ConveyorLiftMk4_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_SteelPlateReinforced_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_ConveyorLiftMk4_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

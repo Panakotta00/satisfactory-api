@@ -1,0 +1,26 @@
+{
+	"name": "Dark Matter Crystal",
+	"className": "Recipe_DarkMatter_C",
+	"duration": 2,
+	"manualDuration": 2,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Coal_C",
+			"amount": 20
+		},
+		{
+			"item": "Desc_DarkEnergy_C",
+			"amount": 5000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_DarkMatter_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_HadronCollider_C"
+	]
+}

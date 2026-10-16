@@ -1,0 +1,22 @@
+{
+	"name": "Alternate: Steel Screws",
+	"className": "Recipe_Alternate_Screw_2_C",
+	"duration": 12,
+	"manualDuration": 12,
+	"manufacturingMenuPriority": 6,
+	"ingredients": [
+		{
+			"item": "Desc_SteelPlate_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_IronScrew_C",
+			"amount": 52
+		}
+	],
+	"producedIn": [
+		"Build_ConstructorMk1_C"
+	]
+}

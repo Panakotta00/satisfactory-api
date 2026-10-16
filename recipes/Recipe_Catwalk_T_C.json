@@ -1,0 +1,17 @@
+{
+	"name": "Catwalk T-Junction",
+	"className": "Recipe_Catwalk_T_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [],
+	"products": [
+		{
+			"item": "Desc_CatwalkT_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Dark Matter Trap",
+	"className": "Recipe_Alternate_DarkMatter_Trap_C",
+	"duration": 4,
+	"manualDuration": 396,
+	"manufacturingMenuPriority": 999,
+	"ingredients": [
+		{
+			"item": "Desc_CrystalOscillator_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_DarkEnergy_C",
+			"amount": 10000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_DarkMatter_C",
+			"amount": 4
+		}
+	],
+	"producedIn": [
+		"Build_HadronCollider_C"
+	]
+}

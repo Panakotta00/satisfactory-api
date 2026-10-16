@@ -1,0 +1,29 @@
+{
+	"name": "Coal",
+	"className": "Desc_Coal_C",
+	"description": "Mainly used as fuel for vehicles & Coal-Powered Generators, or in Steel production.",
+	"abbreviatedDisplayName": "cOaL",
+	"stackSize": 100,
+	"energyValue": 300,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": true,
+	"resourceSinkPoints": 3,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_RawMaterials_C",
+	"menuPriority": 0
+}

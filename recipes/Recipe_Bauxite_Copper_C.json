@@ -1,0 +1,22 @@
+{
+	"name": "Bauxite (Copper)",
+	"className": "Recipe_Bauxite_Copper_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 12,
+	"ingredients": [
+		{
+			"item": "Desc_OreCopper_C",
+			"amount": 24
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_OreBauxite_C",
+			"amount": 12
+		}
+	],
+	"producedIn": [
+		"Build_Converter_C"
+	]
+}

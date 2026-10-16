@@ -1,0 +1,12 @@
+{
+	"name": "N/A",
+	"className": "Recipe_Pattern_ZoneLine_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [],
+	"products": [],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

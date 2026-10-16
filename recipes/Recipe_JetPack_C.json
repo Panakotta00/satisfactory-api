@@ -1,0 +1,34 @@
+{
+	"name": "Jetpack",
+	"className": "Recipe_JetPack_C",
+	"duration": 60,
+	"manualDuration": 60,
+	"manufacturingMenuPriority": 2,
+	"ingredients": [
+		{
+			"item": "Desc_Motor_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 25
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 25
+		}
+	],
+	"products": [
+		{
+			"item": "BP_EquipmentDescriptorJetPack_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_WorkshopComponent_C"
+	]
+}

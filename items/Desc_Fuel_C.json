@@ -1,0 +1,29 @@
+{
+	"name": "Packaged Fuel",
+	"className": "Desc_Fuel_C",
+	"description": "Fuel, packaged for alternative transport. Can be used as fuel for vehicles and the Jetpack.",
+	"abbreviatedDisplayName": "Fuel",
+	"stackSize": 100,
+	"energyValue": 750,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 270,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 235,
+		"g": 125,
+		"b": 21,
+		"a": 255
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Packaging_C",
+	"menuPriority": 0
+}

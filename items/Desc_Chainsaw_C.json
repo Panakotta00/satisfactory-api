@@ -1,0 +1,29 @@
+{
+	"name": "Chainsaw",
+	"className": "Desc_Chainsaw_C",
+	"description": "Clears an area of flora that is too difficult to remove by hand.\r\n\r\nFuel: Biofuel",
+	"abbreviatedDisplayName": "",
+	"stackSize": 1,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 2760,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Hands_C",
+	"menuPriority": 0
+}

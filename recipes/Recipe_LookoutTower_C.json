@@ -1,0 +1,26 @@
+{
+	"name": "Lookout Tower",
+	"className": "Recipe_LookoutTower_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_Cement_C",
+			"amount": 5
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_LookoutTower_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

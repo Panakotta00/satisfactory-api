@@ -1,0 +1,22 @@
+{
+	"name": "Pipeline Junction",
+	"className": "Recipe_PipelineJunction_Cross_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_OreCopper_C",
+			"amount": 5
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PipelineJunction_Cross_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

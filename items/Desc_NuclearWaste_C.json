@@ -1,0 +1,29 @@
+{
+	"name": "Uranium Waste",
+	"className": "Desc_NuclearWaste_C",
+	"description": "The by-product of consuming Uranium Fuel Rods in a Nuclear Power Plant.\r\nNon-Fissile Uranium can be extracted. Handle with caution.\r\n\r\nCaution: HIGHLY Radioactive.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 500,
+	"energyValue": 0,
+	"radioactiveDecay": 10,
+	"canBeDiscarded": false,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Nuclear_C",
+	"menuPriority": 0
+}

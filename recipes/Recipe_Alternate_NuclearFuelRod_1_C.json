@@ -1,0 +1,30 @@
+{
+	"name": "Alternate: Uranium Fuel Unit",
+	"className": "Recipe_Alternate_NuclearFuelRod_1_C",
+	"duration": 300,
+	"manualDuration": 300,
+	"manufacturingMenuPriority": 2,
+	"ingredients": [
+		{
+			"item": "Desc_UraniumCell_C",
+			"amount": 100
+		},
+		{
+			"item": "Desc_ElectromagneticControlRod_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_CrystalOscillator_C",
+			"amount": 5
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_NuclearFuelRod_C",
+			"amount": 3
+		}
+	],
+	"producedIn": [
+		"Build_ManufacturerMk1_C"
+	]
+}

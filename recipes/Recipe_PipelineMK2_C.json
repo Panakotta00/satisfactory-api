@@ -1,0 +1,26 @@
+{
+	"name": "Pipeline Mk.2",
+	"className": "Recipe_PipelineMK2_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_OreCopper_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PipelineMK2_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

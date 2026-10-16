@@ -1,0 +1,22 @@
+{
+	"name": "Raw Quartz (Bauxite)",
+	"className": "Recipe_Quartz_Bauxite_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 11,
+	"ingredients": [
+		{
+			"item": "Desc_OreBauxite_C",
+			"amount": 24
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_RawQuartz_C",
+			"amount": 12
+		}
+	],
+	"producedIn": [
+		"Build_Converter_C"
+	]
+}

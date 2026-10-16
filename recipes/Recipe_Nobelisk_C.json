@@ -1,0 +1,27 @@
+{
+	"name": "Nobelisk",
+	"className": "Recipe_Nobelisk_C",
+	"duration": 6,
+	"manualDuration": 7.9999980926513672,
+	"manufacturingMenuPriority": 201,
+	"ingredients": [
+		{
+			"item": "Desc_Gunpowder_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_NobeliskExplosive_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_WorkshopComponent_C",
+		"Build_AssemblerMk1_C"
+	]
+}

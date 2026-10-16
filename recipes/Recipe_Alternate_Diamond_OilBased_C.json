@@ -1,0 +1,22 @@
+{
+	"name": "Alternate: Oil-Based Diamonds",
+	"className": "Recipe_Alternate_Diamond_OilBased_C",
+	"duration": 3,
+	"manualDuration": 297,
+	"manufacturingMenuPriority": 2,
+	"ingredients": [
+		{
+			"item": "Desc_LiquidOil_C",
+			"amount": 10000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Diamond_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_HadronCollider_C"
+	]
+}

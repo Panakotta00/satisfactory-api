@@ -1,0 +1,34 @@
+{
+	"name": "Alternate: Heavy Flexible Frame",
+	"className": "Recipe_Alternate_HeavyFlexibleFrame_C",
+	"duration": 16,
+	"manualDuration": 16,
+	"manufacturingMenuPriority": 18,
+	"ingredients": [
+		{
+			"item": "Desc_ModularFrame_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_SteelPlateReinforced_C",
+			"amount": 3
+		},
+		{
+			"item": "Desc_Rubber_C",
+			"amount": 20
+		},
+		{
+			"item": "Desc_IronScrew_C",
+			"amount": 104
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_ModularFrameHeavy_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_ManufacturerMk1_C"
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"name": "FICSMAS Snowman",
+	"className": "Recipe_Snowman_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Snow_C",
+			"amount": 50
+		},
+		{
+			"item": "Desc_CandyCane_C",
+			"amount": 3
+		},
+		{
+			"item": "Desc_XmasBow_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_XmasBall1_C",
+			"amount": 3
+		},
+		{
+			"item": "Desc_XmasBall2_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Snowman_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

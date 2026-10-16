@@ -1,0 +1,15 @@
+{
+	"name": "Pillar Top",
+	"className": "Recipe_PillarTop_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [],
+	"products": [
+		{
+			"item": "Desc_PillarTop_C",
+			"amount": 1
+		}
+	],
+	"producedIn": []
+}

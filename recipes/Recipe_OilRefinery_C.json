@@ -1,0 +1,30 @@
+{
+	"name": "Refinery",
+	"className": "Recipe_OilRefinery_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_OreGold_C",
+			"amount": 20
+		},
+		{
+			"item": "Desc_OreCopper_C",
+			"amount": 30
+		},
+		{
+			"item": "Desc_Stone_C",
+			"amount": 30
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_OilRefinery_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

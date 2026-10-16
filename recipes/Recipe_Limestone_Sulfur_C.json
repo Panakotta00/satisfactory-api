@@ -1,0 +1,22 @@
+{
+	"name": "Limestone (Sulfur)",
+	"className": "Recipe_Limestone_Sulfur_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 3,
+	"ingredients": [
+		{
+			"item": "Desc_Sulfur_C",
+			"amount": 24
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Stone_C",
+			"amount": 12
+		}
+	],
+	"producedIn": [
+		"Build_Converter_C"
+	]
+}

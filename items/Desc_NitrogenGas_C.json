@@ -1,0 +1,30 @@
+{
+	"name": "Nitrogen Gas",
+	"className": "Desc_NitrogenGas_C",
+	"description": "Has a variety of uses, including metallurgy, cooling, and Nitric Acid production. On MASSAGE-2 (AB)b, it can be extracted from underground gas wells.",
+	"abbreviatedDisplayName": "N",
+	"stackSize": 50000,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 10,
+	"form": "RF_GAS",
+	"gasType": "GT_NORMAL",
+	"fluidColor":
+	{
+		"r": 89,
+		"g": 89,
+		"b": 89,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Unpackaging_C",
+	"menuPriority": 0
+}

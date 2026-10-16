@@ -1,0 +1,30 @@
+{
+	"name": "Priority Power Switch",
+	"className": "Recipe_PriorityPowerSwitch_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_HighSpeedConnector_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 6
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 20
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PriorityPowerSwitch_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

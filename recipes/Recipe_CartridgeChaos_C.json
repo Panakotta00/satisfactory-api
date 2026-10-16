@@ -1,0 +1,30 @@
+{
+	"name": "Turbo Rifle Ammo",
+	"className": "Recipe_CartridgeChaos_C",
+	"duration": 12,
+	"manualDuration": 39.999996185302734,
+	"manufacturingMenuPriority": 303,
+	"ingredients": [
+		{
+			"item": "Desc_CartridgeStandard_C",
+			"amount": 25
+		},
+		{
+			"item": "Desc_AluminumCasing_C",
+			"amount": 3
+		},
+		{
+			"item": "Desc_LiquidFuel_C",
+			"amount": 3000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_CartridgeChaos_C",
+			"amount": 50
+		}
+	],
+	"producedIn": [
+		"Build_Blender_C"
+	]
+}

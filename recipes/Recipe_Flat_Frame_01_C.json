@@ -1,0 +1,17 @@
+{
+	"name": "Frame Floor",
+	"className": "Recipe_Flat_Frame_01_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [],
+	"products": [
+		{
+			"item": "Desc_Flat_Frame_01_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

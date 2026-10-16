@@ -1,0 +1,22 @@
+{
+	"name": "Alternate: Iron Pipe",
+	"className": "Recipe_Alternate_SteelPipe_Iron_C",
+	"duration": 12,
+	"manualDuration": 1188,
+	"manufacturingMenuPriority": 15,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 20
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 5
+		}
+	],
+	"producedIn": [
+		"Build_ConstructorMk1_C"
+	]
+}

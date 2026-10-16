@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Turbo Heavy Fuel",
+	"className": "Recipe_Alternate_TurboHeavyFuel_C",
+	"duration": 8,
+	"manualDuration": 8,
+	"manufacturingMenuPriority": 5,
+	"ingredients": [
+		{
+			"item": "Desc_HeavyOilResidue_C",
+			"amount": 5000
+		},
+		{
+			"item": "Desc_CompactedCoal_C",
+			"amount": 4
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_LiquidTurboFuel_C",
+			"amount": 4000
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

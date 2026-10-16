@@ -1,0 +1,202 @@
+= Satisfactory Static Data API Reference
+:toc: left
+:toclevels: 3
+:sectnums:
+:icons: font
+:source-highlighter: highlightjs
+
+A comprehensive, lightweight static REST endpoint providing structured game data and assets for *Satisfactory*, hosted directly via GitHub Pages to maximize availability, caching efficiency, and developer utility.
+
+== Overview & Base URL
+
+All endpoints serve static JSON files and PNG assets over HTTPS. Data is indexed using Unreal Engine descriptor and recipe class names (`ClassName`).
+
+* *Base URL:* `https://panakotta00.github.io/satisfactory-api`
+
+[cols="1,2,3",options="header"]
+|===
+| Directory | Resource Type | URL Pattern
+| `/icons/` | Item Icons (PNG) | `https://panakotta00.github.io/satisfactory-api/icons/{ClassName}_{size}.png`
+| `/recipes/` | Recipe Definitions (JSON) | `https://panakotta00.github.io/satisfactory-api/recipes/{ClassName}.json`
+| `/items/` | Item Descriptors (JSON) | `https://panakotta00.github.io/satisfactory-api/items/{ClassName}.json`
+|===
+
+---
+
+== Endpoints Reference
+
+=== 1. Item Icons (`/icons`)
+
+Serves item descriptor icons in transparent PNG format in two resolution variants.
+
+==== URL Format
+
+* *Large Icon:* `https://panakotta00.github.io/satisfactory-api/icons/{ClassName}_large.png`
+* *Small Icon:* `https://panakotta00.github.io/satisfactory-api/icons/{ClassName}_small.png`
+
+==== Examples
+
+* `https://panakotta00.github.io/satisfactory-api/icons/Desc_IronIngot_C_large.png`
+* `https://panakotta00.github.io/satisfactory-api/icons/Desc_IronIngot_C_small.png`
+* `https://panakotta00.github.io/satisfactory-api/icons/Desc_SpaceElevatorPart_5_C_large.png`
+
+==== Parameters
+
+[cols="1,1,3",options="header"]
+|===
+| Parameter | Type | Description
+| `ClassName` | String | Unreal Engine class name of the item descriptor (e.g. `Desc_IronIngot_C`).
+| `size` | String | Icon size identifier: `large` (high resolution) or `small` (inventory thumbnail).
+|===
+
+---
+
+=== 2. Recipes (`/recipes`)
+
+Serves recipe definitions containing crafting durations, ingredient inputs, product outputs, and compatible manufacturing buildings.
+
+==== URL Format
+
+`https://panakotta00.github.io/satisfactory-api/recipes/{ClassName}.json`
+
+==== Examples
+
+* `https://panakotta00.github.io/satisfactory-api/recipes/Recipe_IronIngot_C.json`
+* `https://panakotta00.github.io/satisfactory-api/recipes/Recipe_Alternate_ReinforcedIronPlate_1_C.json`
+
+==== Response Schema
+
+[cols="2,1,4",options="header"]
+|===
+| Field | Type | Description
+| `name` | String | In-game localized display name of the recipe.
+| `className` | String | Unreal Engine class name of the recipe (`UFGRecipe`).
+| `duration` | Number | Automated manufacturing crafting duration in seconds.
+| `manualDuration` | Number | Manual crafting duration at the Craft Bench in seconds.
+| `manufacturingMenuPriority` | Number | Sorting priority in crafting menus.
+| `ingredients` | Array<Object> | List of input items required for one crafting cycle.
+| `ingredients[].item` | String | Class name of the required item descriptor (`UFGItemDescriptor`).
+| `ingredients[].amount` | Number | Required count/quantity per crafting cycle.
+| `products` | Array<Object> | List of output items produced by one crafting cycle.
+| `products[].item` | String | Class name of the produced item descriptor (`UFGItemDescriptor`).
+| `products[].amount` | Number | Produced count/quantity per crafting cycle.
+| `producedIn` | Array<String> | Class names of buildings/machinery capable of running this recipe (e.g. `Build_SmelterMk1_C`, `Build_Manufacturer_C`).
+|===
+
+==== Example Response (`Recipe_IronIngot_C.json`)
+
+[source,json]
+----
+{
+  "name": "Iron Ingot",
+  "className": "Recipe_IronIngot_C",
+  "duration": 2.0,
+  "manualDuration": 0.5,
+  "manufacturingMenuPriority": 0.0,
+  "ingredients": [
+    {
+      "item": "Desc_OreIron_C",
+      "amount": 1
+    }
+  ],
+  "products": [
+    {
+      "item": "Desc_IronIngot_C",
+      "amount": 1
+    }
+  ],
+  "producedIn": [
+    "Build_SmelterMk1_C",
+    "FGBuildGun",
+    "FGBuildableAutomatedWorkBench",
+    "FGBuildableWorkBench"
+  ]
+}
+----
+
+---
+
+=== 3. Item Descriptors (`/items`)
+
+Serves item descriptor data including stack limits, energy/fuel metrics, AWESOME Sink values, physical forms, fluid/gas color metadata, and categorization.
+
+==== URL Format
+
+`https://panakotta00.github.io/satisfactory-api/items/{ClassName}.json`
+
+==== Examples
+
+* `https://panakotta00.github.io/satisfactory-api/items/Desc_IronIngot_C.json`
+* `https://panakotta00.github.io/satisfactory-api/items/Desc_LiquidFuel_C.json`
+* `https://panakotta00.github.io/satisfactory-api/items/Desc_Uranium_C.json`
+
+==== Response Schema
+
+[cols="2,1,4",options="header"]
+|===
+| Field | Type | Description
+| `name` | String | In-game display name of the item.
+| `className` | String | Unreal Engine class name of the descriptor (`UFGItemDescriptor`).
+| `description` | String | Detailed in-game description and lore.
+| `abbreviatedDisplayName` | String | Abbreviated name used in compact UI views.
+| `stackSize` | Number | Inventory stack size capacity (e.g. 50, 100, 500).
+| `energyValue` | Number | Energy value in Megajoules (MJ) when used as fuel or consumed.
+| `radioactiveDecay` | Number | Radiation intensity / decay rate (0 for non-radioactive items).
+| `canBeDiscarded` | Boolean | Whether the item can be deleted/trashed from inventory.
+| `rememberPickUp` | Boolean | Whether first-time pickup triggers milestone/tutorial tracking.
+| `resourceSinkPoints` | Number | AWESOME Sink coupon points awarded per item.
+| `form` | String | Resource state form: `RF_SOLID`, `RF_LIQUID`, `RF_GAS`, or `RF_INVALID`.
+| `gasType` | String | _(Optional)_ Specific gas classification when `form` is `RF_GAS` (`GT_NORMAL`, `GT_ENERGY`).
+| `fluidColor` | Object | RGBA color representation for UI pipes and tanks (`r`, `g`, `b`, `a`).
+| `gasColor` | Object | RGBA color representation for UI gas pipes and vents (`r`, `g`, `b`, `a`).
+| `category` | String | _(Optional)_ Class name of the item category (`UFGCategory`).
+| `menuPriority` | Number | Sorting order within inventory/build menus.
+|===
+
+==== Example Response (`Desc_IronIngot_C.json`)
+
+[source,json]
+----
+{
+  "name": "Iron Ingot",
+  "className": "Desc_IronIngot_C",
+  "description": "Used for crafting basic iron parts.",
+  "abbreviatedDisplayName": "Iron",
+  "stackSize": 100,
+  "energyValue": 0.0,
+  "radioactiveDecay": 0.0,
+  "canBeDiscarded": true,
+  "rememberPickUp": false,
+  "resourceSinkPoints": 2,
+  "form": "RF_SOLID",
+  "fluidColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  },
+  "gasColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  },
+  "category": "Cat_Ingots_C",
+  "menuPriority": 0.0
+}
+----
+
+---
+
+== Data Generation & Export Console Commands
+
+Data is extracted and serialized directly from the Unreal Engine runtime environment via custom in-game console commands:
+
+[cols="2,2,3",options="header"]
+|===
+| Console Command | Output Directory | Description
+| `ccbg_export_item_icons` | `Desktop/ItemIcons` | Exports large and small 2D textures for all item descriptors to PNG.
+| `ccbg_export_recipes` | `Desktop/Recipes` | Serializes all `UFGRecipe` definitions into individual JSON files.
+| `ccbg_export_items` | `Desktop/Items` | Serializes all `UFGItemDescriptor` classes into individual JSON files.
+| `ccbg_export_item_descriptors` | `Desktop/Items` | Alias for `ccbg_export_items`.
+|===

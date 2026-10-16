@@ -1,0 +1,26 @@
+{
+	"name": "Packaged Alumina Solution",
+	"className": "Recipe_PackagedAlumina_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 8,
+	"ingredients": [
+		{
+			"item": "Desc_AluminaSolution_C",
+			"amount": 2000
+		},
+		{
+			"item": "Desc_FluidCanister_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PackagedAlumina_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_Packager_C"
+	]
+}

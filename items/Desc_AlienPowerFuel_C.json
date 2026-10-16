@@ -1,0 +1,29 @@
+{
+	"name": "Alien Power Matrix",
+	"className": "Desc_AlienPowerFuel_C",
+	"description": "This intricate condensed-matter matrix is used to enhance the output of the Alien Power Augmenter.\r\n\r\nInitially developed in efforts to create a human-made Somersloop, the Alien Power Matrix cannot sustain the extra-dimensional energy connection on its own. However, it can effectively stabilize the energy stream of the Somersloop.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 50,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 210,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Quantum_C",
+	"menuPriority": 0
+}

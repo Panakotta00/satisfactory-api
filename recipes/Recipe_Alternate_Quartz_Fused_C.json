@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Fused Quartz Crystal",
+	"className": "Recipe_Alternate_Quartz_Fused_C",
+	"duration": 20,
+	"manualDuration": 1980,
+	"manufacturingMenuPriority": 999,
+	"ingredients": [
+		{
+			"item": "Desc_RawQuartz_C",
+			"amount": 25
+		},
+		{
+			"item": "Desc_Coal_C",
+			"amount": 12
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_QuartzCrystal_C",
+			"amount": 18
+		}
+	],
+	"producedIn": [
+		"Build_FoundryMk1_C"
+	]
+}

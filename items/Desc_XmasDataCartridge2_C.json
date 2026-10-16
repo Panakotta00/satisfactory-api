@@ -1,0 +1,29 @@
+{
+	"name": "FICSMAS Data Cartridge Day 4",
+	"className": "Desc_XmasDataCartridge2_C",
+	"description": "FICSMAS Data Cartridge Day 4, used to progress FICSMAS MAM research.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 1,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": false,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_FICSMAS_C",
+	"menuPriority": 0
+}

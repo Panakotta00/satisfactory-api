@@ -1,0 +1,29 @@
+{
+	"name": "Train Station",
+	"className": "Desc_TrainStation_C",
+	"description": "Serves as a hub for Locomotives, which can be set to navigate to and stop at a Train Station.\r\nYou can connect power to a Train Station to power up the trains on the Railway as well as feed power to other stations.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_Vehicles_C",
+	"menuPriority": 51
+}

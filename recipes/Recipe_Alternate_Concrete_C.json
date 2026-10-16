@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Fine Concrete",
+	"className": "Recipe_Alternate_Concrete_C",
+	"duration": 12,
+	"manualDuration": 12,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_RawQuartz_C",
+			"amount": 3
+		},
+		{
+			"item": "Desc_Stone_C",
+			"amount": 12
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Cement_C",
+			"amount": 10
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

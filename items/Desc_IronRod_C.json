@@ -1,0 +1,29 @@
+{
+	"name": "Iron Rod",
+	"className": "Desc_IronRod_C",
+	"description": "Used for crafting.\r\nOne of the most basic parts.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 200,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 4,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_StandardParts_C",
+	"menuPriority": 0
+}

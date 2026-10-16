@@ -1,0 +1,22 @@
+{
+	"name": "Alternate: Petroleum Diamonds",
+	"className": "Recipe_Alternate_Diamond_Petroleum_C",
+	"duration": 2,
+	"manualDuration": 198,
+	"manufacturingMenuPriority": 3,
+	"ingredients": [
+		{
+			"item": "Desc_PetroleumCoke_C",
+			"amount": 24
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Diamond_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_HadronCollider_C"
+	]
+}

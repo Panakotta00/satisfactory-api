@@ -1,0 +1,26 @@
+{
+	"name": "FICSMAS Wonder Star",
+	"className": "Recipe_XmasStar_C",
+	"duration": 60,
+	"manualDuration": 60,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_XmasWreath_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_CandyCane_C",
+			"amount": 20
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_XmasStar_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

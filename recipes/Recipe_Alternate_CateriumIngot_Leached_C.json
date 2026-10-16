@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Leached Quickwire",
+	"className": "Recipe_Alternate_CateriumIngot_Leached_C",
+	"duration": 10,
+	"manualDuration": 990,
+	"manufacturingMenuPriority": 5,
+	"ingredients": [
+		{
+			"item": "Desc_OreGold_C",
+			"amount": 9
+		},
+		{
+			"item": "Desc_SulfuricAcid_C",
+			"amount": 5000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_HighSpeedWire_C",
+			"amount": 30
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

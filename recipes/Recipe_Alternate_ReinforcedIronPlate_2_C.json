@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Stitched Iron Plate",
+	"className": "Recipe_Alternate_ReinforcedIronPlate_2_C",
+	"duration": 32,
+	"manualDuration": 32,
+	"manufacturingMenuPriority": 8,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_Wire_C",
+			"amount": 20
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_IronPlateReinforced_C",
+			"amount": 3
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

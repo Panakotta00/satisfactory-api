@@ -1,0 +1,22 @@
+{
+	"name": "Alternate: Aluminum Rod",
+	"className": "Recipe_Alternate_AluminumRod_C",
+	"duration": 8,
+	"manualDuration": 792,
+	"manufacturingMenuPriority": 3,
+	"ingredients": [
+		{
+			"item": "Desc_AluminumIngot_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_IronRod_C",
+			"amount": 7
+		}
+	],
+	"producedIn": [
+		"Build_ConstructorMk1_C"
+	]
+}

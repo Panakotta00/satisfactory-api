@@ -1,0 +1,29 @@
+{
+	"name": "Plutonium Fuel Rod",
+	"className": "Desc_PlutoniumFuelRod_C",
+	"description": "Used as fuel for Nuclear Power Plants.\r\n\r\nCaution: Produces radioactive Plutonium Waste when consumed.\r\nCaution: HIGHLY Radioactive.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 50,
+	"energyValue": 1500000,
+	"radioactiveDecay": 250,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 153184,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Nuclear_C",
+	"menuPriority": 0
+}

@@ -1,0 +1,29 @@
+{
+	"name": "Homing Rifle Ammo",
+	"className": "Desc_CartridgeSmartProjectile_C",
+	"description": "The bullet guidance system built into this ammunition allows it to accurately hit any target within the reticle area.\r\nEspecially useful when dealing with agile threats, or for pioneers who can't be bothered to aim properly.",
+	"abbreviatedDisplayName": "HA",
+	"stackSize": 500,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 855,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Ammunition_C",
+	"menuPriority": 302
+}

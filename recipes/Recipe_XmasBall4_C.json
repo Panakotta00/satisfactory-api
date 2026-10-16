@@ -1,0 +1,26 @@
+{
+	"name": "Iron FICSMAS Ornament",
+	"className": "Recipe_XmasBall4_C",
+	"duration": 12,
+	"manualDuration": 12,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_XmasBall2_C",
+			"amount": 3
+		},
+		{
+			"item": "Desc_IronIngot_C",
+			"amount": 3
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_XmasBall4_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_FoundryMk1_C"
+	]
+}

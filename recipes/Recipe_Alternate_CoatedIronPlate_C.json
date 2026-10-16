@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Coated Iron Plate",
+	"className": "Recipe_Alternate_CoatedIronPlate_C",
+	"duration": 16,
+	"manualDuration": 16,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_OreIron_C",
+			"amount": 15
+		},
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 20
+		}
+	],
+	"producedIn": [
+		"Build_FoundryMk1_C"
+	]
+}

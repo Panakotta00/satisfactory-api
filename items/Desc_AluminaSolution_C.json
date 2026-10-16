@@ -1,0 +1,29 @@
+{
+	"name": "Alumina Solution",
+	"className": "Desc_AluminaSolution_C",
+	"description": "Dissolved Alumina, extracted from Bauxite. Can be further refined into Aluminum Scrap for Aluminum Ingot production.",
+	"abbreviatedDisplayName": "AL",
+	"stackSize": 50000,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 20,
+	"form": "RF_LIQUID",
+	"fluidColor":
+	{
+		"r": 193,
+		"g": 193,
+		"b": 193,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_AdvancedRefinement_C",
+	"menuPriority": 0
+}

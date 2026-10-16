@@ -1,0 +1,38 @@
+{
+	"name": "Electric Locomotive",
+	"className": "Recipe_Locomotive_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_ModularFrame_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_Motor_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 20
+		},
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 20
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 25
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Locomotive_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

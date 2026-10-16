@@ -1,0 +1,30 @@
+{
+	"name": "Satellite Portal",
+	"className": "Recipe_PortalSatellite_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_ModularFrameFused_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_SAMIngot_C",
+			"amount": 50
+		},
+		{
+			"item": "Desc_FicsiteMesh_C",
+			"amount": 25
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PortalSatellite_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

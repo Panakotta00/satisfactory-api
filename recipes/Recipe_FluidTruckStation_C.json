@@ -1,0 +1,30 @@
+{
+	"name": "Fluid Truck Station",
+	"className": "Recipe_FluidTruckStation_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_ModularFrame_C",
+			"amount": 15
+		},
+		{
+			"item": "Desc_Motor_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 20
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_FluidTruckStation_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"name": "Equipment Workshop",
+	"className": "Recipe_Workshop_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 10
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Workshop_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

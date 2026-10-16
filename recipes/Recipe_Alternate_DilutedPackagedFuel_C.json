@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Diluted Packaged Fuel",
+	"className": "Recipe_Alternate_DilutedPackagedFuel_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 2,
+	"ingredients": [
+		{
+			"item": "Desc_LiquidOil_C",
+			"amount": 2000
+		},
+		{
+			"item": "Desc_PackagedWater_C",
+			"amount": 5
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Fuel_C",
+			"amount": 5
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

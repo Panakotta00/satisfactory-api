@@ -1,0 +1,22 @@
+{
+	"name": "Storage Container",
+	"className": "Recipe_StorageContainerMk1_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 20
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_StorageContainerMk1_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"name": "Crude Oil (SAM)",
+	"className": "Gen_BGC_Recipe_Conversion_Oil_SAM",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 17,
+	"ingredients": [
+		{
+			"item": "Desc_SAM_C",
+			"amount": 24
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_LiquidOil_C",
+			"amount": 12000
+		}
+	],
+	"producedIn": [
+		"Build_Converter_C"
+	]
+}

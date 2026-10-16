@@ -1,0 +1,29 @@
+{
+	"name": "Hazmat Suit",
+	"className": "BP_EquipmentDescriptorHazmatSuit_C",
+	"description": "Shields pioneers from the adverse effects of radiation. \r\nConsumes Iodine-Infused Filters from the pioneer's inventory when worn in radioactive areas.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 1,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 54100,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Body_C",
+	"menuPriority": 4
+}

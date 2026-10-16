@@ -1,0 +1,30 @@
+{
+	"name": "Alternate: Turbo Electric Motor",
+	"className": "Recipe_Alternate_TurboMotor_1_C",
+	"duration": 32,
+	"manualDuration": 32,
+	"manufacturingMenuPriority": 9,
+	"ingredients": [
+		{
+			"item": "Desc_Motor_C",
+			"amount": 7
+		},
+		{
+			"item": "Desc_ModularFrameLightweight_C",
+			"amount": 9
+		},
+		{
+			"item": "Desc_ElectromagneticControlRod_C",
+			"amount": 5
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_MotorLightweight_C",
+			"amount": 3
+		}
+	],
+	"producedIn": [
+		"Build_ManufacturerMk1_C"
+	]
+}

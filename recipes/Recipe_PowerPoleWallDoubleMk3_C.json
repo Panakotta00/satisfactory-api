@@ -1,0 +1,26 @@
+{
+	"name": "Double Wall Outlet Mk.3",
+	"className": "Recipe_PowerPoleWallDoubleMk3_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_HighSpeedConnector_C",
+			"amount": 6
+		},
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 6
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PowerPoleWallDoubleMk3_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

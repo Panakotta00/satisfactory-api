@@ -1,0 +1,30 @@
+{
+	"name": "Alternate: Alclad Casing",
+	"className": "Recipe_Alternate_AlcladCasing_C",
+	"duration": 8,
+	"manualDuration": 8,
+	"manufacturingMenuPriority": 18,
+	"ingredients": [
+		{
+			"item": "Desc_OreCopper_C",
+			"amount": 20
+		},
+		{
+			"item": "Desc_OreBauxite_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_AluminaSolution_C",
+			"amount": 10000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_AluminumCasing_C",
+			"amount": 30
+		}
+	],
+	"producedIn": [
+		"Build_HadronCollider_C"
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"name": "Train Station",
+	"className": "Recipe_TrainStation_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_SteelPlateReinforced_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 50
+		},
+		{
+			"item": "Desc_Cement_C",
+			"amount": 50
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 100
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_TrainStation_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

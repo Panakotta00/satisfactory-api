@@ -1,0 +1,30 @@
+{
+	"name": "Giant FICSMAS Tree",
+	"className": "Recipe_XMassTree_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_XmasBranch_C",
+			"amount": 100
+		},
+		{
+			"item": "Desc_IronPlateReinforced_C",
+			"amount": 50
+		},
+		{
+			"item": "Desc_Cement_C",
+			"amount": 500
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_XMassTree_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

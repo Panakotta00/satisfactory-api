@@ -1,0 +1,27 @@
+{
+	"name": "Ficsite Trigon",
+	"className": "Recipe_FicsiteMesh_C",
+	"duration": 12,
+	"manualDuration": 12,
+	"manufacturingMenuPriority": 19,
+	"ingredients": [
+		{
+			"item": "Desc_DarkMatter_C",
+			"amount": 3
+		},
+		{
+			"item": "Desc_SAMIngot_C",
+			"amount": 3
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_FicsiteMesh_C",
+			"amount": 12
+		}
+	],
+	"producedIn": [
+		"Build_Converter_C",
+		"BP_WorkBenchComponent_C"
+	]
+}

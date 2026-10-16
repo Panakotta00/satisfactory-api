@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Basic Iron Plate",
+	"className": "Recipe_Alternate_IronIngot_Basic_C",
+	"duration": 24,
+	"manualDuration": 2376,
+	"manufacturingMenuPriority": 1,
+	"ingredients": [
+		{
+			"item": "Desc_OreIron_C",
+			"amount": 15
+		},
+		{
+			"item": "Desc_Stone_C",
+			"amount": 24
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 20
+		}
+	],
+	"producedIn": [
+		"Build_FoundryMk1_C"
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"name": "Biomass Burner",
+	"className": "Recipe_GeneratorBiomass_Automated_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 15
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 25
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_GeneratorBiomass_Automated_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

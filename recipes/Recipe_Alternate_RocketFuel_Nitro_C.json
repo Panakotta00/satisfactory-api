@@ -1,0 +1,38 @@
+{
+	"name": "Alternate: Nitro Rocket Fuel",
+	"className": "Recipe_Alternate_RocketFuel_Nitro_C",
+	"duration": 2.4000000953674316,
+	"manualDuration": 237.60000610351562,
+	"manufacturingMenuPriority": 3,
+	"ingredients": [
+		{
+			"item": "Desc_LiquidFuel_C",
+			"amount": 4000
+		},
+		{
+			"item": "Desc_NitrogenGas_C",
+			"amount": 3000
+		},
+		{
+			"item": "Desc_Sulfur_C",
+			"amount": 4
+		},
+		{
+			"item": "Desc_Coal_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_RocketFuel_C",
+			"amount": 6000
+		},
+		{
+			"item": "Desc_CompactedCoal_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_Blender_C"
+	]
+}

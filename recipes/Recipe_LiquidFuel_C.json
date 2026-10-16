@@ -1,0 +1,26 @@
+{
+	"name": "Fuel",
+	"className": "Recipe_LiquidFuel_C",
+	"duration": 4,
+	"manualDuration": 4,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_LiquidOil_C",
+			"amount": 4000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_LiquidFuel_C",
+			"amount": 4000
+		},
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

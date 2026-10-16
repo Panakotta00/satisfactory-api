@@ -1,0 +1,22 @@
+{
+	"name": "Residual Plastic",
+	"className": "Recipe_ResidualPlastic_C",
+	"duration": 3,
+	"manualDuration": 3,
+	"manufacturingMenuPriority": 1,
+	"ingredients": [
+		{
+			"item": "Desc_LiquidFuel_C",
+			"amount": 6000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 6
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

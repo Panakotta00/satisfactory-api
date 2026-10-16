@@ -1,0 +1,29 @@
+{
+	"name": "Nitric Acid",
+	"className": "Desc_NitricAcid_C",
+	"description": "Produced when Nitrogen Gas reacts with Water. Its high corrosiveness and oxidizing properties make it an excellent choice for refinement and fuel production processes.",
+	"abbreviatedDisplayName": "NA",
+	"stackSize": 50000,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 94,
+	"form": "RF_LIQUID",
+	"fluidColor":
+	{
+		"r": 217,
+		"g": 217,
+		"b": 162,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_AdvancedRefinement_C",
+	"menuPriority": 0
+}

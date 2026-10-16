@@ -1,0 +1,29 @@
+{
+	"name": "Turbo Rifle Ammo",
+	"className": "Desc_CartridgeChaos_C",
+	"description": "Lightweight, compact, and volatile. These rounds provide extreme capacity and rate of fire at the cost of accuracy.",
+	"abbreviatedDisplayName": "TA",
+	"stackSize": 500,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 120,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Ammunition_C",
+	"menuPriority": 303
+}

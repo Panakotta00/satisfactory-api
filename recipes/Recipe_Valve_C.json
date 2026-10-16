@@ -1,0 +1,26 @@
+{
+	"name": "Valve",
+	"className": "Recipe_Valve_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 4
+		},
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 4
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Valve_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

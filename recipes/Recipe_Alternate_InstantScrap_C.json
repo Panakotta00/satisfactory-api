@@ -1,0 +1,38 @@
+{
+	"name": "Alternate: Instant Aluminum Casing",
+	"className": "Recipe_Alternate_InstantScrap_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 1,
+	"ingredients": [
+		{
+			"item": "Desc_OreBauxite_C",
+			"amount": 15
+		},
+		{
+			"item": "Desc_Coal_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_SulfuricAcid_C",
+			"amount": 5000
+		},
+		{
+			"item": "Desc_Water_C",
+			"amount": 6000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_AluminumCasing_C",
+			"amount": 30
+		},
+		{
+			"item": "Desc_Water_C",
+			"amount": 5000
+		}
+	],
+	"producedIn": [
+		"Build_Blender_C"
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"name": "Sparkly Fireworks",
+	"className": "Recipe_Fireworks_03_C",
+	"duration": 24,
+	"manualDuration": 24,
+	"manufacturingMenuPriority": 1,
+	"ingredients": [
+		{
+			"item": "Desc_XmasBranch_C",
+			"amount": 3
+		},
+		{
+			"item": "Desc_Snow_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Fireworks_Projectile_03_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_WorkshopComponent_C",
+		"Build_AssemblerMk1_C"
+	]
+}

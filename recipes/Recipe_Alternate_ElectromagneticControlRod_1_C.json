@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Electromagnetic Connection Rod",
+	"className": "Recipe_Alternate_ElectromagneticControlRod_1_C",
+	"duration": 20,
+	"manualDuration": 20,
+	"manufacturingMenuPriority": 2,
+	"ingredients": [
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 6
+		},
+		{
+			"item": "Desc_HighSpeedConnector_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_ElectromagneticControlRod_C",
+			"amount": 6
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

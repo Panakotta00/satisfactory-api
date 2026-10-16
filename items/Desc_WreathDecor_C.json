@@ -1,0 +1,29 @@
+{
+	"name": "FICSMAS Decoration",
+	"className": "Desc_WreathDecor_C",
+	"description": "A wreath woven from dead plants to bring that holiday spirit to your Walls.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_FICSMAS_C",
+	"menuPriority": 4
+}

@@ -1,0 +1,26 @@
+{
+	"name": "Conveyor Throughput Monitor",
+	"className": "Recipe_ConveyorMonitor_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 4
+		},
+		{
+			"item": "Desc_QuartzCrystal_C",
+			"amount": 10
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_ConveyorMonitor_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

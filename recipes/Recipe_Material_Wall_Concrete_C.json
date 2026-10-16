@@ -1,0 +1,17 @@
+{
+	"name": "N/A",
+	"className": "Recipe_Material_Wall_Concrete_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Cement_C",
+			"amount": 2
+		}
+	],
+	"products": [],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

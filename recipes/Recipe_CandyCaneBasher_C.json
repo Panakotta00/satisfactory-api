@@ -1,0 +1,30 @@
+{
+	"name": "Candy Cane Basher",
+	"className": "Recipe_CandyCaneBasher_C",
+	"duration": 80,
+	"manualDuration": 80,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "BP_EquipmentDescriptorShockShank_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_CandyCane_C",
+			"amount": 25
+		},
+		{
+			"item": "Desc_Gift_C",
+			"amount": 15
+		}
+	],
+	"products": [
+		{
+			"item": "BP_EquipmentDescriptorCandyCane_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_WorkshopComponent_C"
+	]
+}

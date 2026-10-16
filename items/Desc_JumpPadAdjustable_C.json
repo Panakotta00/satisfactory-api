@@ -1,0 +1,29 @@
+{
+	"name": "Jump Pad",
+	"className": "Desc_JumpPadAdjustable_C",
+	"description": "Launches pioneers for quick, vertical traversal.\r\nThe launch angle can be adjusted while building.\r\nCaution: Be sure to land safely!",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_Vehicles_C",
+	"menuPriority": 65
+}

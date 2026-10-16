@@ -1,0 +1,28 @@
+{
+	"name": "Electromagnetic Control Rod",
+	"className": "Recipe_ElectromagneticControlRod_C",
+	"duration": 15,
+	"manualDuration": 15,
+	"manufacturingMenuPriority": 1,
+	"ingredients": [
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 4
+		},
+		{
+			"item": "Desc_HighSpeedWire_C",
+			"amount": 30
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_ElectromagneticControlRod_C",
+			"amount": 3
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C",
+		"BP_WorkBenchComponent_C",
+		"FGBuildableAutomatedWorkBench"
+	]
+}

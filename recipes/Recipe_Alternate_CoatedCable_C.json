@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Coated Cable",
+	"className": "Recipe_Alternate_CoatedCable_C",
+	"duration": 8,
+	"manualDuration": 8,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_OreCopper_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_LiquidOil_C",
+			"amount": 2000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Cable_C",
+			"amount": 9
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

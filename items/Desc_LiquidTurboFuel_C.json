@@ -1,0 +1,29 @@
+{
+	"name": "Turbofuel",
+	"className": "Desc_LiquidTurboFuel_C",
+	"description": "A more efficient alternative to Fuel. Can be used as-is to generate power, or packaged to be used as fuel for vehicles.",
+	"abbreviatedDisplayName": "Turbo",
+	"stackSize": 50000,
+	"energyValue": 2,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 225,
+	"form": "RF_LIQUID",
+	"fluidColor":
+	{
+		"r": 212,
+		"g": 41,
+		"b": 46,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Fuel_C",
+	"menuPriority": 0
+}

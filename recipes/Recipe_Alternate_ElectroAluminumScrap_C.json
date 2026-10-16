@@ -1,0 +1,30 @@
+{
+	"name": "Alternate: Electrode Aluminum Casing",
+	"className": "Recipe_Alternate_ElectroAluminumScrap_C",
+	"duration": 4,
+	"manualDuration": 4,
+	"manufacturingMenuPriority": 3,
+	"ingredients": [
+		{
+			"item": "Desc_AluminaSolution_C",
+			"amount": 12000
+		},
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_AluminumCasing_C",
+			"amount": 20
+		},
+		{
+			"item": "Desc_Water_C",
+			"amount": 7000
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

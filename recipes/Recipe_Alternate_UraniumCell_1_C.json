@@ -1,0 +1,30 @@
+{
+	"name": "Alternate: Infused Uranium Cell",
+	"className": "Recipe_Alternate_UraniumCell_1_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_OreUranium_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_QuartzCrystal_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_NitrogenGas_C",
+			"amount": 8000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_UraniumCell_C",
+			"amount": 4
+		}
+	],
+	"producedIn": [
+		"Build_HadronCollider_C"
+	]
+}

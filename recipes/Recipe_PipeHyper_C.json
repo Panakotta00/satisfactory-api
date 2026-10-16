@@ -1,0 +1,26 @@
+{
+	"name": "Hypertube",
+	"className": "Recipe_PipeHyper_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Cable_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PipeHyper_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

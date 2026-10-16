@@ -1,0 +1,27 @@
+{
+	"name": "Stun Rebar",
+	"className": "Recipe_Rebar_Stunshot_C",
+	"duration": 6,
+	"manualDuration": 7.9999980926513672,
+	"manufacturingMenuPriority": 102,
+	"ingredients": [
+		{
+			"item": "Desc_SpikedRebar_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_HighSpeedWire_C",
+			"amount": 5
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Rebar_Stunshot_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C",
+		"BP_WorkshopComponent_C"
+	]
+}

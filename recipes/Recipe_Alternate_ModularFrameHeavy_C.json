@@ -1,0 +1,34 @@
+{
+	"name": "Alternate: Heavy Encased Frame",
+	"className": "Recipe_Alternate_ModularFrameHeavy_C",
+	"duration": 64,
+	"manualDuration": 64,
+	"manufacturingMenuPriority": 17,
+	"ingredients": [
+		{
+			"item": "Desc_ModularFrame_C",
+			"amount": 8
+		},
+		{
+			"item": "Desc_SteelPlateReinforced_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 36
+		},
+		{
+			"item": "Desc_Cement_C",
+			"amount": 22
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_ModularFrameHeavy_C",
+			"amount": 3
+		}
+	],
+	"producedIn": [
+		"Build_ManufacturerMk1_C"
+	]
+}

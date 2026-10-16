@@ -1,0 +1,30 @@
+{
+	"name": "Truck Station",
+	"className": "Recipe_TruckStation_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_ModularFrame_C",
+			"amount": 15
+		},
+		{
+			"item": "Desc_Cement_C",
+			"amount": 20
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 50
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_TruckStation_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

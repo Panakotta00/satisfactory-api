@@ -1,0 +1,12 @@
+{
+	"name": "Chrome Finish",
+	"className": "Recipe_PaintFinish_Chrome_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [],
+	"products": [],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

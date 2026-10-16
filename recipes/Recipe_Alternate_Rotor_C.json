@@ -1,0 +1,26 @@
+{
+	"name": "Alternate: Steel Rotor",
+	"className": "Recipe_Alternate_Rotor_C",
+	"duration": 12,
+	"manualDuration": 12,
+	"manufacturingMenuPriority": 2,
+	"ingredients": [
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_Wire_C",
+			"amount": 6
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Rotor_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

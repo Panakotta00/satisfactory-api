@@ -1,0 +1,29 @@
+{
+	"name": "Power Shard",
+	"className": "Desc_CrystalShard_C",
+	"description": "Power Slug mucus compressed into a solid crystal-like shard. \r\nIt radiates a strange power.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": false,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_PowerShards_C",
+	"menuPriority": 0
+}

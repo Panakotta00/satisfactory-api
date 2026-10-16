@@ -1,0 +1,30 @@
+{
+	"name": "Encased Uranium Cell",
+	"className": "Recipe_UraniumCell_C",
+	"duration": 6,
+	"manualDuration": 3,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_OreUranium_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_Cement_C",
+			"amount": 3
+		},
+		{
+			"item": "Desc_SulfuricAcid_C",
+			"amount": 6000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_UraniumCell_C",
+			"amount": 5
+		}
+	],
+	"producedIn": [
+		"Build_HadronCollider_C"
+	]
+}

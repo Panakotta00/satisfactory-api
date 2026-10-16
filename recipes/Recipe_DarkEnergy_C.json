@@ -1,0 +1,22 @@
+{
+	"name": "Dark Matter Residue",
+	"className": "Recipe_DarkEnergy_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 2,
+	"ingredients": [
+		{
+			"item": "Desc_SAMIngot_C",
+			"amount": 6
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_DarkEnergy_C",
+			"amount": 10000
+		}
+	],
+	"producedIn": [
+		"Build_Converter_C"
+	]
+}

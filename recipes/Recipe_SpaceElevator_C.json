@@ -1,0 +1,30 @@
+{
+	"name": "Space Elevator",
+	"className": "Recipe_SpaceElevator_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Cement_C",
+			"amount": 500
+		},
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 250
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 750
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_SpaceElevator_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"FGBuildGun"
+	]
+}

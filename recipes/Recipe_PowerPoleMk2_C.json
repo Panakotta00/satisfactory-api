@@ -1,0 +1,30 @@
+{
+	"name": "Power Pole Mk.2",
+	"className": "Recipe_PowerPoleMk2_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_HighSpeedWire_C",
+			"amount": 6
+		},
+		{
+			"item": "Desc_OreIron_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_Stone_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PowerPoleMk2_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

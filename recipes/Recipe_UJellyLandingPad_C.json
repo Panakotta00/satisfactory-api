@@ -1,0 +1,30 @@
+{
+	"name": "U-Jelly Landing Pad",
+	"className": "Recipe_UJellyLandingPad_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Rotor_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 20
+		},
+		{
+			"item": "Desc_GenericBiomass_C",
+			"amount": 200
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_LandingPad_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

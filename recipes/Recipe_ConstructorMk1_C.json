@@ -1,0 +1,26 @@
+{
+	"name": "Constructor",
+	"className": "Recipe_ConstructorMk1_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_OreIron_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_Stone_C",
+			"amount": 8
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_ConstructorMk1_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

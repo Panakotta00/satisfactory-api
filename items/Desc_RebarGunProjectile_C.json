@@ -1,0 +1,29 @@
+{
+	"name": "Rebar Gun",
+	"className": "Desc_RebarGunProjectile_C",
+	"description": "An improvised ranged weapon for self-defense. Has to be reloaded after each use.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 1,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 1968,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Weapons_C",
+	"menuPriority": 0
+}

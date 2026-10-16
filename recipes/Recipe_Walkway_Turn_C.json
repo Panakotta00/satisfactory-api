@@ -1,0 +1,17 @@
+{
+	"name": "Walkway Corner",
+	"className": "Recipe_Walkway_Turn_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [],
+	"products": [
+		{
+			"item": "Desc_WalkwayTurn_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

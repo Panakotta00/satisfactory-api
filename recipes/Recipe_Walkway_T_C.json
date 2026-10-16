@@ -1,0 +1,17 @@
+{
+	"name": "Walkway T-Junction",
+	"className": "Recipe_Walkway_T_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [],
+	"products": [
+		{
+			"item": "Desc_WalkwayT_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

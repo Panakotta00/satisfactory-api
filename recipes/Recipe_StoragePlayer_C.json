@@ -1,0 +1,22 @@
+{
+	"name": "Personal Storage Box",
+	"className": "Recipe_StoragePlayer_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 15
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_StoragePlayer_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

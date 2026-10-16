@@ -1,0 +1,29 @@
+{
+	"name": "FICSMAS Gift Tree",
+	"className": "Desc_TreeGiftProducer_C",
+	"description": "A festively disguised production building. Reminder: Nothing is ever truly free.\r\nProduces 15 Gifts per minute.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_INVALID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "BC_FICSMAS_C",
+	"menuPriority": 2
+}

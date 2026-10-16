@@ -1,0 +1,26 @@
+{
+	"name": "FICSMAS Candy Cane",
+	"className": "Recipe_CandyCaneDecor_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_CandyCane_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_XmasBow_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_CandyCaneDecor_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

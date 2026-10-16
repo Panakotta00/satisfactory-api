@@ -1,0 +1,22 @@
+{
+	"name": "Power Line",
+	"className": "Recipe_PowerLine_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Cable_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PowerLine_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

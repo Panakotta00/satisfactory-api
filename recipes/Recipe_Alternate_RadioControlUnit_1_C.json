@@ -1,0 +1,30 @@
+{
+	"name": "Alternate: Radio Connection Unit",
+	"className": "Recipe_Alternate_RadioControlUnit_1_C",
+	"duration": 16,
+	"manualDuration": 16,
+	"manufacturingMenuPriority": 6,
+	"ingredients": [
+		{
+			"item": "Desc_AluminumPlateReinforced_C",
+			"amount": 4
+		},
+		{
+			"item": "Desc_HighSpeedConnector_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_QuartzCrystal_C",
+			"amount": 12
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_ModularFrameLightweight_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_ManufacturerMk1_C"
+	]
+}

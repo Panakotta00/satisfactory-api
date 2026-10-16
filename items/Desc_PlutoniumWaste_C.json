@@ -1,0 +1,29 @@
+{
+	"name": "Plutonium Waste",
+	"className": "Desc_PlutoniumWaste_C",
+	"description": "The by-product of consuming Plutonium Fuel Rods in a Nuclear Power Plant.\r\nMust be stored in a safe location. Handle with caution.\r\n\r\nCaution: EXTREMELY Radioactive.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 500,
+	"energyValue": 0,
+	"radioactiveDecay": 200,
+	"canBeDiscarded": false,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Nuclear_C",
+	"menuPriority": 0
+}

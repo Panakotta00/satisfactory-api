@@ -1,0 +1,29 @@
+{
+	"name": "Encased Uranium Cell",
+	"className": "Desc_UraniumCell_C",
+	"description": "Used to produce Uranium Fuel Rods for Nuclear Power production. Made from Uranium Ore.\r\n\r\nCaution: Mildly Radioactive.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 200,
+	"energyValue": 0,
+	"radioactiveDecay": 0.5,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 147,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Nuclear_C",
+	"menuPriority": 0
+}

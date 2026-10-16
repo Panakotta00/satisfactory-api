@@ -1,0 +1,28 @@
+{
+	"name": "Mercer Sphere",
+	"className": "Desc_WAT2_C",
+	"description": "A weird alien phenomenon. While the sphere appears liquid, it behaves like a solid and does not have any detectable mass. It seems to somehow interact with and have awareness of its environment.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 50,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": false,
+	"rememberPickUp": true,
+	"resourceSinkPoints": 0,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"menuPriority": 0
+}
