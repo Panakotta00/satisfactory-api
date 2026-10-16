@@ -1,8 +1,8 @@
 {
 	"name": "Alternate: Cooling Device",
 	"className": "Recipe_Alternate_CoolingDevice_C",
-	"duration": 12,
-	"manualDuration": 12,
+	"duration": 24,
+	"manualDuration": 24,
 	"manufacturingMenuPriority": 2,
 	"ingredients": [
 		{
@@ -10,12 +10,12 @@
 			"amount": 4
 		},
 		{
-			"item": "Desc_SteelPipe_C",
-			"amount": 12
+			"item": "Desc_Motor_C",
+			"amount": 1
 		},
 		{
 			"item": "Desc_NitrogenGas_C",
-			"amount": 20000
+			"amount": 24000
 		}
 	],
 	"products": [

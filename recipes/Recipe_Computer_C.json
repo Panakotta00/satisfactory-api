@@ -1,17 +1,21 @@
 {
 	"name": "Computer",
 	"className": "Recipe_Computer_C",
-	"duration": 12,
-	"manualDuration": 18,
+	"duration": 24,
+	"manualDuration": 36,
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_Plastic_C",
-			"amount": 6
+			"item": "Desc_CircuitBoard_C",
+			"amount": 4
 		},
 		{
 			"item": "Desc_Cable_C",
 			"amount": 8
+		},
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 16
 		}
 	],
 	"products": [
@@ -21,7 +25,7 @@
 		}
 	],
 	"producedIn": [
-		"Build_AssemblerMk1_C",
+		"Build_ManufacturerMk1_C",
 		"BP_WorkBenchComponent_C",
 		"FGBuildableAutomatedWorkBench"
 	]

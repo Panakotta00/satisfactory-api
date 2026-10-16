@@ -1,0 +1,29 @@
+{
+	"name": "Alclad Aluminum Sheet",
+	"className": "Desc_AluminumPlate_C",
+	"description": "Used to make products that require high heat conduction or a high specific strength. Thin, lightweight, and highly durable.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 200,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 266,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_StandardParts_C",
+	"menuPriority": 0
+}

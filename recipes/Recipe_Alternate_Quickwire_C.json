@@ -6,11 +6,11 @@
 	"manufacturingMenuPriority": 8,
 	"ingredients": [
 		{
-			"item": "Desc_OreGold_C",
-			"amount": 3
+			"item": "Desc_GoldIngot_C",
+			"amount": 1
 		},
 		{
-			"item": "Desc_OreCopper_C",
+			"item": "Desc_CopperIngot_C",
 			"amount": 5
 		}
 	],

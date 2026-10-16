@@ -1,0 +1,26 @@
+{
+	"name": "Assembly Director System",
+	"className": "Recipe_SpaceElevatorPart_7_C",
+	"duration": 80,
+	"manualDuration": 80,
+	"manufacturingMenuPriority": 3,
+	"ingredients": [
+		{
+			"item": "Desc_SpaceElevatorPart_5_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_ComputerSuper_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_SpaceElevatorPart_7_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

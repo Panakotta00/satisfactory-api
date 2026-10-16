@@ -6,8 +6,12 @@
 	"manufacturingMenuPriority": 2,
 	"ingredients": [
 		{
+			"item": "Desc_SAMIngot_C",
+			"amount": 1
+		},
+		{
 			"item": "Desc_RawQuartz_C",
-			"amount": 24
+			"amount": 10
 		}
 	],
 	"products": [

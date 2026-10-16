@@ -6,15 +6,19 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_CrystalOscillator_C",
+			"item": "Desc_ModularFrameFused_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_CoolingSystem_C",
 			"amount": 25
 		},
 		{
-			"item": "Desc_AluminumPlateReinforced_C",
+			"item": "Desc_ModularFrameLightweight_C",
 			"amount": 50
 		},
 		{
-			"item": "Desc_SAMIngot_C",
+			"item": "Desc_SAMFluctuator_C",
 			"amount": 100
 		}
 	],

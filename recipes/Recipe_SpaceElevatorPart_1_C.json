@@ -1,0 +1,26 @@
+{
+	"name": "Smart Plating",
+	"className": "Recipe_SpaceElevatorPart_1_C",
+	"duration": 30,
+	"manualDuration": 30,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlateReinforced_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_Rotor_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_SpaceElevatorPart_1_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

@@ -6,11 +6,11 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_SteelPipe_C",
+			"item": "Desc_Computer_C",
 			"amount": 10
 		},
 		{
-			"item": "Desc_ModularFrame_C",
+			"item": "Desc_ModularFrameHeavy_C",
 			"amount": 10
 		},
 		{
@@ -18,7 +18,7 @@
 			"amount": 20
 		},
 		{
-			"item": "Desc_AluminumPlateReinforced_C",
+			"item": "Desc_AluminumCasing_C",
 			"amount": 50
 		}
 	],

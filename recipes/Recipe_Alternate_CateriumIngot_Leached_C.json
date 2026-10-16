@@ -1,5 +1,5 @@
 {
-	"name": "Alternate: Leached Quickwire",
+	"name": "Alternate: Leached Caterium Ingot",
 	"className": "Recipe_Alternate_CateriumIngot_Leached_C",
 	"duration": 10,
 	"manualDuration": 990,
@@ -16,8 +16,8 @@
 	],
 	"products": [
 		{
-			"item": "Desc_HighSpeedWire_C",
-			"amount": 30
+			"item": "Desc_GoldIngot_C",
+			"amount": 6
 		}
 	],
 	"producedIn": [

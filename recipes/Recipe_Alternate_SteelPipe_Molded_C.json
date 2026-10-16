@@ -6,7 +6,7 @@
 	"manufacturingMenuPriority": 3,
 	"ingredients": [
 		{
-			"item": "Desc_Coal_C",
+			"item": "Desc_SteelIngot_C",
 			"amount": 5
 		},
 		{

@@ -1,0 +1,26 @@
+{
+	"name": "Plutonium Pellet",
+	"className": "Recipe_Plutonium_C",
+	"duration": 60,
+	"manualDuration": 60,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_NonFissibleUranium_C",
+			"amount": 100
+		},
+		{
+			"item": "Desc_NuclearWaste_C",
+			"amount": 25
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PlutoniumPellet_C",
+			"amount": 30
+		}
+	],
+	"producedIn": [
+		"Build_HadronCollider_C"
+	]
+}

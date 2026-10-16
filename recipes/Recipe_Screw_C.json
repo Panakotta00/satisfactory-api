@@ -1,0 +1,24 @@
+{
+	"name": "Screws",
+	"className": "Recipe_Screw_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 4,
+	"ingredients": [
+		{
+			"item": "Desc_IronRod_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_IronScrew_C",
+			"amount": 4
+		}
+	],
+	"producedIn": [
+		"Build_ConstructorMk1_C",
+		"BP_WorkBenchComponent_C",
+		"FGBuildableAutomatedWorkBench"
+	]
+}

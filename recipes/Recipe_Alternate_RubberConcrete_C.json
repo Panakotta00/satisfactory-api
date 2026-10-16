@@ -1,5 +1,5 @@
 {
-	"name": "Alternate: Plastic Concrete",
+	"name": "Alternate: Rubber Concrete",
 	"className": "Recipe_Alternate_RubberConcrete_C",
 	"duration": 6,
 	"manualDuration": 6,
@@ -10,7 +10,7 @@
 			"amount": 10
 		},
 		{
-			"item": "Desc_Plastic_C",
+			"item": "Desc_Rubber_C",
 			"amount": 2
 		}
 	],

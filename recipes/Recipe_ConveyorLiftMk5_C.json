@@ -6,7 +6,7 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_AluminumCasing_C",
+			"item": "Desc_AluminumPlate_C",
 			"amount": 2
 		}
 	],

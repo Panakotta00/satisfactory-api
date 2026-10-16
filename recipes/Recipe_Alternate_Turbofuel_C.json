@@ -7,17 +7,17 @@
 	"ingredients": [
 		{
 			"item": "Desc_LiquidFuel_C",
-			"amount": 8000
+			"amount": 6000
 		},
 		{
 			"item": "Desc_CompactedCoal_C",
-			"amount": 6
+			"amount": 4
 		}
 	],
 	"products": [
 		{
 			"item": "Desc_LiquidTurboFuel_C",
-			"amount": 6000
+			"amount": 5000
 		}
 	],
 	"producedIn": [

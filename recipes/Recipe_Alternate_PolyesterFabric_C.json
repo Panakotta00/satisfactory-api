@@ -6,7 +6,7 @@
 	"manufacturingMenuPriority": 2,
 	"ingredients": [
 		{
-			"item": "Desc_Plastic_C",
+			"item": "Desc_PolymerResin_C",
 			"amount": 1
 		},
 		{
@@ -17,7 +17,7 @@
 	"products": [
 		{
 			"item": "Desc_Fabric_C",
-			"amount": 2
+			"amount": 1
 		}
 	],
 	"producedIn": [

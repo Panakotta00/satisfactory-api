@@ -4,7 +4,12 @@
 	"duration": 1,
 	"manualDuration": 1,
 	"manufacturingMenuPriority": 0,
-	"ingredients": [],
+	"ingredients": [
+		{
+			"item": "Desc_Cement_C",
+			"amount": 6
+		}
+	],
 	"products": [
 		{
 			"item": "Desc_PillarTop_C",

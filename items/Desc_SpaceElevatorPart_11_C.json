@@ -1,0 +1,29 @@
+{
+	"name": "Ballistic Warp Drive",
+	"className": "Desc_SpaceElevatorPart_11_C",
+	"description": "Project Part #11. Ship via the Space Elevator to complete phases of Project Assembly.\r\n\r\nA large amount of force is required for the Warp Drives to activate, so sticking them to rockets was the logical next step. Additionally, results improved immensely when the observers were further removed from the Warp Drives upon activation.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 50,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 2895334,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_SpaceElevator_C",
+	"menuPriority": 0
+}

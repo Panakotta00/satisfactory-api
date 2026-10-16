@@ -1,23 +1,23 @@
 {
 	"name": "Alternate: Steel Cast Plate",
 	"className": "Recipe_Alternate_SteelCastedPlate_C",
-	"duration": 8,
-	"manualDuration": 792,
+	"duration": 4,
+	"manualDuration": 396,
 	"manufacturingMenuPriority": 1,
 	"ingredients": [
 		{
-			"item": "Desc_OreIron_C",
-			"amount": 3
+			"item": "Desc_IronIngot_C",
+			"amount": 1
 		},
 		{
-			"item": "Desc_Coal_C",
-			"amount": 2
+			"item": "Desc_SteelIngot_C",
+			"amount": 1
 		}
 	],
 	"products": [
 		{
 			"item": "Desc_IronPlate_C",
-			"amount": 6
+			"amount": 3
 		}
 	],
 	"producedIn": [

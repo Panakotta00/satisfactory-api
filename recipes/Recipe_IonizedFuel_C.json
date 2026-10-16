@@ -1,13 +1,13 @@
 {
 	"name": "Ionized Fuel",
 	"className": "Recipe_IonizedFuel_C",
-	"duration": 10,
-	"manualDuration": 10,
+	"duration": 24,
+	"manualDuration": 24,
 	"manufacturingMenuPriority": 6,
 	"ingredients": [
 		{
-			"item": "Desc_LiquidFuel_C",
-			"amount": 25000
+			"item": "Desc_RocketFuel_C",
+			"amount": 16000
 		},
 		{
 			"item": "Desc_CrystalShard_C",
@@ -17,11 +17,11 @@
 	"products": [
 		{
 			"item": "Desc_IonizedFuel_C",
-			"amount": 10000
+			"amount": 16000
 		},
 		{
-			"item": "Desc_Coal_C",
-			"amount": 10
+			"item": "Desc_CompactedCoal_C",
+			"amount": 2
 		}
 	],
 	"producedIn": [

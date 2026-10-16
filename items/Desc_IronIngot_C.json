@@ -1,0 +1,29 @@
+{
+	"name": "Iron Ingot",
+	"className": "Desc_IronIngot_C",
+	"description": "Used for crafting the most basic parts.",
+	"abbreviatedDisplayName": "Iron",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 2,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Ingots_C",
+	"menuPriority": 0
+}

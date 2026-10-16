@@ -6,6 +6,10 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
+			"item": "Desc_ModularFrameHeavy_C",
+			"amount": 1
+		},
+		{
 			"item": "Desc_Motor_C",
 			"amount": 2
 		},

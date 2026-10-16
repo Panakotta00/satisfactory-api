@@ -1,5 +1,5 @@
 {
-	"name": "Ficsite Trigon (Iron)",
+	"name": "Ficsite Ingot (Iron)",
 	"className": "Recipe_FicsiteIngot_Iron_C",
 	"duration": 6,
 	"manualDuration": 6,
@@ -10,14 +10,14 @@
 			"amount": 4
 		},
 		{
-			"item": "Desc_OreIron_C",
+			"item": "Desc_IronIngot_C",
 			"amount": 24
 		}
 	],
 	"products": [
 		{
-			"item": "Desc_FicsiteMesh_C",
-			"amount": 3
+			"item": "Desc_FicsiteIngot_C",
+			"amount": 1
 		}
 	],
 	"producedIn": [

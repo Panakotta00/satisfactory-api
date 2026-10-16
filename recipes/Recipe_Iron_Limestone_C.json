@@ -6,6 +6,10 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
+			"item": "Desc_SAMIngot_C",
+			"amount": 1
+		},
+		{
 			"item": "Desc_Stone_C",
 			"amount": 24
 		}

@@ -1,0 +1,26 @@
+{
+	"name": "Nuclear Pasta",
+	"className": "Recipe_SpaceElevatorPart_9_C",
+	"duration": 120,
+	"manualDuration": 120,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_CopperDust_C",
+			"amount": 200
+		},
+		{
+			"item": "Desc_PressureConversionCube_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_SpaceElevatorPart_9_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_HadronCollider_C"
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"name": "Plutonium Fuel Rod",
+	"className": "Recipe_PlutoniumFuelRod_C",
+	"duration": 240,
+	"manualDuration": 240,
+	"manufacturingMenuPriority": 3,
+	"ingredients": [
+		{
+			"item": "Desc_PlutoniumCell_C",
+			"amount": 30
+		},
+		{
+			"item": "Desc_SteelPlate_C",
+			"amount": 18
+		},
+		{
+			"item": "Desc_ElectromagneticControlRod_C",
+			"amount": 6
+		},
+		{
+			"item": "Desc_AluminumPlateReinforced_C",
+			"amount": 10
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PlutoniumFuelRod_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_ManufacturerMk1_C"
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"name": "Alternate: Copper Alloy Cable",
+	"name": "Alternate: Copper Alloy Ingot",
 	"className": "Recipe_Alternate_CopperAlloyIngot_C",
 	"duration": 6,
 	"manualDuration": 6,
@@ -16,7 +16,7 @@
 	],
 	"products": [
 		{
-			"item": "Desc_Cable_C",
+			"item": "Desc_CopperIngot_C",
 			"amount": 10
 		}
 	],

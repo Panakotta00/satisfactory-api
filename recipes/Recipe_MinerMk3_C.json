@@ -6,16 +6,24 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
+			"item": "BP_ItemDescriptorPortableMiner_C",
+			"amount": 3
+		},
+		{
 			"item": "Desc_SteelPipe_C",
 			"amount": 50
 		},
 		{
-			"item": "Desc_Computer_C",
+			"item": "Desc_ComputerSuper_C",
 			"amount": 5
 		},
 		{
-			"item": "Desc_Motor_C",
-			"amount": 5
+			"item": "Desc_ModularFrameFused_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_MotorLightweight_C",
+			"amount": 3
 		}
 	],
 	"products": [

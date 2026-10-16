@@ -6,6 +6,10 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
+			"item": "Desc_IronPlateReinforced_C",
+			"amount": 2
+		},
+		{
 			"item": "Desc_ModularFrame_C",
 			"amount": 1
 		},

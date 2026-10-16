@@ -1,0 +1,29 @@
+{
+	"name": "Copper Ingot",
+	"className": "Desc_CopperIngot_C",
+	"description": "Used for crafting the most basic parts.",
+	"abbreviatedDisplayName": "Cop",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 6,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Ingots_C",
+	"menuPriority": 0
+}

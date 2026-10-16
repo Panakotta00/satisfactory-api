@@ -6,8 +6,8 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_ModularFrame_C",
-			"amount": 10
+			"item": "Desc_SteelPlate_C",
+			"amount": 20
 		},
 		{
 			"item": "Desc_SteelPipe_C",

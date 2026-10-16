@@ -1,0 +1,29 @@
+{
+	"name": "SAM Fluctuator",
+	"className": "Desc_SAMFluctuator_C",
+	"description": "The SAM Fluctuator is able to regulate and direct the behavior of Reanimated SAM through the application of electric charges with varying frequencies.\r\nThis control facilitates technologies such as matter-to-energy conversion and spatiotemporal matter manipulation.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 1968,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Electronics_C",
+	"menuPriority": 0
+}

@@ -1,0 +1,29 @@
+{
+	"name": "Caterium Ingot",
+	"className": "Desc_GoldIngot_C",
+	"description": "Smelted from Caterium Ore. Primarily used for advanced electronics.",
+	"abbreviatedDisplayName": "Cat",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 42,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Ingots_C",
+	"menuPriority": 0
+}

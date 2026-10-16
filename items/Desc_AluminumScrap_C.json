@@ -1,0 +1,29 @@
+{
+	"name": "Aluminum Scrap",
+	"className": "Desc_AluminumScrap_C",
+	"description": "Refined from Alumina. Can be smelted into Aluminum Ingots for industrial usage.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 500,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 27,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_AdvancedRefinement_C",
+	"menuPriority": 0
+}

@@ -6,11 +6,15 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_OreIron_C",
+			"item": "Desc_IronPlate_C",
 			"amount": 4
 		},
 		{
-			"item": "Desc_Stone_C",
+			"item": "Desc_IronRod_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_Cement_C",
 			"amount": 2
 		}
 	],

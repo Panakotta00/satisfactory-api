@@ -1,17 +1,17 @@
 {
 	"name": "Modular Frame",
 	"className": "Recipe_ModularFrame_C",
-	"duration": 30,
-	"manualDuration": 15,
+	"duration": 60,
+	"manualDuration": 30,
 	"manufacturingMenuPriority": 10,
 	"ingredients": [
 		{
-			"item": "Desc_IronPlate_C",
+			"item": "Desc_IronPlateReinforced_C",
 			"amount": 3
 		},
 		{
-			"item": "Desc_Cement_C",
-			"amount": 6
+			"item": "Desc_IronRod_C",
+			"amount": 12
 		}
 	],
 	"products": [

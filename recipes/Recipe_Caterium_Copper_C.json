@@ -6,8 +6,12 @@
 	"manufacturingMenuPriority": 8,
 	"ingredients": [
 		{
+			"item": "Desc_SAMIngot_C",
+			"amount": 1
+		},
+		{
 			"item": "Desc_OreCopper_C",
-			"amount": 24
+			"amount": 15
 		}
 	],
 	"products": [

@@ -1,12 +1,16 @@
 {
 	"name": "Alternate: Rigor Motor",
 	"className": "Recipe_Alternate_Motor_1_C",
-	"duration": 24,
-	"manualDuration": 24,
+	"duration": 48,
+	"manualDuration": 48,
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_SteelPipe_C",
+			"item": "Desc_Rotor_C",
+			"amount": 3
+		},
+		{
+			"item": "Desc_Stator_C",
 			"amount": 3
 		},
 		{
@@ -21,6 +25,6 @@
 		}
 	],
 	"producedIn": [
-		"Build_AssemblerMk1_C"
+		"Build_ManufacturerMk1_C"
 	]
 }

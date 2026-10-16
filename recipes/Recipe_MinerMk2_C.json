@@ -6,12 +6,20 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
+			"item": "BP_ItemDescriptorPortableMiner_C",
+			"amount": 2
+		},
+		{
 			"item": "Desc_SteelPlateReinforced_C",
 			"amount": 10
 		},
 		{
 			"item": "Desc_SteelPipe_C",
 			"amount": 20
+		},
+		{
+			"item": "Desc_ModularFrame_C",
+			"amount": 10
 		}
 	],
 	"products": [

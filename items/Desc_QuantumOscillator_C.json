@@ -1,0 +1,29 @@
+{
+	"name": "Superposition Oscillator",
+	"className": "Desc_QuantumOscillator_C",
+	"description": "An oscillator circuit that uses the mechanical resonance of a vibrating crystal to create a string vibration with a precise frequency. Often used in teleportation technology and dimensional manipulation.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 37292,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Quantum_C",
+	"menuPriority": 0
+}

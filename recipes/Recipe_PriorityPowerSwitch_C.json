@@ -10,12 +10,12 @@
 			"amount": 2
 		},
 		{
-			"item": "Desc_SteelPipe_C",
+			"item": "Desc_SteelPlate_C",
 			"amount": 6
 		},
 		{
-			"item": "Desc_Cable_C",
-			"amount": 20
+			"item": "Desc_HighSpeedWire_C",
+			"amount": 50
 		}
 	],
 	"products": [

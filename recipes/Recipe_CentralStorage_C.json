@@ -10,15 +10,15 @@
 			"amount": 1
 		},
 		{
-			"item": "Desc_SAMIngot_C",
+			"item": "Desc_SAMFluctuator_C",
 			"amount": 10
 		},
 		{
-			"item": "Desc_IronPlate_C",
+			"item": "Desc_ModularFrame_C",
 			"amount": 10
 		},
 		{
-			"item": "Desc_Cable_C",
+			"item": "Desc_Wire_C",
 			"amount": 100
 		}
 	],

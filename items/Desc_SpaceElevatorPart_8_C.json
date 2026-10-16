@@ -1,0 +1,29 @@
+{
+	"name": "Thermal Propulsion Rocket",
+	"className": "Desc_SpaceElevatorPart_8_C",
+	"description": "Project Part #8. Ship via the Space Elevator to complete phases of Project Assembly.\r\n\r\nUses extreme heat to produce the high-pressure plasma required to get Project Assembly into motion.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 50,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 728508,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_SpaceElevator_C",
+	"menuPriority": 0
+}

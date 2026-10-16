@@ -6,7 +6,7 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_OreCopper_C",
+			"item": "Desc_CopperSheet_C",
 			"amount": 10
 		},
 		{

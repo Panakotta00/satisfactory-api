@@ -18,12 +18,12 @@
 			"amount": 20
 		},
 		{
-			"item": "Desc_Plastic_C",
+			"item": "Desc_Rubber_C",
 			"amount": 20
 		},
 		{
-			"item": "Desc_Cable_C",
-			"amount": 25
+			"item": "Desc_Wire_C",
+			"amount": 50
 		}
 	],
 	"products": [

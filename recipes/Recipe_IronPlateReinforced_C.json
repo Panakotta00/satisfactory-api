@@ -1,0 +1,28 @@
+{
+	"name": "Reinforced Iron Plate",
+	"className": "Recipe_IronPlateReinforced_C",
+	"duration": 12,
+	"manualDuration": 12,
+	"manufacturingMenuPriority": 6,
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 6
+		},
+		{
+			"item": "Desc_IronScrew_C",
+			"amount": 12
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_IronPlateReinforced_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C",
+		"BP_WorkBenchComponent_C",
+		"FGBuildableAutomatedWorkBench"
+	]
+}

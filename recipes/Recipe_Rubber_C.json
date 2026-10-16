@@ -1,0 +1,26 @@
+{
+	"name": "Rubber",
+	"className": "Recipe_Rubber_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 4,
+	"ingredients": [
+		{
+			"item": "Desc_LiquidOil_C",
+			"amount": 3000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Rubber_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_HeavyOilResidue_C",
+			"amount": 2000
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

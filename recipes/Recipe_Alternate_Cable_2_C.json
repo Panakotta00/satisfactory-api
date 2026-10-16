@@ -1,8 +1,8 @@
 {
 	"name": "Alternate: Quickwire Cable",
 	"className": "Recipe_Alternate_Cable_2_C",
-	"duration": 8,
-	"manualDuration": 8,
+	"duration": 24,
+	"manualDuration": 24,
 	"manufacturingMenuPriority": 2,
 	"ingredients": [
 		{
@@ -10,8 +10,8 @@
 			"amount": 3
 		},
 		{
-			"item": "Desc_LiquidFuel_C",
-			"amount": 4000
+			"item": "Desc_Rubber_C",
+			"amount": 2
 		}
 	],
 	"products": [
@@ -21,6 +21,6 @@
 		}
 	],
 	"producedIn": [
-		"Build_OilRefinery_C"
+		"Build_AssemblerMk1_C"
 	]
 }

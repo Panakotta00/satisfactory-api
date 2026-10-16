@@ -1,0 +1,22 @@
+{
+	"name": "Residual Fuel",
+	"className": "Recipe_ResidualFuel_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 1,
+	"ingredients": [
+		{
+			"item": "Desc_HeavyOilResidue_C",
+			"amount": 6000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_LiquidFuel_C",
+			"amount": 4000
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

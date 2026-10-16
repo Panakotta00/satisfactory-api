@@ -1,0 +1,38 @@
+{
+	"name": "Non-Fissile Uranium",
+	"className": "Recipe_NonFissileUranium_C",
+	"duration": 24,
+	"manualDuration": 24,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_NuclearWaste_C",
+			"amount": 15
+		},
+		{
+			"item": "Desc_Silica_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_NitricAcid_C",
+			"amount": 6000
+		},
+		{
+			"item": "Desc_SulfuricAcid_C",
+			"amount": 6000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_NonFissibleUranium_C",
+			"amount": 20
+		},
+		{
+			"item": "Desc_Water_C",
+			"amount": 6000
+		}
+	],
+	"producedIn": [
+		"Build_Blender_C"
+	]
+}

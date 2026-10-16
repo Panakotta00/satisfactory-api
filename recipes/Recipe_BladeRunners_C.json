@@ -6,7 +6,7 @@
 	"manufacturingMenuPriority": 5,
 	"ingredients": [
 		{
-			"item": "Desc_QuartzCrystal_C",
+			"item": "Desc_Silica_C",
 			"amount": 20
 		},
 		{
@@ -14,7 +14,7 @@
 			"amount": 3
 		},
 		{
-			"item": "Desc_Cable_C",
+			"item": "Desc_Rotor_C",
 			"amount": 3
 		}
 	],

@@ -1,0 +1,28 @@
+{
+	"name": "Encased Plutonium Cell",
+	"className": "Recipe_PlutoniumCell_C",
+	"duration": 12,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 2,
+	"ingredients": [
+		{
+			"item": "Desc_PlutoniumPellet_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_Cement_C",
+			"amount": 4
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PlutoniumCell_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C",
+		"BP_WorkBenchComponent_C",
+		"FGBuildableAutomatedWorkBench"
+	]
+}

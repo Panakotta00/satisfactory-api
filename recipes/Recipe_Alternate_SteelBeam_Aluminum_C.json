@@ -1,26 +1,22 @@
 {
-	"name": "Alternate: Aluminum Pipe",
+	"name": "Alternate: Aluminum Beam",
 	"className": "Recipe_Alternate_SteelBeam_Aluminum_C",
 	"duration": 8,
 	"manualDuration": 792,
 	"manufacturingMenuPriority": 13,
 	"ingredients": [
 		{
-			"item": "Desc_AluminaSolution_C",
-			"amount": 3000
-		},
-		{
-			"item": "Desc_Coal_C",
-			"amount": 4
+			"item": "Desc_AluminumIngot_C",
+			"amount": 3
 		}
 	],
 	"products": [
 		{
-			"item": "Desc_SteelPipe_C",
-			"amount": 12
+			"item": "Desc_SteelPlate_C",
+			"amount": 3
 		}
 	],
 	"producedIn": [
-		"Build_OilRefinery_C"
+		"Build_ConstructorMk1_C"
 	]
 }

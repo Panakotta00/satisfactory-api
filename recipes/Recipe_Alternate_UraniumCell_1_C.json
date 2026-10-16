@@ -1,8 +1,8 @@
 {
 	"name": "Alternate: Infused Uranium Cell",
 	"className": "Recipe_Alternate_UraniumCell_1_C",
-	"duration": 6,
-	"manualDuration": 6,
+	"duration": 12,
+	"manualDuration": 12,
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
@@ -10,12 +10,16 @@
 			"amount": 5
 		},
 		{
-			"item": "Desc_QuartzCrystal_C",
-			"amount": 2
+			"item": "Desc_Silica_C",
+			"amount": 3
 		},
 		{
-			"item": "Desc_NitrogenGas_C",
-			"amount": 8000
+			"item": "Desc_Sulfur_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_HighSpeedWire_C",
+			"amount": 15
 		}
 	],
 	"products": [
@@ -25,6 +29,6 @@
 		}
 	],
 	"producedIn": [
-		"Build_HadronCollider_C"
+		"Build_ManufacturerMk1_C"
 	]
 }

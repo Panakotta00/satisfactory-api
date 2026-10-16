@@ -1,21 +1,25 @@
 {
 	"name": "Turbo Motor",
 	"className": "Recipe_MotorTurbo_C",
-	"duration": 16,
-	"manualDuration": 32,
+	"duration": 32,
+	"manualDuration": 64,
 	"manufacturingMenuPriority": 8,
 	"ingredients": [
-		{
-			"item": "Desc_Motor_C",
-			"amount": 4
-		},
 		{
 			"item": "Desc_CoolingSystem_C",
 			"amount": 4
 		},
 		{
-			"item": "Desc_CrystalOscillator_C",
+			"item": "Desc_ModularFrameLightweight_C",
 			"amount": 2
+		},
+		{
+			"item": "Desc_Motor_C",
+			"amount": 4
+		},
+		{
+			"item": "Desc_Rubber_C",
+			"amount": 24
 		}
 	],
 	"products": [

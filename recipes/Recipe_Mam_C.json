@@ -6,7 +6,7 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_IronPlate_C",
+			"item": "Desc_IronPlateReinforced_C",
 			"amount": 5
 		},
 		{
@@ -14,8 +14,8 @@
 			"amount": 15
 		},
 		{
-			"item": "Desc_Cement_C",
-			"amount": 15
+			"item": "Desc_Wire_C",
+			"amount": 45
 		}
 	],
 	"products": [

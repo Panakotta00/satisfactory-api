@@ -1,0 +1,29 @@
+{
+	"name": "Assembly Director System",
+	"className": "Desc_SpaceElevatorPart_7_C",
+	"description": "Project Part #6. Ship via the Space Elevator to complete phases of Project Assembly.\r\n\r\nThis extremely fast and precise computing system is specifically designed to direct the Project Assembly: Assembly Phase.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 50,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 500176,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_SpaceElevator_C",
+	"menuPriority": 0
+}

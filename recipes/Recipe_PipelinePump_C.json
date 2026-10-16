@@ -6,11 +6,11 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_OreCopper_C",
+			"item": "Desc_CopperSheet_C",
 			"amount": 2
 		},
 		{
-			"item": "Desc_Cable_C",
+			"item": "Desc_Rotor_C",
 			"amount": 2
 		}
 	],

@@ -1,5 +1,5 @@
 {
-	"name": "Alternate: Iron Alloy Plate",
+	"name": "Alternate: Iron Alloy Ingot",
 	"className": "Recipe_Alternate_IngotIron_C",
 	"duration": 12,
 	"manualDuration": 12,
@@ -7,16 +7,16 @@
 	"ingredients": [
 		{
 			"item": "Desc_OreIron_C",
-			"amount": 12
+			"amount": 8
 		},
 		{
 			"item": "Desc_OreCopper_C",
-			"amount": 3
+			"amount": 2
 		}
 	],
 	"products": [
 		{
-			"item": "Desc_IronPlate_C",
+			"item": "Desc_IronIngot_C",
 			"amount": 15
 		}
 	],

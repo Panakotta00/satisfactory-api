@@ -6,7 +6,7 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_OreIron_C",
+			"item": "Desc_IronPlate_C",
 			"amount": 2
 		}
 	],

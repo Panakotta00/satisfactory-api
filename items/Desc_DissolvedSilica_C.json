@@ -1,0 +1,29 @@
+{
+	"name": "Dissolved Silica",
+	"className": "Desc_DissolvedSilica_C",
+	"description": "Silica dissolved in Water, produced as part of the alternative refinement of Raw Quartz.\r\nThe Silica can be extracted from the Water to complete the refinement process.",
+	"abbreviatedDisplayName": "DS",
+	"stackSize": 50000,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 0,
+	"form": "RF_LIQUID",
+	"fluidColor":
+	{
+		"r": 226,
+		"g": 190,
+		"b": 238,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_AdvancedRefinement_C",
+	"menuPriority": 0
+}

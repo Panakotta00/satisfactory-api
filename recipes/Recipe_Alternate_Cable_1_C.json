@@ -6,11 +6,11 @@
 	"manufacturingMenuPriority": 1,
 	"ingredients": [
 		{
-			"item": "Desc_OreCopper_C",
+			"item": "Desc_Wire_C",
 			"amount": 9
 		},
 		{
-			"item": "Desc_Plastic_C",
+			"item": "Desc_Rubber_C",
 			"amount": 6
 		}
 	],

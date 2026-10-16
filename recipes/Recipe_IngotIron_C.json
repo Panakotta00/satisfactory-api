@@ -1,0 +1,24 @@
+{
+	"name": "Iron Ingot",
+	"className": "Recipe_IngotIron_C",
+	"duration": 2,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_OreIron_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_IronIngot_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_SmelterMk1_C",
+		"BP_WorkBenchComponent_C",
+		"FGBuildableAutomatedWorkBench"
+	]
+}

@@ -6,25 +6,21 @@
 	"manufacturingMenuPriority": 18,
 	"ingredients": [
 		{
-			"item": "Desc_OreCopper_C",
+			"item": "Desc_AluminumIngot_C",
 			"amount": 20
 		},
 		{
-			"item": "Desc_OreBauxite_C",
-			"amount": 5
-		},
-		{
-			"item": "Desc_AluminaSolution_C",
-			"amount": 10000
+			"item": "Desc_CopperIngot_C",
+			"amount": 10
 		}
 	],
 	"products": [
 		{
 			"item": "Desc_AluminumCasing_C",
-			"amount": 30
+			"amount": 15
 		}
 	],
 	"producedIn": [
-		"Build_HadronCollider_C"
+		"Build_AssemblerMk1_C"
 	]
 }

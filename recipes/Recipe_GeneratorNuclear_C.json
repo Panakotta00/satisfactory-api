@@ -6,15 +6,15 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_Computer_C",
+			"item": "Desc_ComputerSuper_C",
 			"amount": 10
 		},
 		{
-			"item": "Desc_ModularFrame_C",
+			"item": "Desc_ModularFrameHeavy_C",
 			"amount": 25
 		},
 		{
-			"item": "Desc_AluminumCasing_C",
+			"item": "Desc_AluminumPlate_C",
 			"amount": 100
 		},
 		{

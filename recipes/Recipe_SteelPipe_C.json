@@ -6,11 +6,7 @@
 	"manufacturingMenuPriority": 14,
 	"ingredients": [
 		{
-			"item": "Desc_Coal_C",
-			"amount": 3
-		},
-		{
-			"item": "Desc_OreIron_C",
+			"item": "Desc_SteelIngot_C",
 			"amount": 3
 		}
 	],
@@ -21,7 +17,7 @@
 		}
 	],
 	"producedIn": [
-		"Build_FoundryMk1_C",
+		"Build_ConstructorMk1_C",
 		"BP_WorkBenchComponent_C",
 		"FGBuildableAutomatedWorkBench"
 	]

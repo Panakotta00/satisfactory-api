@@ -6,11 +6,11 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_OreIron_C",
+			"item": "Desc_IronPlateReinforced_C",
 			"amount": 2
 		},
 		{
-			"item": "Desc_Stone_C",
+			"item": "Desc_Cable_C",
 			"amount": 8
 		}
 	],

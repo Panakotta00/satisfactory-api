@@ -6,7 +6,7 @@
 	"manufacturingMenuPriority": 2,
 	"ingredients": [
 		{
-			"item": "Desc_FluidCanister_C",
+			"item": "Desc_Rubber_C",
 			"amount": 6
 		},
 		{

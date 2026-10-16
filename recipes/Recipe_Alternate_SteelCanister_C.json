@@ -6,7 +6,7 @@
 	"manufacturingMenuPriority": 1,
 	"ingredients": [
 		{
-			"item": "Desc_SteelPipe_C",
+			"item": "Desc_SteelIngot_C",
 			"amount": 4
 		}
 	],

@@ -4,7 +4,12 @@
 	"duration": 1,
 	"manualDuration": 1,
 	"manufacturingMenuPriority": 0,
-	"ingredients": [],
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 6
+		}
+	],
 	"products": [
 		{
 			"item": "Desc_Gate_Automated_8x4_C",

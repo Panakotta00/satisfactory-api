@@ -1,23 +1,23 @@
 {
 	"name": "Electromagnetic Control Rod",
 	"className": "Recipe_ElectromagneticControlRod_C",
-	"duration": 15,
-	"manualDuration": 15,
+	"duration": 30,
+	"manualDuration": 30,
 	"manufacturingMenuPriority": 1,
 	"ingredients": [
 		{
-			"item": "Desc_SteelPipe_C",
-			"amount": 4
+			"item": "Desc_Stator_C",
+			"amount": 3
 		},
 		{
-			"item": "Desc_HighSpeedWire_C",
-			"amount": 30
+			"item": "Desc_CircuitBoardHighSpeed_C",
+			"amount": 2
 		}
 	],
 	"products": [
 		{
 			"item": "Desc_ElectromagneticControlRod_C",
-			"amount": 3
+			"amount": 2
 		}
 	],
 	"producedIn": [

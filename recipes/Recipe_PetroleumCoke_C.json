@@ -1,0 +1,22 @@
+{
+	"name": "Petroleum Coke",
+	"className": "Recipe_PetroleumCoke_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 8,
+	"ingredients": [
+		{
+			"item": "Desc_HeavyOilResidue_C",
+			"amount": 4000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PetroleumCoke_C",
+			"amount": 12
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

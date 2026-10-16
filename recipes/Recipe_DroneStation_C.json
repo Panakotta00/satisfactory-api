@@ -6,19 +6,23 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_ModularFrame_C",
+			"item": "Desc_ModularFrameHeavy_C",
 			"amount": 20
 		},
 		{
-			"item": "Desc_Plastic_C",
+			"item": "Desc_HighSpeedConnector_C",
 			"amount": 20
+		},
+		{
+			"item": "Desc_AluminumPlate_C",
+			"amount": 50
 		},
 		{
 			"item": "Desc_AluminumCasing_C",
 			"amount": 50
 		},
 		{
-			"item": "Desc_CrystalOscillator_C",
+			"item": "Desc_ModularFrameLightweight_C",
 			"amount": 10
 		}
 	],

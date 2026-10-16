@@ -7,20 +7,28 @@
 	"ingredients": [
 		{
 			"item": "Desc_SulfuricAcid_C",
-			"amount": 5000
+			"amount": 2500
 		},
 		{
-			"item": "Desc_IronPlate_C",
-			"amount": 4
+			"item": "Desc_AluminaSolution_C",
+			"amount": 2000
+		},
+		{
+			"item": "Desc_AluminumCasing_C",
+			"amount": 1
 		}
 	],
 	"products": [
 		{
 			"item": "Desc_Battery_C",
-			"amount": 2
+			"amount": 1
+		},
+		{
+			"item": "Desc_Water_C",
+			"amount": 1500
 		}
 	],
 	"producedIn": [
-		"Build_HadronCollider_C"
+		"Build_Blender_C"
 	]
 }

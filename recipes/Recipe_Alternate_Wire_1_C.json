@@ -1,18 +1,18 @@
 {
-	"name": "Alternate: Iron Cable",
+	"name": "Alternate: Iron Wire",
 	"className": "Recipe_Alternate_Wire_1_C",
 	"duration": 24,
 	"manualDuration": 24,
 	"manufacturingMenuPriority": 1,
 	"ingredients": [
 		{
-			"item": "Desc_IronPlate_C",
-			"amount": 10
+			"item": "Desc_IronIngot_C",
+			"amount": 5
 		}
 	],
 	"products": [
 		{
-			"item": "Desc_Cable_C",
+			"item": "Desc_Wire_C",
 			"amount": 9
 		}
 	],

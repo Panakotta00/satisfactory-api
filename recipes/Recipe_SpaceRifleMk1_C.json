@@ -10,7 +10,7 @@
 			"amount": 2
 		},
 		{
-			"item": "Desc_Plastic_C",
+			"item": "Desc_Rubber_C",
 			"amount": 10
 		},
 		{
@@ -18,8 +18,8 @@
 			"amount": 25
 		},
 		{
-			"item": "Desc_IronPlate_C",
-			"amount": 50
+			"item": "Desc_IronScrew_C",
+			"amount": 250
 		}
 	],
 	"products": [

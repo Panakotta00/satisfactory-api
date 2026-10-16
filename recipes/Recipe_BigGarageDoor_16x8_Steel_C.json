@@ -6,7 +6,15 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_SteelPipe_C",
+			"item": "Desc_Cement_C",
+			"amount": 4
+		},
+		{
+			"item": "Desc_SteelPlate_C",
+			"amount": 4
+		},
+		{
+			"item": "Desc_SteelPlate_C",
 			"amount": 2
 		}
 	],

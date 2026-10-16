@@ -6,6 +6,10 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
+			"item": "Desc_IronScrew_C",
+			"amount": 200
+		},
+		{
 			"item": "Desc_IronPlate_C",
 			"amount": 10
 		},

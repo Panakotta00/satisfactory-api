@@ -6,11 +6,15 @@
 	"manufacturingMenuPriority": 4,
 	"ingredients": [
 		{
-			"item": "Desc_Plastic_C",
-			"amount": 100
+			"item": "Desc_Rubber_C",
+			"amount": 50
 		},
 		{
-			"item": "Desc_AluminumCasing_C",
+			"item": "Desc_Plastic_C",
+			"amount": 50
+		},
+		{
+			"item": "Desc_AluminumPlate_C",
 			"amount": 50
 		},
 		{

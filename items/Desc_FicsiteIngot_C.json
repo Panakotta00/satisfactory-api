@@ -1,0 +1,29 @@
+{
+	"name": "Ficsite Ingot",
+	"className": "Desc_FicsiteIngot_C",
+	"description": "Produced by reconstructing other metals on a molecular level using Strange Alien Matter.\r\n\r\nSynthesized by FICSIT to be the perfect construction material, and used in the most high-end processes.",
+	"abbreviatedDisplayName": "Fics",
+	"stackSize": 100,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 1936,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Ingots_C",
+	"menuPriority": 0
+}

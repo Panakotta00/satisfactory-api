@@ -1,0 +1,26 @@
+{
+	"name": "Smelter",
+	"className": "Recipe_SmelterBasicMk1_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_IronRod_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_Wire_C",
+			"amount": 8
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_SmelterMk1_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"BP_BuildGun_C"
+	]
+}

@@ -14,12 +14,12 @@
 			"amount": 5
 		},
 		{
-			"item": "Desc_IronPlate_C",
+			"item": "Desc_IronRod_C",
 			"amount": 25
 		},
 		{
-			"item": "Desc_Cable_C",
-			"amount": 200
+			"item": "Desc_Wire_C",
+			"amount": 500
 		}
 	],
 	"products": [

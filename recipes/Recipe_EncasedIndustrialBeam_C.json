@@ -6,8 +6,8 @@
 	"manufacturingMenuPriority": 15,
 	"ingredients": [
 		{
-			"item": "Desc_IronPlate_C",
-			"amount": 6
+			"item": "Desc_SteelPlate_C",
+			"amount": 3
 		},
 		{
 			"item": "Desc_Cement_C",

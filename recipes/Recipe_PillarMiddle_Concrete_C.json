@@ -4,7 +4,12 @@
 	"duration": 1,
 	"manualDuration": 1,
 	"manufacturingMenuPriority": 0,
-	"ingredients": [],
+	"ingredients": [
+		{
+			"item": "Desc_Cement_C",
+			"amount": 5
+		}
+	],
 	"products": [
 		{
 			"item": "Desc_PillarMiddle_Concrete_C",

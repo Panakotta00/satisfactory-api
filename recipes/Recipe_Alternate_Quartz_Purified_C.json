@@ -10,8 +10,8 @@
 			"amount": 24
 		},
 		{
-			"item": "Desc_NitrogenGas_C",
-			"amount": 8000
+			"item": "Desc_NitricAcid_C",
+			"amount": 2000
 		}
 	],
 	"products": [
@@ -20,8 +20,8 @@
 			"amount": 15
 		},
 		{
-			"item": "Desc_AluminaSolution_C",
-			"amount": 6000
+			"item": "Desc_DissolvedSilica_C",
+			"amount": 12000
 		}
 	],
 	"producedIn": [

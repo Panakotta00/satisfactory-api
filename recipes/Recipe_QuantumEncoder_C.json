@@ -6,15 +6,19 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_Motor_C",
+			"item": "Desc_MotorLightweight_C",
 			"amount": 20
 		},
 		{
-			"item": "Desc_ElectromagneticControlRod_C",
-			"amount": 50
+			"item": "Desc_ComputerSuper_C",
+			"amount": 20
 		},
 		{
 			"item": "Desc_CoolingSystem_C",
+			"amount": 50
+		},
+		{
+			"item": "Desc_TimeCrystal_C",
 			"amount": 50
 		},
 		{

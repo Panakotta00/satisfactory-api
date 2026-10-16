@@ -1,0 +1,29 @@
+{
+	"name": "Biochemical Sculptor",
+	"className": "Desc_SpaceElevatorPart_10_C",
+	"description": "Project Part #10. Ship via the Space Elevator to complete phases of Project Assembly.\r\n\r\nYears ahead of the competition, this top-of-the-line 3D printer is used for the production of synthetic biological resources.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 50,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 301778,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_SpaceElevator_C",
+	"menuPriority": 0
+}

@@ -1,25 +1,25 @@
 {
 	"name": "Alternate: Turbo Pressure Motor",
 	"className": "Recipe_Alternate_TurboPressureMotor_C",
-	"duration": 16,
-	"manualDuration": 16,
+	"duration": 32,
+	"manualDuration": 32,
 	"manufacturingMenuPriority": 10,
 	"ingredients": [
 		{
 			"item": "Desc_Motor_C",
-			"amount": 6
-		},
-		{
-			"item": "Desc_ModularFrame_C",
 			"amount": 4
 		},
 		{
-			"item": "Desc_PackagedNitrogenGas_C",
-			"amount": 10
+			"item": "Desc_PressureConversionCube_C",
+			"amount": 1
 		},
 		{
-			"item": "Desc_AluminumPlateReinforced_C",
-			"amount": 16
+			"item": "Desc_PackagedNitrogenGas_C",
+			"amount": 24
+		},
+		{
+			"item": "Desc_Stator_C",
+			"amount": 8
 		}
 	],
 	"products": [

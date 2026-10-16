@@ -1,0 +1,26 @@
+{
+	"name": "Versatile Framework",
+	"className": "Recipe_SpaceElevatorPart_2_C",
+	"duration": 24,
+	"manualDuration": 24,
+	"manufacturingMenuPriority": 1,
+	"ingredients": [
+		{
+			"item": "Desc_ModularFrame_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_SteelPlate_C",
+			"amount": 12
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_SpaceElevatorPart_2_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

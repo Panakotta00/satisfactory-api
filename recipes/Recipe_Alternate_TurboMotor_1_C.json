@@ -1,8 +1,8 @@
 {
 	"name": "Alternate: Turbo Electric Motor",
 	"className": "Recipe_Alternate_TurboMotor_1_C",
-	"duration": 32,
-	"manualDuration": 32,
+	"duration": 64,
+	"manualDuration": 64,
 	"manufacturingMenuPriority": 9,
 	"ingredients": [
 		{
@@ -16,6 +16,10 @@
 		{
 			"item": "Desc_ElectromagneticControlRod_C",
 			"amount": 5
+		},
+		{
+			"item": "Desc_Rotor_C",
+			"amount": 7
 		}
 	],
 	"products": [

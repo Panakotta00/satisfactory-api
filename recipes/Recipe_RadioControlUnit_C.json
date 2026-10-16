@@ -1,8 +1,8 @@
 {
 	"name": "Radio Control Unit",
 	"className": "Recipe_RadioControlUnit_C",
-	"duration": 24,
-	"manualDuration": 24,
+	"duration": 48,
+	"manualDuration": 48,
 	"manufacturingMenuPriority": 5,
 	"ingredients": [
 		{

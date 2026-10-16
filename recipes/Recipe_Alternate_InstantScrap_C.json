@@ -1,5 +1,5 @@
 {
-	"name": "Alternate: Instant Aluminum Casing",
+	"name": "Alternate: Instant Scrap",
 	"className": "Recipe_Alternate_InstantScrap_C",
 	"duration": 6,
 	"manualDuration": 6,
@@ -24,7 +24,7 @@
 	],
 	"products": [
 		{
-			"item": "Desc_AluminumCasing_C",
+			"item": "Desc_AluminumScrap_C",
 			"amount": 30
 		},
 		{

@@ -1,0 +1,29 @@
+{
+	"name": "Copper Powder",
+	"className": "Desc_CopperDust_C",
+	"description": "Ground-up Copper Ingots.\r\nThe high natural density of Copper, combined with the granularity of the powder, makes this part perfect for producing Nuclear Pasta in the Particle Accelerator.",
+	"abbreviatedDisplayName": "Cop",
+	"stackSize": 500,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 72,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Minerals_C",
+	"menuPriority": 0
+}

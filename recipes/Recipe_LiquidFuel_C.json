@@ -1,13 +1,13 @@
 {
 	"name": "Fuel",
 	"className": "Recipe_LiquidFuel_C",
-	"duration": 4,
-	"manualDuration": 4,
+	"duration": 6,
+	"manualDuration": 6,
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
 			"item": "Desc_LiquidOil_C",
-			"amount": 4000
+			"amount": 6000
 		}
 	],
 	"products": [
@@ -16,8 +16,8 @@
 			"amount": 4000
 		},
 		{
-			"item": "Desc_Plastic_C",
-			"amount": 2
+			"item": "Desc_PolymerResin_C",
+			"amount": 3
 		}
 	],
 	"producedIn": [

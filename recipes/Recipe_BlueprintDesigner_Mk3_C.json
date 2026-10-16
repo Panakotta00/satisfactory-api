@@ -6,7 +6,7 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_Computer_C",
+			"item": "Desc_TemporalProcessor_C",
 			"amount": 10
 		},
 		{
@@ -14,7 +14,7 @@
 			"amount": 20
 		},
 		{
-			"item": "Desc_AluminumCasing_C",
+			"item": "Desc_TimeCrystal_C",
 			"amount": 50
 		},
 		{

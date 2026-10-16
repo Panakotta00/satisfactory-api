@@ -1,39 +1,31 @@
 {
-	"name": "Lizard Doggo Statue",
+	"name": "SAM Fluctuator",
 	"className": "Recipe_SAMFluctuator_C",
-	"duration": 32,
-	"manualDuration": 32,
+	"duration": 6,
+	"manualDuration": 6,
 	"manufacturingMenuPriority": 14,
 	"ingredients": [
 		{
-			"item": "Desc_ModularFrame_C",
-			"amount": 16
-		},
-		{
-			"item": "Desc_CrystalOscillator_C",
+			"item": "Desc_SAMIngot_C",
 			"amount": 6
 		},
 		{
-			"item": "Desc_FicsiteMesh_C",
-			"amount": 48
+			"item": "Desc_Wire_C",
+			"amount": 5
 		},
 		{
-			"item": "Desc_QuantumEnergy_C",
-			"amount": 30000
+			"item": "Desc_SteelPipe_C",
+			"amount": 3
 		}
 	],
 	"products": [
 		{
-			"item": "Desc_DoggoStatue_C",
-			"amount": 8
-		},
-		{
-			"item": "Desc_DarkEnergy_C",
-			"amount": 30000
+			"item": "Desc_SAMFluctuator_C",
+			"amount": 1
 		}
 	],
 	"producedIn": [
-		"Build_QuantumEncoder_C",
+		"Build_ManufacturerMk1_C",
 		"BP_WorkBenchComponent_C"
 	]
 }

@@ -6,14 +6,14 @@
 	"manufacturingMenuPriority": 3,
 	"ingredients": [
 		{
-			"item": "Desc_OreCopper_C",
+			"item": "Desc_Wire_C",
 			"amount": 2
 		}
 	],
 	"products": [
 		{
 			"item": "Desc_Cable_C",
-			"amount": 2
+			"amount": 1
 		}
 	],
 	"producedIn": [

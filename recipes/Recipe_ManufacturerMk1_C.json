@@ -6,16 +6,20 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
+			"item": "Desc_Motor_C",
+			"amount": 10
+		},
+		{
 			"item": "Desc_ModularFrame_C",
 			"amount": 20
 		},
 		{
-			"item": "Desc_SteelPlateReinforced_C",
-			"amount": 30
+			"item": "Desc_Plastic_C",
+			"amount": 50
 		},
 		{
-			"item": "Desc_Computer_C",
-			"amount": 10
+			"item": "Desc_Cable_C",
+			"amount": 50
 		}
 	],
 	"products": [

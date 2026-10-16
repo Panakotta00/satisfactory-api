@@ -4,7 +4,12 @@
 	"duration": 1,
 	"manualDuration": 1,
 	"manufacturingMenuPriority": 0,
-	"ingredients": [],
+	"ingredients": [
+		{
+			"item": "Desc_SteelPlate_C",
+			"amount": 3
+		}
+	],
 	"products": [
 		{
 			"item": "Desc_Pillar_Small_Frame_C",

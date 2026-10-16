@@ -1,5 +1,5 @@
 {
-	"name": "Alternate: Pure Quickwire",
+	"name": "Alternate: Pure Caterium Ingot",
 	"className": "Recipe_Alternate_PureCateriumIngot_C",
 	"duration": 5,
 	"manualDuration": 5,
@@ -16,8 +16,8 @@
 	],
 	"products": [
 		{
-			"item": "Desc_HighSpeedWire_C",
-			"amount": 5
+			"item": "Desc_GoldIngot_C",
+			"amount": 1
 		}
 	],
 	"producedIn": [

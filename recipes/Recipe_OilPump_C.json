@@ -6,11 +6,11 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_SteelPipe_C",
+			"item": "Desc_Motor_C",
 			"amount": 15
 		},
 		{
-			"item": "Desc_Cement_C",
+			"item": "Desc_SteelPlateReinforced_C",
 			"amount": 20
 		},
 		{

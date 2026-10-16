@@ -6,16 +6,20 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_OreGold_C",
+			"item": "Desc_Motor_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_SteelPlateReinforced_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 30
+		},
+		{
+			"item": "Desc_CopperSheet_C",
 			"amount": 20
-		},
-		{
-			"item": "Desc_OreCopper_C",
-			"amount": 30
-		},
-		{
-			"item": "Desc_Stone_C",
-			"amount": 30
 		}
 	],
 	"products": [

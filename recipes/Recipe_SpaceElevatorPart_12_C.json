@@ -1,0 +1,38 @@
+{
+	"name": "AI Expansion Server",
+	"className": "Recipe_SpaceElevatorPart_12_C",
+	"duration": 15,
+	"manualDuration": 15,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_SpaceElevatorPart_6_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_TemporalProcessor_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_QuantumOscillator_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_QuantumEnergy_C",
+			"amount": 25000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_SpaceElevatorPart_12_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_DarkEnergy_C",
+			"amount": 25000
+		}
+	],
+	"producedIn": [
+		"Build_QuantumEncoder_C"
+	]
+}

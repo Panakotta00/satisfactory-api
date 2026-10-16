@@ -1,0 +1,29 @@
+{
+	"name": "Magnetic Field Generator",
+	"className": "Desc_SpaceElevatorPart_6_C",
+	"description": "Project Part #7. Ship via the Space Elevator to complete phases of Project Assembly.\r\n\r\nThese modular generators use superconducting magnets and vast amounts of electricity to produce a powerful and easily expandable magnetic field.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 50,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 11000,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_SpaceElevator_C",
+	"menuPriority": 0
+}

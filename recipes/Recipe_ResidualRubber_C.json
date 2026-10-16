@@ -1,0 +1,26 @@
+{
+	"name": "Residual Rubber",
+	"className": "Recipe_ResidualRubber_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 5,
+	"ingredients": [
+		{
+			"item": "Desc_PolymerResin_C",
+			"amount": 4
+		},
+		{
+			"item": "Desc_Water_C",
+			"amount": 4000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Rubber_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

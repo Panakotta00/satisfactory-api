@@ -1,5 +1,5 @@
 {
-	"name": "Alternate: Tempered Quickwire",
+	"name": "Alternate: Tempered Caterium Ingot",
 	"className": "Recipe_Alternate_CateriumIngot_Tempered_C",
 	"duration": 8,
 	"manualDuration": 792,
@@ -10,14 +10,14 @@
 			"amount": 6
 		},
 		{
-			"item": "Desc_Coal_C",
+			"item": "Desc_PetroleumCoke_C",
 			"amount": 2
 		}
 	],
 	"products": [
 		{
-			"item": "Desc_HighSpeedWire_C",
-			"amount": 15
+			"item": "Desc_GoldIngot_C",
+			"amount": 3
 		}
 	],
 	"producedIn": [

@@ -1,5 +1,5 @@
 {
-	"name": "Alternate: Pure Copper Cable",
+	"name": "Alternate: Pure Copper Ingot",
 	"className": "Recipe_Alternate_PureCopperIngot_C",
 	"duration": 24,
 	"manualDuration": 24,
@@ -11,12 +11,12 @@
 		},
 		{
 			"item": "Desc_Water_C",
-			"amount": 5000
+			"amount": 4000
 		}
 	],
 	"products": [
 		{
-			"item": "Desc_Cable_C",
+			"item": "Desc_CopperIngot_C",
 			"amount": 15
 		}
 	],

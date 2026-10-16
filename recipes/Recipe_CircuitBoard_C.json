@@ -1,0 +1,28 @@
+{
+	"name": "Circuit Board",
+	"className": "Recipe_CircuitBoard_C",
+	"duration": 8,
+	"manualDuration": 12,
+	"manufacturingMenuPriority": 4,
+	"ingredients": [
+		{
+			"item": "Desc_CopperSheet_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 4
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_CircuitBoard_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C",
+		"BP_WorkBenchComponent_C",
+		"FGBuildableAutomatedWorkBench"
+	]
+}

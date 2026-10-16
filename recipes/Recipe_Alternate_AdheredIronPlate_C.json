@@ -1,23 +1,23 @@
 {
-	"name": "Alternate: Flexible Frame",
+	"name": "Alternate: Adhered Iron Plate",
 	"className": "Recipe_Alternate_AdheredIronPlate_C",
-	"duration": 15,
-	"manualDuration": 15,
+	"duration": 16,
+	"manualDuration": 16,
 	"manufacturingMenuPriority": 9,
 	"ingredients": [
 		{
-			"item": "Desc_SteelPlateReinforced_C",
-			"amount": 2
+			"item": "Desc_IronPlate_C",
+			"amount": 3
 		},
 		{
-			"item": "Desc_Plastic_C",
-			"amount": 3
+			"item": "Desc_Rubber_C",
+			"amount": 1
 		}
 	],
 	"products": [
 		{
-			"item": "Desc_ModularFrame_C",
-			"amount": 2
+			"item": "Desc_IronPlateReinforced_C",
+			"amount": 1
 		}
 	],
 	"producedIn": [

@@ -1,8 +1,8 @@
 {
 	"name": "Supercomputer",
 	"className": "Recipe_ComputerSuper_C",
-	"duration": 16,
-	"manualDuration": 24,
+	"duration": 32,
+	"manualDuration": 48,
 	"manufacturingMenuPriority": 2,
 	"ingredients": [
 		{
@@ -10,12 +10,16 @@
 			"amount": 4
 		},
 		{
-			"item": "Desc_Battery_C",
+			"item": "Desc_CircuitBoardHighSpeed_C",
 			"amount": 2
 		},
 		{
 			"item": "Desc_HighSpeedConnector_C",
 			"amount": 3
+		},
+		{
+			"item": "Desc_Plastic_C",
+			"amount": 28
 		}
 	],
 	"products": [

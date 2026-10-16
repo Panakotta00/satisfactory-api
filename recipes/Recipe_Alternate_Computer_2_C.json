@@ -1,17 +1,17 @@
 {
 	"name": "Alternate: Crystal Computer",
 	"className": "Recipe_Alternate_Computer_2_C",
-	"duration": 18,
-	"manualDuration": 18,
+	"duration": 36,
+	"manualDuration": 36,
 	"manufacturingMenuPriority": 11,
 	"ingredients": [
 		{
-			"item": "Desc_Plastic_C",
+			"item": "Desc_CircuitBoard_C",
 			"amount": 3
 		},
 		{
-			"item": "Desc_QuartzCrystal_C",
-			"amount": 5
+			"item": "Desc_CrystalOscillator_C",
+			"amount": 1
 		}
 	],
 	"products": [

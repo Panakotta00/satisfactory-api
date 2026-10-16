@@ -6,12 +6,16 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_ModularFrameFused_C",
-			"amount": 2
+			"item": "Desc_ModularFrameLightweight_C",
+			"amount": 5
 		},
 		{
-			"item": "Desc_SAMIngot_C",
-			"amount": 50
+			"item": "Desc_QuantumOscillator_C",
+			"amount": 10
+		},
+		{
+			"item": "Desc_SAMFluctuator_C",
+			"amount": 25
 		},
 		{
 			"item": "Desc_FicsiteMesh_C",

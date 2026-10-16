@@ -4,7 +4,20 @@
 	"duration": 1,
 	"manualDuration": 1,
 	"manufacturingMenuPriority": 0,
-	"ingredients": [],
+	"ingredients": [
+		{
+			"item": "Desc_SteelPlateReinforced_C",
+			"amount": 12
+		},
+		{
+			"item": "Desc_CopperSheet_C",
+			"amount": 20
+		},
+		{
+			"item": "Desc_CrystalOscillator_C",
+			"amount": 5
+		}
+	],
 	"products": [
 		{
 			"item": "Desc_StandaloneWidgetSign_Huge_C",

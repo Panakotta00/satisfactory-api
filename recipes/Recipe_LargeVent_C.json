@@ -4,7 +4,16 @@
 	"duration": 1,
 	"manualDuration": 1,
 	"manufacturingMenuPriority": 0,
-	"ingredients": [],
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_CopperSheet_C",
+			"amount": 1
+		}
+	],
 	"products": [
 		{
 			"item": "Desc_LargeVent_C",

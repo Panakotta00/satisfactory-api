@@ -6,8 +6,8 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_Coal_C",
-			"amount": 20
+			"item": "Desc_Diamond_C",
+			"amount": 1
 		},
 		{
 			"item": "Desc_DarkEnergy_C",

@@ -6,15 +6,15 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_OreIron_C",
+			"item": "Desc_ModularFrame_C",
 			"amount": 10
 		},
 		{
-			"item": "Desc_OreCopper_C",
+			"item": "Desc_Rotor_C",
 			"amount": 10
 		},
 		{
-			"item": "Desc_Stone_C",
+			"item": "Desc_Cement_C",
 			"amount": 20
 		}
 	],

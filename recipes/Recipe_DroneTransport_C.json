@@ -10,16 +10,20 @@
 			"amount": 4
 		},
 		{
-			"item": "Desc_AluminumCasing_C",
+			"item": "Desc_AluminumPlate_C",
 			"amount": 10
 		},
 		{
-			"item": "Desc_ModularFrame_C",
+			"item": "Desc_ModularFrameLightweight_C",
 			"amount": 1
 		},
 		{
-			"item": "Desc_HighSpeedConnector_C",
+			"item": "Desc_CircuitBoardHighSpeed_C",
 			"amount": 2
+		},
+		{
+			"item": "BP_ItemDescriptorPortableMiner_C",
+			"amount": 1
 		}
 	],
 	"products": [

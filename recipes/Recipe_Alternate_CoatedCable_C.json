@@ -6,11 +6,11 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_OreCopper_C",
+			"item": "Desc_Wire_C",
 			"amount": 5
 		},
 		{
-			"item": "Desc_LiquidOil_C",
+			"item": "Desc_HeavyOilResidue_C",
 			"amount": 2000
 		}
 	],

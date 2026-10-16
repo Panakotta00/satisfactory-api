@@ -1,0 +1,24 @@
+{
+	"name": "Copper Sheet",
+	"className": "Recipe_CopperSheet_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 11,
+	"ingredients": [
+		{
+			"item": "Desc_CopperIngot_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_CopperSheet_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_ConstructorMk1_C",
+		"BP_WorkBenchComponent_C",
+		"FGBuildableAutomatedWorkBench"
+	]
+}

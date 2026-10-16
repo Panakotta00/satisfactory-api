@@ -10,11 +10,11 @@
 			"amount": 2
 		},
 		{
-			"item": "Desc_SteelPipe_C",
+			"item": "Desc_SteelPlate_C",
 			"amount": 2
 		},
 		{
-			"item": "Desc_Cable_C",
+			"item": "Desc_CopperSheet_C",
 			"amount": 5
 		}
 	],

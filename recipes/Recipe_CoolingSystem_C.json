@@ -1,17 +1,17 @@
 {
 	"name": "Cooling System",
 	"className": "Recipe_CoolingSystem_C",
-	"duration": 5,
-	"manualDuration": 5,
+	"duration": 10,
+	"manualDuration": 10,
 	"manufacturingMenuPriority": 1,
 	"ingredients": [
 		{
 			"item": "Desc_AluminumPlateReinforced_C",
-			"amount": 1
+			"amount": 2
 		},
 		{
-			"item": "Desc_AluminumCasing_C",
-			"amount": 4
+			"item": "Desc_Rubber_C",
+			"amount": 2
 		},
 		{
 			"item": "Desc_Water_C",
@@ -19,7 +19,7 @@
 		},
 		{
 			"item": "Desc_NitrogenGas_C",
-			"amount": 10000
+			"amount": 25000
 		}
 	],
 	"products": [

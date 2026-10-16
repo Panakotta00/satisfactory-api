@@ -1,5 +1,5 @@
 {
-	"name": "Alternate: Tempered Copper Cable",
+	"name": "Alternate: Tempered Copper Ingot",
 	"className": "Recipe_Alternate_CopperIngot_Tempered_C",
 	"duration": 12,
 	"manualDuration": 1188,
@@ -10,13 +10,13 @@
 			"amount": 5
 		},
 		{
-			"item": "Desc_Coal_C",
+			"item": "Desc_PetroleumCoke_C",
 			"amount": 8
 		}
 	],
 	"products": [
 		{
-			"item": "Desc_Cable_C",
+			"item": "Desc_CopperIngot_C",
 			"amount": 12
 		}
 	],

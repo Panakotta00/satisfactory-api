@@ -1,38 +1,34 @@
 {
 	"name": "Singularity Cell",
 	"className": "Recipe_SingularityCell_C",
-	"duration": 15,
-	"manualDuration": 15,
+	"duration": 60,
+	"manualDuration": 60,
 	"manufacturingMenuPriority": 12,
 	"ingredients": [
 		{
-			"item": "Desc_NuclearFuelRod_C",
+			"item": "Desc_SpaceElevatorPart_9_C",
 			"amount": 1
-		},
-		{
-			"item": "Desc_SteelPlateReinforced_C",
-			"amount": 10
 		},
 		{
 			"item": "Desc_DarkMatter_C",
 			"amount": 20
 		},
 		{
-			"item": "Desc_QuantumEnergy_C",
-			"amount": 25000
+			"item": "Desc_IronPlate_C",
+			"amount": 100
+		},
+		{
+			"item": "Desc_Cement_C",
+			"amount": 200
 		}
 	],
 	"products": [
 		{
 			"item": "Desc_SingularityCell_C",
-			"amount": 12
-		},
-		{
-			"item": "Desc_DarkEnergy_C",
-			"amount": 25000
+			"amount": 10
 		}
 	],
 	"producedIn": [
-		"Build_QuantumEncoder_C"
+		"Build_ManufacturerMk1_C"
 	]
 }

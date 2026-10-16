@@ -1,0 +1,22 @@
+{
+	"name": "Diamonds",
+	"className": "Recipe_Diamond_C",
+	"duration": 2,
+	"manualDuration": 2,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Coal_C",
+			"amount": 20
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Diamond_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_HadronCollider_C"
+	]
+}

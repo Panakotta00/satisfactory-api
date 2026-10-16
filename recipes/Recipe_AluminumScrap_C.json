@@ -1,0 +1,30 @@
+{
+	"name": "Aluminum Scrap",
+	"className": "Recipe_AluminumScrap_C",
+	"duration": 1,
+	"manualDuration": 1,
+	"manufacturingMenuPriority": 2,
+	"ingredients": [
+		{
+			"item": "Desc_AluminaSolution_C",
+			"amount": 4000
+		},
+		{
+			"item": "Desc_Coal_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_AluminumScrap_C",
+			"amount": 6
+		},
+		{
+			"item": "Desc_Water_C",
+			"amount": 2000
+		}
+	],
+	"producedIn": [
+		"Build_OilRefinery_C"
+	]
+}

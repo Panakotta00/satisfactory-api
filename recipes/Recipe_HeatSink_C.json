@@ -1,26 +1,28 @@
 {
 	"name": "Heat Sink",
 	"className": "Recipe_HeatSink_C",
-	"duration": 4,
-	"manualDuration": 6,
+	"duration": 8,
+	"manualDuration": 12,
 	"manufacturingMenuPriority": 7,
 	"ingredients": [
 		{
-			"item": "Desc_NitrogenGas_C",
-			"amount": 5000
+			"item": "Desc_AluminumPlate_C",
+			"amount": 5
 		},
 		{
-			"item": "Desc_OreCopper_C",
-			"amount": 12
+			"item": "Desc_CopperSheet_C",
+			"amount": 3
 		}
 	],
 	"products": [
 		{
 			"item": "Desc_AluminumPlateReinforced_C",
-			"amount": 2
+			"amount": 1
 		}
 	],
 	"producedIn": [
-		"Build_OilRefinery_C"
+		"Build_AssemblerMk1_C",
+		"BP_WorkBenchComponent_C",
+		"FGBuildableAutomatedWorkBench"
 	]
 }

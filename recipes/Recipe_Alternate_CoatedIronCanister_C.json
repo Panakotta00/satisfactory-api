@@ -6,12 +6,12 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_OreIron_C",
-			"amount": 4
+			"item": "Desc_IronPlate_C",
+			"amount": 2
 		},
 		{
-			"item": "Desc_OreCopper_C",
-			"amount": 2
+			"item": "Desc_CopperSheet_C",
+			"amount": 1
 		}
 	],
 	"products": [

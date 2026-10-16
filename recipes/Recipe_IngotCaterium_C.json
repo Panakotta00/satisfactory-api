@@ -1,0 +1,23 @@
+{
+	"name": "Caterium Ingot",
+	"className": "Recipe_IngotCaterium_C",
+	"duration": 4,
+	"manualDuration": 8,
+	"manufacturingMenuPriority": 5,
+	"ingredients": [
+		{
+			"item": "Desc_OreGold_C",
+			"amount": 3
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_GoldIngot_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_SmelterMk1_C",
+		"BP_WorkBenchComponent_C"
+	]
+}

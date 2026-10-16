@@ -1,8 +1,8 @@
 {
-	"name": "Alternate: Compacted Steel Pipe",
+	"name": "Alternate: Compacted Steel Ingot",
 	"className": "Recipe_Alternate_IngotSteel_2_C",
-	"duration": 12,
-	"manualDuration": 12,
+	"duration": 24,
+	"manualDuration": 24,
 	"manufacturingMenuPriority": 7,
 	"ingredients": [
 		{
@@ -16,8 +16,8 @@
 	],
 	"products": [
 		{
-			"item": "Desc_SteelPipe_C",
-			"amount": 2
+			"item": "Desc_SteelIngot_C",
+			"amount": 4
 		}
 	],
 	"producedIn": [

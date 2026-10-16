@@ -1,13 +1,13 @@
 {
 	"name": "Alternate: Diluted Fuel",
 	"className": "Recipe_Alternate_DilutedFuel_C",
-	"duration": 8,
-	"manualDuration": 8,
+	"duration": 6,
+	"manualDuration": 6,
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_LiquidOil_C",
-			"amount": 4000
+			"item": "Desc_HeavyOilResidue_C",
+			"amount": 5000
 		},
 		{
 			"item": "Desc_Water_C",

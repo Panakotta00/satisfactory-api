@@ -4,7 +4,16 @@
 	"duration": 1,
 	"manualDuration": 1,
 	"manufacturingMenuPriority": 0,
-	"ingredients": [],
+	"ingredients": [
+		{
+			"item": "Desc_IronPlateReinforced_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_QuartzCrystal_C",
+			"amount": 5
+		}
+	],
 	"products": [
 		{
 			"item": "Desc_StandaloneWidgetSign_Medium_C",

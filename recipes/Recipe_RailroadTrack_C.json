@@ -7,7 +7,11 @@
 	"ingredients": [
 		{
 			"item": "Desc_SteelPipe_C",
-			"amount": 2
+			"amount": 1
+		},
+		{
+			"item": "Desc_SteelPlate_C",
+			"amount": 1
 		}
 	],
 	"products": [

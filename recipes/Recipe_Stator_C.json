@@ -1,0 +1,28 @@
+{
+	"name": "Stator",
+	"className": "Recipe_Stator_C",
+	"duration": 12,
+	"manualDuration": 18,
+	"manufacturingMenuPriority": 3,
+	"ingredients": [
+		{
+			"item": "Desc_SteelPipe_C",
+			"amount": 3
+		},
+		{
+			"item": "Desc_Wire_C",
+			"amount": 8
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Stator_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C",
+		"BP_WorkBenchComponent_C",
+		"FGBuildableAutomatedWorkBench"
+	]
+}

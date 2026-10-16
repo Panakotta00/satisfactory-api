@@ -1,0 +1,30 @@
+{
+	"name": "Ficsonium",
+	"className": "Recipe_Ficsonium_C",
+	"duration": 6,
+	"manualDuration": 0,
+	"manufacturingMenuPriority": 2,
+	"ingredients": [
+		{
+			"item": "Desc_PlutoniumWaste_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_SingularityCell_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_DarkEnergy_C",
+			"amount": 20000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_Ficsonium_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_HadronCollider_C"
+	]
+}

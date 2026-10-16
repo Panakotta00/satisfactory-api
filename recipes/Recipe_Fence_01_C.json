@@ -4,7 +4,12 @@
 	"duration": 1,
 	"manualDuration": 1,
 	"manufacturingMenuPriority": 0,
-	"ingredients": [],
+	"ingredients": [
+		{
+			"item": "Desc_IronRod_C",
+			"amount": 4
+		}
+	],
 	"products": [
 		{
 			"item": "Desc_Fence_01_C",

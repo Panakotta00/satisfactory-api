@@ -6,12 +6,16 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_IronPlate_C",
+			"item": "Desc_IronPlateReinforced_C",
 			"amount": 4
 		},
 		{
 			"item": "Desc_QuartzCrystal_C",
 			"amount": 10
+		},
+		{
+			"item": "Desc_CrystalOscillator_C",
+			"amount": 1
 		}
 	],
 	"products": [

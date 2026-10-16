@@ -4,7 +4,16 @@
 	"duration": 1,
 	"manualDuration": 1,
 	"manufacturingMenuPriority": 0,
-	"ingredients": [],
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 3
+		},
+		{
+			"item": "Desc_Cement_C",
+			"amount": 3
+		}
+	],
 	"products": [
 		{
 			"item": "Desc_Wall_Window_8x4_03_Steel_C",

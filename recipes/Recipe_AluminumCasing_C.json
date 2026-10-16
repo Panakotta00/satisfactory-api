@@ -3,28 +3,22 @@
 	"className": "Recipe_AluminumCasing_C",
 	"duration": 2,
 	"manualDuration": 4,
-	"manufacturingMenuPriority": 4,
+	"manufacturingMenuPriority": 18,
 	"ingredients": [
 		{
-			"item": "Desc_AluminaSolution_C",
-			"amount": 4000
-		},
-		{
-			"item": "Desc_Coal_C",
-			"amount": 2
+			"item": "Desc_AluminumIngot_C",
+			"amount": 3
 		}
 	],
 	"products": [
 		{
 			"item": "Desc_AluminumCasing_C",
-			"amount": 6
-		},
-		{
-			"item": "Desc_Water_C",
-			"amount": 2000
+			"amount": 2
 		}
 	],
 	"producedIn": [
-		"Build_OilRefinery_C"
+		"Build_ConstructorMk1_C",
+		"BP_WorkBenchComponent_C",
+		"FGBuildableAutomatedWorkBench"
 	]
 }

@@ -7,11 +7,11 @@
 	"ingredients": [
 		{
 			"item": "Desc_LiquidTurboFuel_C",
-			"amount": 12000
+			"amount": 6000
 		},
 		{
-			"item": "Desc_NitrogenGas_C",
-			"amount": 4000
+			"item": "Desc_NitricAcid_C",
+			"amount": 1000
 		}
 	],
 	"products": [

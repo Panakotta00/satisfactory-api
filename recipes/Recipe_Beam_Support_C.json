@@ -4,7 +4,12 @@
 	"duration": 1,
 	"manualDuration": 1,
 	"manufacturingMenuPriority": 0,
-	"ingredients": [],
+	"ingredients": [
+		{
+			"item": "Desc_Cement_C",
+			"amount": 2
+		}
+	],
 	"products": [
 		{
 			"item": "Desc_Beam_Support_C",

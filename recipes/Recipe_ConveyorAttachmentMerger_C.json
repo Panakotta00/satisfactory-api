@@ -8,6 +8,10 @@
 		{
 			"item": "Desc_IronPlate_C",
 			"amount": 2
+		},
+		{
+			"item": "Desc_IronRod_C",
+			"amount": 2
 		}
 	],
 	"products": [

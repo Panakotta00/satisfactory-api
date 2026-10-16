@@ -1,0 +1,34 @@
+{
+	"name": "Ballistic Warp Drive",
+	"className": "Recipe_SpaceElevatorPart_11_C",
+	"duration": 60,
+	"manualDuration": 60,
+	"manufacturingMenuPriority": 7,
+	"ingredients": [
+		{
+			"item": "Desc_SpaceElevatorPart_8_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_SingularityCell_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_QuantumOscillator_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_DarkMatter_C",
+			"amount": 40
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_SpaceElevatorPart_11_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_ManufacturerMk1_C"
+	]
+}

@@ -1,8 +1,8 @@
 {
 	"name": "Alternate: Insulated Crystal Oscillator",
 	"className": "Recipe_Alternate_CrystalOscillator_C",
-	"duration": 8,
-	"manualDuration": 8,
+	"duration": 32,
+	"manualDuration": 32,
 	"manufacturingMenuPriority": 4,
 	"ingredients": [
 		{
@@ -10,8 +10,12 @@
 			"amount": 10
 		},
 		{
-			"item": "Desc_Plastic_C",
-			"amount": 9
+			"item": "Desc_Rubber_C",
+			"amount": 7
+		},
+		{
+			"item": "Desc_CircuitBoardHighSpeed_C",
+			"amount": 1
 		}
 	],
 	"products": [
@@ -21,6 +25,6 @@
 		}
 	],
 	"producedIn": [
-		"Build_HadronCollider_C"
+		"Build_ManufacturerMk1_C"
 	]
 }

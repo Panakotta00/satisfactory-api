@@ -14,12 +14,16 @@
 			"amount": 25
 		},
 		{
-			"item": "Desc_Plastic_C",
+			"item": "Desc_HighSpeedConnector_C",
+			"amount": 25
+		},
+		{
+			"item": "Desc_CopperSheet_C",
 			"amount": 50
 		},
 		{
-			"item": "Desc_Cable_C",
-			"amount": 100
+			"item": "Desc_Wire_C",
+			"amount": 250
 		}
 	],
 	"products": [

@@ -6,16 +6,16 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_Coal_C",
-			"amount": 40
-		},
-		{
-			"item": "Desc_QuartzCrystal_C",
-			"amount": 16
+			"item": "Desc_TimeCrystal_C",
+			"amount": 2
 		},
 		{
 			"item": "Desc_DarkMatter_C",
 			"amount": 2
+		},
+		{
+			"item": "Desc_QuartzCrystal_C",
+			"amount": 12
 		},
 		{
 			"item": "Desc_QuantumEnergy_C",
@@ -25,7 +25,7 @@
 	"products": [
 		{
 			"item": "Desc_CrystalShard_C",
-			"amount": 2
+			"amount": 1
 		},
 		{
 			"item": "Desc_DarkEnergy_C",

@@ -6,7 +6,7 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_ModularFrame_C",
+			"item": "Desc_ModularFrameHeavy_C",
 			"amount": 10
 		},
 		{
@@ -14,7 +14,7 @@
 			"amount": 20
 		},
 		{
-			"item": "Desc_Plastic_C",
+			"item": "Desc_Rubber_C",
 			"amount": 100
 		},
 		{

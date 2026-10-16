@@ -6,7 +6,7 @@
 	"manufacturingMenuPriority": 301,
 	"ingredients": [
 		{
-			"item": "Desc_Cable_C",
+			"item": "Desc_CopperSheet_C",
 			"amount": 3
 		},
 		{

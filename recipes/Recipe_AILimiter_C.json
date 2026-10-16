@@ -1,0 +1,28 @@
+{
+	"name": "AI Limiter",
+	"className": "Recipe_AILimiter_C",
+	"duration": 12,
+	"manualDuration": 12,
+	"manufacturingMenuPriority": 9,
+	"ingredients": [
+		{
+			"item": "Desc_CopperSheet_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_HighSpeedWire_C",
+			"amount": 20
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_CircuitBoardHighSpeed_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C",
+		"BP_WorkBenchComponent_C",
+		"FGBuildableAutomatedWorkBench"
+	]
+}

@@ -8,6 +8,10 @@
 		{
 			"item": "Desc_FicsiteMesh_C",
 			"amount": 2
+		},
+		{
+			"item": "Desc_TimeCrystal_C",
+			"amount": 2
 		}
 	],
 	"products": [

@@ -6,12 +6,16 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_IronPlate_C",
+			"item": "Desc_IronPlateReinforced_C",
 			"amount": 4
 		},
 		{
-			"item": "Desc_Cable_C",
+			"item": "Desc_Wire_C",
 			"amount": 20
+		},
+		{
+			"item": "Desc_IronScrew_C",
+			"amount": 50
 		}
 	],
 	"products": [

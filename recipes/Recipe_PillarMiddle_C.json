@@ -4,7 +4,16 @@
 	"duration": 1,
 	"manualDuration": 1,
 	"manufacturingMenuPriority": 0,
-	"ingredients": [],
+	"ingredients": [
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_Cement_C",
+			"amount": 3
+		}
+	],
 	"products": [
 		{
 			"item": "Desc_PillarMiddle_C",

@@ -1,0 +1,28 @@
+{
+	"name": "Pressure Conversion Cube",
+	"className": "Recipe_PressureConversionCube_C",
+	"duration": 60,
+	"manualDuration": 120,
+	"manufacturingMenuPriority": 3,
+	"ingredients": [
+		{
+			"item": "Desc_ModularFrameFused_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_ModularFrameLightweight_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_PressureConversionCube_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C",
+		"BP_WorkBenchComponent_C",
+		"FGBuildableAutomatedWorkBench"
+	]
+}

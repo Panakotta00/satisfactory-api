@@ -8,6 +8,10 @@
 		{
 			"item": "Desc_IronPlate_C",
 			"amount": 2
+		},
+		{
+			"item": "Desc_Cable_C",
+			"amount": 2
 		}
 	],
 	"products": [

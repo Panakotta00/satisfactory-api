@@ -1,0 +1,34 @@
+{
+	"name": "Thermal Propulsion Rocket",
+	"className": "Recipe_SpaceElevatorPart_8_C",
+	"duration": 120,
+	"manualDuration": 120,
+	"manufacturingMenuPriority": 6,
+	"ingredients": [
+		{
+			"item": "Desc_SpaceElevatorPart_4_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_MotorLightweight_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_CoolingSystem_C",
+			"amount": 6
+		},
+		{
+			"item": "Desc_ModularFrameFused_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_SpaceElevatorPart_8_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_ManufacturerMk1_C"
+	]
+}

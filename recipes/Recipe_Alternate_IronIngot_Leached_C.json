@@ -1,23 +1,23 @@
 {
-	"name": "Alternate: Leached Iron Plate",
+	"name": "Alternate: Leached Iron Ingot",
 	"className": "Recipe_Alternate_IronIngot_Leached_C",
-	"duration": 12,
-	"manualDuration": 1188,
+	"duration": 6,
+	"manualDuration": 594,
 	"manufacturingMenuPriority": 1,
 	"ingredients": [
 		{
 			"item": "Desc_OreIron_C",
-			"amount": 15
+			"amount": 5
 		},
 		{
 			"item": "Desc_SulfuricAcid_C",
-			"amount": 2000
+			"amount": 1000
 		}
 	],
 	"products": [
 		{
-			"item": "Desc_IronPlate_C",
-			"amount": 20
+			"item": "Desc_IronIngot_C",
+			"amount": 10
 		}
 	],
 	"producedIn": [

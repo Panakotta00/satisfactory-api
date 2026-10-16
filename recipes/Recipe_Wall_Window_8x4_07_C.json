@@ -4,7 +4,16 @@
 	"duration": 1,
 	"manualDuration": 1,
 	"manufacturingMenuPriority": 0,
-	"ingredients": [],
+	"ingredients": [
+		{
+			"item": "Desc_Silica_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_SteelPlate_C",
+			"amount": 2
+		}
+	],
 	"products": [
 		{
 			"item": "Desc_Wall_Window_8x4_07_C",

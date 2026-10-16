@@ -1,0 +1,29 @@
+{
+	"name": "Petroleum Coke",
+	"className": "Desc_PetroleumCoke_C",
+	"description": "Used for crafting.\r\nA carbon-rich material distilled from Heavy Oil Residue. \r\nUsed as a less efficient Coal replacement.",
+	"abbreviatedDisplayName": "Coke",
+	"stackSize": 200,
+	"energyValue": 180,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 20,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_SolidOilProducts_C",
+	"menuPriority": 0
+}

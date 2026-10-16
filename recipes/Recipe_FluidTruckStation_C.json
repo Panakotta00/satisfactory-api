@@ -10,12 +10,16 @@
 			"amount": 15
 		},
 		{
-			"item": "Desc_Motor_C",
-			"amount": 10
+			"item": "Desc_Stator_C",
+			"amount": 20
+		},
+		{
+			"item": "Desc_Rubber_C",
+			"amount": 20
 		},
 		{
 			"item": "Desc_Plastic_C",
-			"amount": 20
+			"amount": 50
 		}
 	],
 	"products": [

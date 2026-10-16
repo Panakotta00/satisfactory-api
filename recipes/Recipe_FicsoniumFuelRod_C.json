@@ -1,13 +1,13 @@
 {
 	"name": "Ficsonium Fuel Rod",
 	"className": "Recipe_FicsoniumFuelRod_C",
-	"duration": 20,
-	"manualDuration": 20,
+	"duration": 24,
+	"manualDuration": 24,
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_NuclearWaste_C",
-			"amount": 10
+			"item": "Desc_Ficsonium_C",
+			"amount": 2
 		},
 		{
 			"item": "Desc_ElectromagneticControlRod_C",

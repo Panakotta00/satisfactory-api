@@ -10,16 +10,20 @@
 			"amount": 15
 		},
 		{
-			"item": "Desc_HighSpeedWire_C",
-			"amount": 50
-		},
-		{
-			"item": "Desc_Plastic_C",
-			"amount": 50
-		},
-		{
 			"item": "Desc_SteelPlateReinforced_C",
 			"amount": 15
+		},
+		{
+			"item": "Desc_CopperSheet_C",
+			"amount": 30
+		},
+		{
+			"item": "Desc_Rubber_C",
+			"amount": 50
+		},
+		{
+			"item": "Desc_HighSpeedWire_C",
+			"amount": 50
 		}
 	],
 	"products": [

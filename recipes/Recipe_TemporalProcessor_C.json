@@ -1,0 +1,38 @@
+{
+	"name": "Neural-Quantum Processor",
+	"className": "Recipe_TemporalProcessor_C",
+	"duration": 20,
+	"manualDuration": 20,
+	"manufacturingMenuPriority": 1,
+	"ingredients": [
+		{
+			"item": "Desc_TimeCrystal_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_ComputerSuper_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_FicsiteMesh_C",
+			"amount": 15
+		},
+		{
+			"item": "Desc_QuantumEnergy_C",
+			"amount": 25000
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_TemporalProcessor_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_DarkEnergy_C",
+			"amount": 25000
+		}
+	],
+	"producedIn": [
+		"Build_QuantumEncoder_C"
+	]
+}

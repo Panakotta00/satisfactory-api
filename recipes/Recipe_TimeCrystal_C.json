@@ -1,0 +1,22 @@
+{
+	"name": "Time Crystal",
+	"className": "Recipe_TimeCrystal_C",
+	"duration": 10,
+	"manualDuration": 10,
+	"manufacturingMenuPriority": 0,
+	"ingredients": [
+		{
+			"item": "Desc_Diamond_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_TimeCrystal_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_Converter_C"
+	]
+}

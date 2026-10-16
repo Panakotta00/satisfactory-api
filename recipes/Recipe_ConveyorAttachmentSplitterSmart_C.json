@@ -6,11 +6,15 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_IronPlate_C",
+			"item": "Desc_IronPlateReinforced_C",
 			"amount": 2
 		},
 		{
-			"item": "Desc_HighSpeedWire_C",
+			"item": "Desc_Rotor_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_CircuitBoardHighSpeed_C",
 			"amount": 1
 		}
 	],

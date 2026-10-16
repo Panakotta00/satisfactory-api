@@ -1,0 +1,30 @@
+{
+	"name": "Modular Engine",
+	"className": "Recipe_SpaceElevatorPart_4_C",
+	"duration": 60,
+	"manualDuration": 60,
+	"manufacturingMenuPriority": 3,
+	"ingredients": [
+		{
+			"item": "Desc_Motor_C",
+			"amount": 2
+		},
+		{
+			"item": "Desc_Rubber_C",
+			"amount": 15
+		},
+		{
+			"item": "Desc_SpaceElevatorPart_1_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_SpaceElevatorPart_4_C",
+			"amount": 1
+		}
+	],
+	"producedIn": [
+		"Build_ManufacturerMk1_C"
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"name": "Alternate: Electrode Aluminum Casing",
+	"name": "Alternate: Electrode Aluminum Scrap",
 	"className": "Recipe_Alternate_ElectroAluminumScrap_C",
 	"duration": 4,
 	"manualDuration": 4,
@@ -10,13 +10,13 @@
 			"amount": 12000
 		},
 		{
-			"item": "Desc_Plastic_C",
-			"amount": 2
+			"item": "Desc_PetroleumCoke_C",
+			"amount": 4
 		}
 	],
 	"products": [
 		{
-			"item": "Desc_AluminumCasing_C",
+			"item": "Desc_AluminumScrap_C",
 			"amount": 20
 		},
 		{

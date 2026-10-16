@@ -1,0 +1,30 @@
+{
+	"name": "Nitric Acid",
+	"className": "Recipe_NitricAcid_C",
+	"duration": 6,
+	"manualDuration": 6,
+	"manufacturingMenuPriority": 2,
+	"ingredients": [
+		{
+			"item": "Desc_NitrogenGas_C",
+			"amount": 12000
+		},
+		{
+			"item": "Desc_Water_C",
+			"amount": 3000
+		},
+		{
+			"item": "Desc_IronPlate_C",
+			"amount": 1
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_NitricAcid_C",
+			"amount": 3000
+		}
+	],
+	"producedIn": [
+		"Build_Blender_C"
+	]
+}

@@ -10,11 +10,11 @@
 			"amount": 10
 		},
 		{
-			"item": "Desc_Cable_C",
-			"amount": 10
+			"item": "Desc_Wire_C",
+			"amount": 20
 		},
 		{
-			"item": "Desc_SteelPipe_C",
+			"item": "Desc_SteelPlate_C",
 			"amount": 20
 		}
 	],

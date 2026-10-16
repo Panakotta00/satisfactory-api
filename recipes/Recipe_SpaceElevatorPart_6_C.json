@@ -1,0 +1,26 @@
+{
+	"name": "Magnetic Field Generator",
+	"className": "Recipe_SpaceElevatorPart_6_C",
+	"duration": 120,
+	"manualDuration": 120,
+	"manufacturingMenuPriority": 5,
+	"ingredients": [
+		{
+			"item": "Desc_SpaceElevatorPart_2_C",
+			"amount": 5
+		},
+		{
+			"item": "Desc_ElectromagneticControlRod_C",
+			"amount": 2
+		}
+	],
+	"products": [
+		{
+			"item": "Desc_SpaceElevatorPart_6_C",
+			"amount": 2
+		}
+	],
+	"producedIn": [
+		"Build_AssemblerMk1_C"
+	]
+}

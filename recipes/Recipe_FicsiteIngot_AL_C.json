@@ -1,5 +1,5 @@
 {
-	"name": "Ficsite Trigon (Bauxite)",
+	"name": "Ficsite Ingot (Aluminum)",
 	"className": "Recipe_FicsiteIngot_AL_C",
 	"duration": 2,
 	"manualDuration": 2,
@@ -10,14 +10,14 @@
 			"amount": 2
 		},
 		{
-			"item": "Desc_OreBauxite_C",
+			"item": "Desc_AluminumIngot_C",
 			"amount": 4
 		}
 	],
 	"products": [
 		{
-			"item": "Desc_FicsiteMesh_C",
-			"amount": 3
+			"item": "Desc_FicsiteIngot_C",
+			"amount": 1
 		}
 	],
 	"producedIn": [

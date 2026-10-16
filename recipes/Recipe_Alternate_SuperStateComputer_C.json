@@ -7,21 +7,25 @@
 	"ingredients": [
 		{
 			"item": "Desc_Computer_C",
-			"amount": 6
+			"amount": 3
 		},
 		{
 			"item": "Desc_ElectromagneticControlRod_C",
-			"amount": 2
+			"amount": 1
 		},
 		{
 			"item": "Desc_Battery_C",
 			"amount": 10
+		},
+		{
+			"item": "Desc_Wire_C",
+			"amount": 25
 		}
 	],
 	"products": [
 		{
 			"item": "Desc_ComputerSuper_C",
-			"amount": 2
+			"amount": 1
 		}
 	],
 	"producedIn": [

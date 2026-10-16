@@ -1,0 +1,29 @@
+{
+	"name": "Time Crystal",
+	"className": "Desc_TimeCrystal_C",
+	"description": "Time Crystals are Diamonds that have been reconfigured on a sub-atomic level in the Converter to retain a time-periodic self-organizing structure. This allows them to be used in the development of quantum processing and storage technologies.",
+	"abbreviatedDisplayName": "",
+	"stackSize": 200,
+	"energyValue": 0,
+	"radioactiveDecay": 0,
+	"canBeDiscarded": true,
+	"rememberPickUp": false,
+	"resourceSinkPoints": 960,
+	"form": "RF_SOLID",
+	"fluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"gasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"category": "Cat_Quantum_C",
+	"menuPriority": 0
+}

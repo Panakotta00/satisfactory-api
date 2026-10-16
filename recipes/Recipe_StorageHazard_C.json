@@ -7,7 +7,11 @@
 	"ingredients": [
 		{
 			"item": "Desc_IronPlate_C",
-			"amount": 15
+			"amount": 6
+		},
+		{
+			"item": "Desc_IronRod_C",
+			"amount": 6
 		}
 	],
 	"products": [

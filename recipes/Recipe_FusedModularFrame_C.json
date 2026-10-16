@@ -1,12 +1,12 @@
 {
 	"name": "Fused Modular Frame",
 	"className": "Recipe_FusedModularFrame_C",
-	"duration": 20,
-	"manualDuration": 20,
+	"duration": 40,
+	"manualDuration": 40,
 	"manufacturingMenuPriority": 3,
 	"ingredients": [
 		{
-			"item": "Desc_ModularFrame_C",
+			"item": "Desc_ModularFrameHeavy_C",
 			"amount": 1
 		},
 		{

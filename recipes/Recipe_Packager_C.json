@@ -6,8 +6,12 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_SteelPipe_C",
-			"amount": 5
+			"item": "Desc_SteelPlate_C",
+			"amount": 20
+		},
+		{
+			"item": "Desc_Rubber_C",
+			"amount": 10
 		},
 		{
 			"item": "Desc_Plastic_C",

@@ -7,17 +7,17 @@
 	"ingredients": [
 		{
 			"item": "Desc_LiquidOil_C",
-			"amount": 4000
+			"amount": 3000
 		}
 	],
 	"products": [
 		{
 			"item": "Desc_Plastic_C",
-			"amount": 6
+			"amount": 2
 		},
 		{
-			"item": "Desc_LiquidFuel_C",
-			"amount": 2000
+			"item": "Desc_HeavyOilResidue_C",
+			"amount": 1000
 		}
 	],
 	"producedIn": [

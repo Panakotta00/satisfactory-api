@@ -6,11 +6,15 @@
 	"manufacturingMenuPriority": 0,
 	"ingredients": [
 		{
-			"item": "Desc_OreIron_C",
+			"item": "BP_ItemDescriptorPortableMiner_C",
+			"amount": 1
+		},
+		{
+			"item": "Desc_IronPlate_C",
 			"amount": 10
 		},
 		{
-			"item": "Desc_Stone_C",
+			"item": "Desc_Cement_C",
 			"amount": 10
 		}
 	],

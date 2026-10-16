@@ -14,8 +14,12 @@
 			"amount": 250
 		},
 		{
-			"item": "Desc_Cable_C",
-			"amount": 750
+			"item": "Desc_IronRod_C",
+			"amount": 400
+		},
+		{
+			"item": "Desc_Wire_C",
+			"amount": 1500
 		}
 	],
 	"products": [

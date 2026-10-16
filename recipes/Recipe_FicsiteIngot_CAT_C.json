@@ -1,5 +1,5 @@
 {
-	"name": "Ficsite Trigon (Caterium)",
+	"name": "Ficsite Ingot (Caterium)",
 	"className": "Recipe_FicsiteIngot_CAT_C",
 	"duration": 4,
 	"manualDuration": 4,
@@ -10,14 +10,14 @@
 			"amount": 3
 		},
 		{
-			"item": "Desc_OreGold_C",
+			"item": "Desc_GoldIngot_C",
 			"amount": 4
 		}
 	],
 	"products": [
 		{
-			"item": "Desc_FicsiteMesh_C",
-			"amount": 3
+			"item": "Desc_FicsiteIngot_C",
+			"amount": 1
 		}
 	],
 	"producedIn": [

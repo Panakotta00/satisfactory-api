@@ -7,6 +7,10 @@
 	"ingredients": [
 		{
 			"item": "Desc_Cement_C",
+			"amount": 8
+		},
+		{
+			"item": "Desc_Cement_C",
 			"amount": 2
 		}
 	],
